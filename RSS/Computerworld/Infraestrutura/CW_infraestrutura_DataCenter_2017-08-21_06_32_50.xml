@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://computerworld.com.br/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"> <channel> <title>RSS Assunto</title>
+ <description>Portal sobre tecnologia da informação e telecomunicações</description>
+ <link>http://computerworld.com.br/</link>
+ <atom:link rel="self" href="http://computerworld.com.br/rss_assunto/Data%20Center" />
+ <language>pt-br</language>
+ <item> <title>Troca privada de dados entre empresas deve superar a internet, indica estudo</title>
+ <link>http://computerworld.com.br/troca-privada-de-dados-entre-empresas-deve-superar-internet-indica-estudo</link>
+ <description>A troca de dados entre empresas deve alcançar um volume cerca de seis vezes superior ao tráfego IP global até 2020, de acordo com o Global Interconnection Index</description>
+ <pubDate>qui, 17 ago 2017 16:01:30 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Data%20Center">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/binario_2.jpg" fileSize="59603" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>UOLDiveo adota tecnologia flash para ampliar oferta de serviços de data center</title>
+ <link>http://computerworld.com.br/uoldiveo-adota-tecnologia-flash-para-ampliar-oferta-de-servicos-de-data-center</link>
+ <description>Com a tecnologia totalmente flash da Pure Storage, empresa reduziu espaço físico no data center, diminuiu consumo de energia e expandiu portfólio de serviços</description>
+ <pubDate>ter, 15 ago 2017 12:21:40 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Data%20Center">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/data_center3_0.jpg" fileSize="140057" type="image/jpeg" width="1000" height="667" />
+</item>
+ <item> <title>Apple investirá US$ 921 milhões em novo data center na Dinamarca</title>
+ <link>http://computerworld.com.br/apple-investira-us-921-milhoes-em-novo-data-center-na-dinamarca</link>
+ <description>Unidade será o segundo centro de processamento da companhia no país europeu. Instalação dará suporte a serviços online e será alimentada totalmente com energia renovável</description>
+ <pubDate>seg, 10 jul 2017 12:51:57 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Data%20Center">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/apple-fachada_625.jpg" fileSize="59948" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Odata investe US$ 100 milhões na Colômbia e inicia nova fase de data center em SP</title>
+ <link>http://computerworld.com.br/odata-investe-us-100-milhoes-na-colombia-e-inicia-nova-fase-de-data-center-em-sp</link>
+ <description>O primeiro prédio, que começa a ser construído no segundo semestre deste ano e entrará em funcionamento no começo de 2018, ficará localizado próximo a capital Bogotá</description>
+ <pubDate>qui, 29 jun 2017 17:36:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Data%20Center">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/data_center3.jpg" fileSize="140057" type="image/jpeg" width="1000" height="667" />
+</item>
+ <item> <title>Carro autônomo: A chave está no data center</title>
+ <link>http://computerworld.com.br/carro-autonomo-chave-esta-no-data-center</link>
+ <description>O veículo autônomo típico, dirigido cerca de 90 minutos por dia, gerará cerca de 4 terabytes de dados. Para atender esta demanda, a disponibilidade do data center será crucial</description>
+ <pubDate>qui, 29 jun 2017 16:10:03 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Data%20Center">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/car-2206416_1920_0.jpg" fileSize="415749" type="image/jpeg" width="1920" height="1279" />
+</item>
+ <item> <title>Lenovo anuncia novo portfólio de infraestrutura para data center</title>
+ <link>http://computerworld.com.br/lenovo-anuncia-novo-portfolio-de-infraestrutura-para-data-center</link>
+ <description>Fabricante chinesa lançou nesta terça-feira, 20, o que classifica como seu maior e mais abrangente portfólio de servidores, sistemas de armazenamento, dispositivos de rede, softwares e serviços para data center</description>
+ <pubDate>ter, 20 jun 2017 19:53:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Data%20Center">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/lenovo-thinkserver.jpg" fileSize="68647" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Mandic adquire divisão de prestação de serviços cloud computing da Ascenty</title>
+ <link>http://computerworld.com.br/mandic-adquire-divisao-de-prestacao-de-servicos-cloud-computing-da-ascenty</link>
+ <description>Com a transação, cujo valor não foi revelado, a Mandic passará a utilizar a infraestrutura de data center e conectividade da Ascenty para oferta de serviços em nuvem</description>
+ <pubDate>ter, 20 jun 2017 12:39:12 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Data%20Center">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/negocios_3.jpg" fileSize="68063" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Equinix assina acordo definitivo com Verizon e adquire 29 data centers por US$ 3,6 bilhões</title>
+ <link>http://computerworld.com.br/equinix-assina-acordo-definitivo-com-verizon-e-adquire-29-data-centers-por-us-36-bilhoes</link>
+ <description>Aquisição traz 600 novos clientes para a carteira da companhia, além de ampliar sua presença em três novos mercados — Bogotá, Culpeper e Houston</description>
+ <pubDate>seg, 01 mai 2017 22:23:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Data%20Center">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/data_center_13.jpg" fileSize="91087" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Ascenty coloca em operação sexto data center no Brasil, de R$ 200 milhões</title>
+ <link>http://computerworld.com.br/ascenty-coloca-em-operacao-sexto-data-center-no-brasil-de-r-200-milhoes</link>
+ <description>Nova unidade, denominada São Paulo 2, conta subestação própria, com 20 MVA de potência total e entrada redundante de energia, e sistema de resfriamento interno</description>
+ <pubDate>seg, 24 abr 2017 13:49:08 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Data%20Center">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/data_center_12.jpg" fileSize="91087" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Realidade virtual e realidade aumentada: A reinvenção do data center</title>
+ <link>http://computerworld.com.br/realidade-virtual-e-realidade-aumentada-reinvencao-do-data-center</link>
+ <description>Soluções de VR/AR demandam profundas mudanças na infraestrutura de TIC, em especial nos data centers, o coração de todas as aplicações virtuais</description>
+ <pubDate>qui, 13 abr 2017 12:23:47 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Data%20Center">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/realidade_virtual_1.jpg" fileSize="121156" type="image/jpeg" width="625" height="469" />
+</item>
+</channel>
+</rss>

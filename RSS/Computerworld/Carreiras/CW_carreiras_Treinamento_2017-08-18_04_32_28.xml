@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://computerworld.com.br/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"> <channel> <title>RSS Assunto</title>
+ <description>Portal sobre tecnologia da informação e telecomunicações</description>
+ <link>http://computerworld.com.br/</link>
+ <atom:link rel="self" href="http://computerworld.com.br/rss_assunto/Treinamento" />
+ <language>pt-br</language>
+ <item> <title>Temporada de trainees: TCS abre 74 vagas para SP, MG, ES e RJ</title>
+ <link>http://computerworld.com.br/temporada-de-trainees-tcs-abre-74-vagas-para-sp-mg-es-e-rj</link>
+ <description>A companhia irá selecionar alunos de cursos de tecnologia, administração e engenharias em geral. Contratações começam em agosto</description>
+ <pubDate>seg, 24 jul 2017 23:56:38 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Treinamento">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/empregos_1.jpg" fileSize="52944" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>SAP Labs e Sociedade Brasileira de Computação firmam acordo para capacitação talentos em TI</title>
+ <link>http://computerworld.com.br/sap-labs-e-sociedade-brasileira-de-computacao-firmam-acordo-para-capacitacao-talentos-em-ti</link>
+ <description>Entre iniciativas da SBC, o laboratório vai sediar os eventos Escola de Inverno e Maratona de Programação</description>
+ <pubDate>qui, 22 jun 2017 15:24:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Treinamento">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/lab.jpg" fileSize="54522" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Google oferece treinamento gratuito para profissionais de tecnologia no Brasil</title>
+ <link>http://computerworld.com.br/google-oferece-treinamento-gratuito-para-profissionais-de-tecnologia-no-brasil</link>
+ <description>Inscrições podem ser feitas até um dia antes do evento, que acontecerá em 2 de junho, no Allianz Parque, em São Paulo, e no DevCamp, em Campinas</description>
+ <pubDate>seg, 22 mai 2017 19:46:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Treinamento">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/treinamento_2.jpg" fileSize="60585" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Consultoria americana cria projeto para ajudar empresas de TI do Brasil a vender nos EUA</title>
+ <link>http://computerworld.com.br/consultoria-americana-cria-projeto-para-ajudar-empresas-de-ti-do-brasil-vender-nos-eua</link>
+ <description>Aluno permanecerá meio período aprendendo modelos práticos de cada fase da negociação, e o restante do dia vai para um escritório compartilhado vivenciar o ambiente corporativo americano</description>
+ <pubDate>sex, 31 mar 2017 15:42:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Treinamento">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/treinamento_1.jpg" fileSize="80729" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Opinião: vantagens do mobile learning para treinamento corporativo</title>
+ <link>http://computerworld.com.br/opiniao-vantagens-do-mobile-learning-para-treinamento-corporativo</link>
+ <description>Aprendizagem digital “on the go” dá ao colaborador mais liberdade para aprender da forma como desejar.</description>
+ <pubDate>dom, 05 mar 2017 23:31:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Treinamento">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/qranio_logo.jpg" fileSize="50777" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Prazo para participar do programa Brasil Mais TI termina neste domingo</title>
+ <link>http://computerworld.com.br/prazo-para-participar-do-programa-brasil-mais-ti-termina-neste-domingo</link>
+ <description>Organizações da sociedade civil selecionadas vão atuar na capacitação de jovens e adultos em TI</description>
+ <pubDate>sex, 02 dez 2016 19:54:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Treinamento">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/ensino.jpg" fileSize="76774" type="image/jpeg" width="625" height="468" />
+</item>
+ <item> <title>Senac lança pós-graduação a distância de Cloud Computing</title>
+ <link>http://computerworld.com.br/senac-lanca-pos-graduacao-distancia-de-cloud-computing</link>
+ <description>Curso prevê situações de ensino nas quais o conteúdo é trabalhado de forma contextualizada no ambiente virtual de aprendizagem.</description>
+ <pubDate>qua, 09 nov 2016 15:08:25 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Treinamento">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/cloud_global_nuvem_estrategia_0.jpg" fileSize="49382" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>MicroStrategy oferece solução gratuita de Big Data</title>
+ <link>http://computerworld.com.br/microstrategy-oferece-solucao-gratuita-de-big-data</link>
+ <description>Companhia também irá disponibilizar, gratuitamente, um programa de treinamentos orientado ao uso de ferramentas analíticas</description>
+ <pubDate>seg, 07 nov 2016 15:29:29 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Treinamento">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/digital_dados.jpg" fileSize="64723" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Ericsson assina acordo com Senai para capacitar jovens em TI</title>
+ <link>http://computerworld.com.br/ericsson-assina-acordo-com-senai-para-capacitar-jovens-em-ti</link>
+ <description>Participantes do programa terão 884 horas dedicadas, sendo 220 no Senai-SP, 316 no Sesi-SP e 348 na própria Ericsson</description>
+ <pubDate>ter, 01 nov 2016 17:03:48 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Treinamento">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/relogio_transformacao_digital.jpg" fileSize="43884" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Programa educacional da Amazon forma profissionais para computação em nuvem</title>
+ <link>http://computerworld.com.br/programa-educacional-da-amazon-forma-profissionais-para-computacao-em-nuvem</link>
+ <description>O AWS Educate capacita para cargos como arquiteto de nuvem ou especialista em Big Data, e conecta os alunos a grandes empregadores da área</description>
+ <pubDate>qui, 20 out 2016 10:37:23 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Treinamento">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/aws_educate.jpg" fileSize="48203" type="image/jpeg" width="625" height="469" />
+</item>
+</channel>
+</rss>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://computerworld.com.br/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"> <channel> <title>RSS Assunto</title>
+ <description>Portal sobre tecnologia da informação e telecomunicações</description>
+ <link>http://computerworld.com.br/</link>
+ <atom:link rel="self" href="http://computerworld.com.br/rss_assunto/Cloud%20Privada" />
+ <language>pt-br</language>
+ <item> <title>Farmoquímica migra ambiente de TI para nuvem e troca banco de dados</title>
+ <link>http://computerworld.com.br/farmoquimica-migra-ambiente-de-ti-para-nuvem-e-troca-banco-de-dados</link>
+ <description>Companhia leva soluções para cloud, ao mesmo tempo em que substitui o banco de dados SQL pelo HANA, num movimento preparatório para adoção do S4/HANA</description>
+ <pubDate>ter, 08 ago 2017 19:53:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Cloud%20Privada">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/nuvem_9.jpg" fileSize="44396" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Oracle amplia Cloud at Customer para auxiliar clientes na transformação digital</title>
+ <link>http://computerworld.com.br/oracle-amplia-cloud-customer-para-auxiliar-clientes-na-transformacao-digital</link>
+ <description>Plataforma oferece serviços SaaS, PaaS e IaaS em nuvens públicas empresariais nos próprios datacenters dos clientes</description>
+ <pubDate>seg, 24 jul 2017 15:57:28 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Cloud%20Privada">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/cloud-1280440_1280.jpg" fileSize="37765" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Autopass investe mais de R$ 16 mi e migra aplicações para nuvem</title>
+ <link>http://computerworld.com.br/autopass-investe-mais-de-r-16-mi-e-migra-aplicacoes-para-nuvem</link>
+ <description>Responsável pela operação do Bom, cartão de transporte da região metropolitana de São Paulo, empresa contratou infraestrutura de nuvem privada do UOLDiveo</description>
+ <pubDate>sex, 21 jul 2017 11:17:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Cloud%20Privada">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/autopass2.jpg" fileSize="46967" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>CGK cria serviço de gestão profissional de TI em nuvem</title>
+ <link>http://computerworld.com.br/cgk-cria-servico-de-gestao-profissional-de-ti-em-nuvem</link>
+ <description>Serviço permite a pequenas e médias empresas contarem com os serviços de um CIO experiente a um custo mensal, no mesmo formato de serviços e soluções em nuvem</description>
+ <pubDate>ter, 11 jul 2017 19:50:25 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Cloud%20Privada">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/gestao_3.jpg" fileSize="53431" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Gigante Beauty Services leva operações para a nuvem</title>
+ <link>http://computerworld.com.br/gigante-beauty-services-leva-operacoes-para-nuvem</link>
+ <description>Maior distribuidora de perfumaria de luxo do país e franqueadora da marca Havanna usa inovação para superar caos operacional e crescer</description>
+ <pubDate>sex, 23 jun 2017 21:09:23 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Cloud%20Privada">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/nuvem_6.jpg" fileSize="44396" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>OpenStack libera Ocata, nova versão da plataforma de nuvem com foco em contêineres</title>
+ <link>http://computerworld.com.br/openstack-libera-ocata-nova-versao-da-plataforma-de-nuvem-com-foco-em-conteineres</link>
+ <description>Entre as novas funcionalidades da nova versão da plataforma de nuvem de código aberto estão uma série de melhorias para ajudar suportar mais cargas de trabalho em contêineres na camada de rede </description>
+ <pubDate>qui, 23 fev 2017 12:32:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Cloud%20Privada">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/openstack.jpg" fileSize="29783" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Grupo de ensino migra sistemas para nuvem e eleva em 50% desempenho de servidor</title>
+ <link>http://computerworld.com.br/grupo-de-ensino-migra-sistemas-para-nuvem-e-eleva-em-50-desempenho-de-servidor</link>
+ <description>Área de TI, departamento financeiro, alunos e professores do Grupo Raiz Educação são os principais beneficiados pela migração dos sistemas para um serviço em nuvem</description>
+ <pubDate>qui, 23 fev 2017 09:54:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Cloud%20Privada">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/cloud-computing4_0.jpg" fileSize="43863" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>RTM investe R$ 3 milhões em startup para oferta de plataforma a mesas de operações</title>
+ <link>http://computerworld.com.br/rtm-investe-r-3-milhoes-em-startup-para-oferta-de-plataforma-mesas-de-operacoes</link>
+ <description>Fornecedora de serviços em nuvem para o mercado financeiro fez o aporte na Byne, startup especializada em soluções de comunicação crítica</description>
+ <pubDate>sex, 13 jan 2017 16:02:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Cloud%20Privada">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/operacoes_0.jpg" fileSize="105418" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Via Varejo adota plataforma de videocolaboração em nuvem e aumenta produtividade</title>
+ <link>http://computerworld.com.br/varejo-adota-plataforma-de-videocolaboracao-em-nuvem-e-aumenta-produtividade</link>
+ <description>Tecnologia agilizou a comunicação entre os profissionais espalhados por diversas localidades e agilizou a tomada de decisões</description>
+ <pubDate>dom, 08 jan 2017 23:31:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Cloud%20Privada">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/colaboracao_0.jpg" fileSize="86229" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Alunos e professores da USP terão acesso a serviço em nuvem da Amazon</title>
+ <link>http://computerworld.com.br/alunos-e-professores-da-usp-terao-acesso-servico-em-nuvem-da-amazon</link>
+ <description>Inicialmente, parceria levará a plataforma Amazon Web Services para a Escola Politécnica (Poli). Expansão já está nos planos</description>
+ <pubDate>sex, 09 dez 2016 16:48:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Cloud%20Privada">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/cloud3.jpg" fileSize="38130" type="image/jpeg" width="625" height="469" />
+</item>
+</channel>
+</rss>

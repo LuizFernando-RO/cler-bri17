@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://computerworld.com.br/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"> <channel> <title>RSS Tema</title>
+ <description>Portal sobre tecnologia da informação e telecomunicações</description>
+ <link>http://computerworld.com.br/</link>
+ <atom:link rel="self" href="http://computerworld.com.br/rss_tema/TI%20na%20Pr%C3%A1tica" />
+ <language>pt-br</language>
+ <item> <title>Hospital Unimed Recife III economiza mais de R$ 6 mi com operação 100% digital</title>
+ <link>http://computerworld.com.br/hospital-unimed-recife-iii-economiza-mais-de-r-6-mi-com-operacao-100-digital</link>
+ <description>Somente a adoção do prontuário eletrônico garantiu maior controle ao processo, redução de erros e economia de R$ 820 mil</description>
+ <guid isPermaLink="false">http://computerworld.com.br/hospital-unimed-recife-iii-economiza-mais-de-r-6-mi-com-operacao-100-digital</guid>
+ <pubDate>Wed, 22 Feb 2017 17:50:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/TI%20na%20Pr%C3%A1tica">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/prontuario_eletronico.jpg" fileSize="33076" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>CPFL conecta unidades de apoio com vídeo colaboração e aumenta produtividade</title>
+ <link>http://computerworld.com.br/cpfl-conecta-unidades-de-apoio-com-video-colaboracao-e-aumenta-produtividade</link>
+ <description>Ao implantar um sistema de colaboração, a companhia de geração e distribuição de energia promoveu a integração das estratégias de prestação de serviços</description>
+ <guid isPermaLink="false">http://computerworld.com.br/cpfl-conecta-unidades-de-apoio-com-video-colaboracao-e-aumenta-produtividade</guid>
+ <pubDate>Tue, 17 Jan 2017 10:22:29 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/TI%20na%20Pr%C3%A1tica">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/energia_eletrica.jpg" fileSize="80115" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Empresa de TI da Prefeitura de Recife adota assistente virtual para melhorar atendimento</title>
+ <link>http://computerworld.com.br/empresa-de-ti-da-prefeitura-de-recife-adota-assistente-virtual-para-melhorar-atendimento</link>
+ <description>Com implantação da plataforma, Emprel espera aumentar o nível de qualidade e eficiência no atendimento aos usuários do service desk e serviços de campo</description>
+ <guid isPermaLink="false">http://computerworld.com.br/empresa-de-ti-da-prefeitura-de-recife-adota-assistente-virtual-para-melhorar-atendimento</guid>
+ <pubDate>Tue, 10 Jan 2017 14:09:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/TI%20na%20Pr%C3%A1tica">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/assistente_virtual_0.jpg" fileSize="64997" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Nap IT garante eficiência nos negócios com ferramenta de monitoramento de rede</title>
+ <link>http://computerworld.com.br/nap-it-garante-eficiencia-nos-negocios-com-ferramenta-de-monitoramento-de-rede</link>
+ <description>Integradora de redes implanta solução PRTG Network Monitor para garantir desempenho e disponibilidade das infraestruturas de TI</description>
+ <guid isPermaLink="false">http://computerworld.com.br/nap-it-garante-eficiencia-nos-negocios-com-ferramenta-de-monitoramento-de-rede</guid>
+ <pubDate>Tue, 10 Jan 2017 11:52:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/TI%20na%20Pr%C3%A1tica">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/monitoramento_1.jpg" fileSize="64665" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Consumidores e empresas esperam respostas às suas solicitações em tempo real</title>
+ <link>http://computerworld.com.br/consumidores-e-empresas-esperam-respostas-suas-solicitacoes-em-tempo-real</link>
+ <description>Estudo revela, entre outras coisas, que 64% dos consumidores e 80% dos compradores corporativos esperam respostas em tempo real das companhias</description>
+ <guid isPermaLink="false">http://computerworld.com.br/consumidores-e-empresas-esperam-respostas-suas-solicitacoes-em-tempo-real</guid>
+ <pubDate>Mon, 09 Jan 2017 16:38:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/TI%20na%20Pr%C3%A1tica">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/atendimento.jpg" fileSize="30370" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>AT&amp;amp;T, Ford e Delphi avançam em comunicações sem fio para carros e smart cities</title>
+ <link>http://computerworld.com.br/att-ford-e-delphi-avancam-em-comunicacoes-sem-fio-para-carros-e-smart-cities</link>
+ <description>Plataforma Vehicle-To-Anything é essencial para cidades inteligentes e é projetada para evitar colisões entre carros autônomos</description>
+ <guid isPermaLink="false">http://computerworld.com.br/att-ford-e-delphi-avancam-em-comunicacoes-sem-fio-para-carros-e-smart-cities</guid>
+ <pubDate>Thu, 05 Jan 2017 14:13:20 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/TI%20na%20Pr%C3%A1tica">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/carro-transito.jpg" fileSize="47186" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>SulAmerica acelera transformação digital com projeto arrojado</title>
+ <link>http://computerworld.com.br/sulamerica-acelera-transformacao-digital-com-projeto-arrojado</link>
+ <description>Implantação contou com consultoria da CI&amp;amp;T, que ficou responsável pelo analytics, prototipagem, impressão em 3D e desenvolvimento de aplicações móveis</description>
+ <guid isPermaLink="false">http://computerworld.com.br/sulamerica-acelera-transformacao-digital-com-projeto-arrojado</guid>
+ <pubDate>Wed, 21 Dec 2016 19:14:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/TI%20na%20Pr%C3%A1tica">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/software3.jpg" fileSize="65391" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Conexão direta entre o Design Thinking e o método ágil</title>
+ <link>http://computerworld.com.br/conexao-direta-entre-o-design-thinking-e-o-metodo-agil</link>
+ <description>A técnica MVP é largamente adotada pelos seguidores de métodos ágeis – método este que também apresenta excelente integração com o Design Thinking</description>
+ <guid isPermaLink="false">http://computerworld.com.br/conexao-direta-entre-o-design-thinking-e-o-metodo-agil</guid>
+ <pubDate>Fri, 16 Dec 2016 12:27:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/TI%20na%20Pr%C3%A1tica">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/dt-computerworld-ilustracao.jpg" fileSize="47097" type="image/jpeg" width="625" height="425" />
+</item>
+ <item> <title>Algar investe em fundo de investimentos da Microsoft</title>
+ <link>http://computerworld.com.br/algar-investe-em-fundo-de-investimentos-da-microsoft</link>
+ <description>Adesão do grupo ao fundo faz parte da sua iniciativa de corporate venture capital direcionada a investimentos em inovação disruptiva</description>
+ <guid isPermaLink="false">http://computerworld.com.br/algar-investe-em-fundo-de-investimentos-da-microsoft</guid>
+ <pubDate>Thu, 08 Dec 2016 13:18:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/TI%20na%20Pr%C3%A1tica">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/investimento.jpg" fileSize="47380" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>CI&amp;amp;T investe R$ 10 mi em espaço de criação de experiências digitais</title>
+ <link>http://computerworld.com.br/cit-investe-r-10-mi-em-espaco-de-criacao-de-experiencias-digitais</link>
+ <description>O novo espaço, chamado de Prisma, fica no Pólis de Tecnologia em Campinas. Empresa aposta em ambientes de cocriação para estimular transformação digital</description>
+ <guid isPermaLink="false">http://computerworld.com.br/cit-investe-r-10-mi-em-espaco-de-criacao-de-experiencias-digitais</guid>
+ <pubDate>Mon, 05 Dec 2016 13:03:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/TI%20na%20Pr%C3%A1tica">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/transformation.jpg" fileSize="46063" type="image/jpeg" width="625" height="469" />
+</item>
+</channel>
+</rss>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://computerworld.com.br/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"> <channel> <title>RSS Assunto</title>
+ <description>Portal sobre tecnologia da informação e telecomunicações</description>
+ <link>http://computerworld.com.br/</link>
+ <atom:link rel="self" href="http://computerworld.com.br/rss_assunto/Wireless" />
+ <language>pt-br</language>
+ <item> <title>Implante de chip de identificação em humanos vai precisar de autorização</title>
+ <link>http://computerworld.com.br/implante-de-chip-de-identificacao-em-humanos-vai-precisar-de-autorizacao</link>
+ <description>Comissão de Segurança da Câmara aprovou proposta que proíbe a implantação, exceto nos casos em que haja determinação judicial e autorização da própria pessoa</description>
+ <pubDate>sex, 18 ago 2017 18:47:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Wireless">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/ia9.jpg" fileSize="123069" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>4G atinge 2,16 bilhões de conexões no primeiro trimestre</title>
+ <link>http://computerworld.com.br/4g-atinge-216-bilhoes-de-conexoes-no-primeiro-trimestre</link>
+ <description>Participação da tecnologia LTE no mercado global subiu para 28% na comparação com todas as outras tecnologias móveis, o que representa um aumento de 11 pontos percentuais em um ano</description>
+ <pubDate>qua, 14 jun 2017 18:02:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Wireless">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/4g_1.jpg" fileSize="79144" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Disney Research desenvolve método sem fio para carga de energia em dispositivos</title>
+ <link>http://computerworld.com.br/disney-research-desenvolve-metodo-sem-fio-para-carga-de-energia-em-dispositivos</link>
+ <description>Sistema wireless pode conduzir até 1.900 watts de potência com segurança entre transmissores e um dispositivo móvel, com um nível de eficiência entre os 40% e 95%</description>
+ <pubDate>sex, 24 fev 2017 13:37:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Wireless">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/tablet_smartphone.jpg" fileSize="26734" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Novo VP de vendas para América Latina da Riverbed aposta em cloud para crescer</title>
+ <link>http://computerworld.com.br/novo-vp-de-vendas-para-america-latina-da-riverbed-aposta-em-cloud-para-crescer</link>
+ <description>Rosano Moraes, ex-CA Technologies, entra para capitalizar o interesse crescente das empresas em soluções de rede definidas por software</description>
+ <pubDate>qui, 16 fev 2017 16:56:34 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Wireless">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/redes_conexao.jpg" fileSize="114499" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>GSMA quer apoio de governos a plano global de espectro para 5G</title>
+ <link>http://computerworld.com.br/gsma-quer-apoio-de-governos-plano-global-de-espectro-para-5g</link>
+ <description>Associação quer que os governos se comprometam a disponibilizar espectro suficiente para permitir velocidades mais altas com a tecnologia</description>
+ <pubDate>qui, 02 fev 2017 11:13:23 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Wireless">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/5g2.jpg" fileSize="56834" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>5G e LTE serão as infraestruturas de Internet das Coisas, diz 5G Americas</title>
+ <link>http://computerworld.com.br/5g-e-lte-serao-infraestruturas-de-internet-das-coisas-diz-5g-americas</link>
+ <description>Relatório da organização que administra os dois padrões afirma que os principais objetivos da IoT serão alcançados através da conectividade celular</description>
+ <pubDate>sex, 09 dez 2016 13:28:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Wireless">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/iot2_0.jpg" fileSize="84270" type="image/jpeg" width="625" height="462" />
+</item>
+ <item> <title>2016: O ano em que tecnologia 5G realmente decolou </title>
+ <link>http://computerworld.com.br/2016-o-ano-que-tecnologia-5g-realmente-decolou</link>
+ <description>Mas, apesar dos avanços no desenvolvimento e dos testes de campo com a tecnologia, as novas redes ainda devem demorar para chegar aos consumidores</description>
+ <pubDate>seg, 21 nov 2016 16:53:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Wireless">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/5g.jpg" fileSize="40021" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Conheça o Wi-FI HaLow, o padrão de conexões para a Internet das Coisas</title>
+ <link>http://computerworld.com.br/conheca-o-wi-fi-halow-o-padrao-de-conexoes-para-internet-das-coisas</link>
+ <description>Essa nova versão de Wi-Fi é baseada na especificação IEEE 802.11ah e foi anunciada esta semana pela Wi-Fi Alliance</description>
+ <pubDate>seg, 04 jan 2016 17:42:07 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Wireless">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/internet_das_coisas_iot.jpg" fileSize="48004" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Aruba Networks projeta crescimento de 30% no Brasil em 2015</title>
+ <link>http://computerworld.com.br/aruba-networks-projeta-crescimento-de-30-no-brasil-em-2015</link>
+ <description>Fabricante de tecnologia de rede adquirida pela HP em março contabiliza expansão na base de clientes atendidos no mercado nacional</description>
+ <pubDate>seg, 06 jul 2015 17:36:52 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Wireless">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/wifi_sem_fio.jpg" fileSize="25962" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Sua empresa vai adotar BYOD. Eis o que você deve saber sobre o processo</title>
+ <link>http://computerworld.com.br/sua-empresa-vai-adotar-byod-eis-o-que-voce-deve-saber-sobre-o-processo</link>
+ <description>Se a sua empresa já não implementou um programa de BYOD (Bring-Your-Own-Device), é provável que o adote em breve. Prepare-se para isso </description>
+ <pubDate>dom, 28 jun 2015 17:27:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Wireless">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/byod_0.jpg" fileSize="51495" type="image/jpeg" width="625" height="468" />
+</item>
+</channel>
+</rss>

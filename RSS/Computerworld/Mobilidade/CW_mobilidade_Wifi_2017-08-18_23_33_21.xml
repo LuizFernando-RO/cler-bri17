@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://computerworld.com.br/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"> <channel> <title>RSS Assunto</title>
+ <description>Portal sobre tecnologia da informação e telecomunicações</description>
+ <link>http://computerworld.com.br/</link>
+ <atom:link rel="self" href="http://computerworld.com.br/rss_assunto/Wi-Fi" />
+ <language>pt-br</language>
+ <item> <title>JR Diesel troca rede Wi-Fi e reduz gastos com operação</title>
+ <link>http://computerworld.com.br/jr-diesel-troca-rede-wi-fi-e-reduz-gastos-com-operacao</link>
+ <description>Centro de desmontagem de caminhões aumentou eficiência das suas operações em 50% já no primeiro mês de utilização das soluções da Open Mesh</description>
+ <pubDate>qui, 10 ago 2017 17:47:36 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Wi-Fi">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/wlan.jpg" fileSize="56518" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Motorola Solutions adquire Airbus DS e entra na área de software para centros de controle</title>
+ <link>http://computerworld.com.br/motorola-solutions-adquire-airbus-ds-e-entra-na-area-de-software-para-centros-de-controle</link>
+ <description>Com aquisição, empresa expande oferta de soluções para o gerenciamento de chamadas de emergência em centros de comando e controle voltadas a empresas de todos os portes</description>
+ <pubDate>seg, 31 jul 2017 19:03:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Wi-Fi">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/company-115883_1920.jpg" fileSize="182958" type="image/jpeg" width="1920" height="1357" />
+</item>
+ <item> <title>Riverbed adquire empresa de redes sem fio de alto desempenho Xirrus</title>
+ <link>http://computerworld.com.br/riverbed-adquire-empresa-de-redes-sem-fio-de-alto-desempenho-xirrus</link>
+ <description>Companhia vai integrar soluções Wi-Fi da Xirrus ao seu portfólio, junto às ofertas de redes de longa distância baseadas em software (SD-WAN). O valor do negócio não foi revelado</description>
+ <pubDate>seg, 24 abr 2017 18:49:24 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Wi-Fi">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/negocios_1.jpg" fileSize="68063" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Apenas 5% dos fundos de telecom são usados para sua finalidade, segundo TCU</title>
+ <link>http://computerworld.com.br/apenas-5-dos-fundos-de-telecom-sao-usados-para-sua-finalidade-segundo-tcu</link>
+ <description>Tribunal aponta a necessidade de maior controle e transparência sobre a utilização desses recursos</description>
+ <pubDate>qui, 13 abr 2017 17:30:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Wi-Fi">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/smartphone7.jpg" fileSize="50923" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Como dimensionar uma rede Wi-Fi corporativa</title>
+ <link>http://computerworld.com.br/como-dimensionar-uma-rede-wi-fi-corporativa</link>
+ <description>Responsável pelo background da maioria das ferramentas tecnológicas e produtividade do colaborador, o Wi-Fi ainda tem o planejamento deixado de lado</description>
+ <pubDate>seg, 06 fev 2017 12:39:09 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Wi-Fi">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/wi-fi_0.jpg" fileSize="34115" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Metrô de SP anuncia Wi-Fi gratuito em mais 34 estações</title>
+ <link>http://computerworld.com.br/metro-de-sp-anuncia-wi-fi-gratuito-em-mais-34-estacoes</link>
+ <description>Projeto feito em parceria com a iniciativa privada começa a ser lançado no domingo, 5/2, e o lançamento completo acontece em 1º de março</description>
+ <pubDate>qui, 02 fev 2017 15:56:17 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Wi-Fi">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/metro.jpg" fileSize="62093" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Roteadores domésticos se tornam alvos preferenciais de ciberataques</title>
+ <link>http://computerworld.com.br/roteadores-domesticos-se-tornam-alvos-preferenciais-de-ciberataques</link>
+ <description>Por meio de ataques de negação de serviço, hackers se infiltram em dispositivos e redes das vítimas, aponta estudo da Trend Micro</description>
+ <pubDate>qui, 22 dez 2016 23:08:49 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Wi-Fi">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/roteador_wireless_0.jpg" fileSize="30883" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Pesquisadores descobrem método que triplica velocidade de conexão wireless</title>
+ <link>http://computerworld.com.br/pesquisadores-descobrem-metodo-que-triplica-velocidade-de-conexao-wireless</link>
+ <description>Cientistas do MIT desenvolveram uma técnica para coordenar múltiplos transmissores sincronizando fases de onda</description>
+ <pubDate>ter, 23 ago 2016 11:00:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Wi-Fi">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/wifi_wireless_beacon_digital.jpg" fileSize="41570" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>TIM adota solução Huawei para melhorar qualidade de cobertura indoor</title>
+ <link>http://computerworld.com.br/tim-adota-solucao-huawei-para-melhorar-qualidade-de-conexao-indoor</link>
+ <description>Desempenho verificado no projeto fez com que a operadora inserisse a tecnologia Lampsite em seu portfólio de ofertas ao mercado</description>
+ <pubDate>ter, 02 ago 2016 17:02:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Wi-Fi">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/velocidade_internet_wifi.jpg" fileSize="55123" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Binário entrega rede Wi-Fi para eventos da RNP menos de 48 horas</title>
+ <link>http://computerworld.com.br/binario-entrega-rede-wi-fi-para-eventos-da-rnp-menos-de-48-horas</link>
+ <description>Projeto teve capacidade para suportar mais de 2 mil usuários e garantiu tráfego de dados de 500 gigabites em rede sem fio</description>
+ <pubDate>qui, 21 jul 2016 11:43:15 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Wi-Fi">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/wifi_sem_fio.jpg" fileSize="25962" type="image/jpeg" width="625" height="469" />
+</item>
+</channel>
+</rss>

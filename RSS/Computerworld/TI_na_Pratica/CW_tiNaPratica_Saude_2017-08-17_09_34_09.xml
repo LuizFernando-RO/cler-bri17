@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://computerworld.com.br/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"> <channel> <title>RSS Assunto</title>
+ <description>Portal sobre tecnologia da informação e telecomunicações</description>
+ <link>http://computerworld.com.br/</link>
+ <atom:link rel="self" href="http://computerworld.com.br/rss_assunto/Sa%C3%BAde" />
+ <language>pt-br</language>
+ <item> <title>Assespro-SP comunica falecimento de Arildo Constantino</title>
+ <link>http://computerworld.com.br/assespro-sp-comunica-falecimento-de-arildo-constantino</link>
+ <description>Profissional havia sido reeleito como presidente da associação para o biênio 2017/2018 em dezembro de 2016, mas, por motivos de saúde, se afastou das atividades no início deste ano</description>
+ <pubDate>qua, 28 jun 2017 15:01:36 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Sa%C3%BAde">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/rip.jpg" fileSize="90309" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Metodologias ágeis otimizam o fluxo de doações de sangue no Brasil</title>
+ <link>http://computerworld.com.br/metodologias-ageis-otimizam-o-fluxo-de-doacoes-de-sangue-no-brasil</link>
+ <description>Projeto HemoHeroes foi criado por estudantes de TI da PUC-RS na Aceleradora de Métodos Ágeis, que tem parceria com a ThoughtWorks e a Microsoft</description>
+ <pubDate>qua, 28 dez 2016 11:31:15 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Sa%C3%BAde">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/sangue_doacao.jpg" fileSize="49856" type="image/jpeg" width="624" height="470" />
+</item>
+ <item> <title>Wolters Kluwer quer reduzir erros de prescrição médica com Medi-Span Clinical</title>
+ <link>http://computerworld.com.br/wolters-kluwer-quer-reduzir-erros-de-prescricao-medica-com-medi-span-clinical</link>
+ <description>Solução lançada no Brasil ajuda a usar o poder do Prontuário Eletrônico do Paciente (PEP) para aumentar a precisão da indicação de remédios</description>
+ <pubDate>ter, 08 nov 2016 21:37:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Sa%C3%BAde">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/monitor_medico.jpg" fileSize="38022" type="image/jpeg" width="625" height="468" />
+</item>
+ <item> <title>Hospital 9 de Julho e Microsoft vão desenvolver sistema  hospitalar em parceria</title>
+ <link>http://computerworld.com.br/hospital-9-de-julho-e-microsoft-vao-desenvolver-sistema-hospitalar-em-parceria</link>
+ <description>O primeiro projeto vai usar sensores inteligentes para evitar quedas de leitos, um problema mundial na área da saúde</description>
+ <pubDate>ter, 25 out 2016 17:57:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Sa%C3%BAde">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/hospital_9_de_julho.jpg" fileSize="70267" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Executivo especializado em soluções para saúde assume diretoria da Microsoft</title>
+ <link>http://computerworld.com.br/executivo-especializado-em-solucoes-para-saude-assume-diretoria-da-microsoft</link>
+ <description>Focado em IA, nuvem e Analytics para a área de saúde, Fábio Scopeta deixa a IBM para atuar com a plataforma Cortana da MS junto a desenvolvedores</description>
+ <pubDate>qui, 20 out 2016 16:26:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Sa%C3%BAde">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/cortana_tela_0.jpg" fileSize="32144" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Vertical saúde perde bilhões por causa de ataques digitais</title>
+ <link>http://computerworld.com.br/vertical-saude-perde-bilhoes-por-causa-de-ataques-digitais</link>
+ <description>A extrema criticidade dos dados de uma pessoa é o que torna as empresas do setor de saúde tão vulneráveis a ataques</description>
+ <pubDate>seg, 10 out 2016 16:38:52 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Sa%C3%BAde">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/saude_health_2.jpg" fileSize="107276" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Grupo cibercriminoso brasileiro cria ransomware para atacar hospitais</title>
+ <link>http://computerworld.com.br/grupo-cibercriminoso-brasileiro-cria-ransomware-para-atacar-hospitais</link>
+ <description>Segundo a Kaspersky, Brasil lidera entre os países com maior número de servidores RDP roubados, à frente de Rússia, EUA e Reino Unido</description>
+ <pubDate>sex, 30 set 2016 12:19:09 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Sa%C3%BAde">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/ramsoware_crime.png" fileSize="63583" type="image/png" width="625" height="469" />
+</item>
+ <item> <title>Philips colabora com Qualcomm para impulsionar IoT no setor de saúde</title>
+ <link>http://computerworld.com.br/philips-colabora-com-qualcomm-para-impulsionar-iot-no-setor-de-saude</link>
+ <description>Ideia é somar conhecimentos para desenvolver tecnologias conectadas para prevenção e gestão de doenças crônicas e cuidados domésticos</description>
+ <pubDate>qua, 14 set 2016 16:21:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Sa%C3%BAde">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/saude_health_0.jpg" fileSize="40550" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Mobilidade democratiza serviços de telessaúde na América Latina</title>
+ <link>http://computerworld.com.br/mobilidade-democratiza-servicos-de-telessaude-na-america-latina</link>
+ <description>Relatório da 5G Américas destaca que aplicativos móveis e banda larga sem fio podem viabilizar mais serviços médicos na região</description>
+ <pubDate>ter, 23 ago 2016 12:40:39 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Sa%C3%BAde">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/app_smartphone_saude.jpg" fileSize="38679" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Pfizer seleciona startups de saúde para programa de mentoria no Brasil</title>
+ <link>http://computerworld.com.br/pfizer-seleciona-startups-de-saude-para-programa-de-mentoria-no-brasil</link>
+ <description>Três empresas que apresentarem os projetos mais inovadores serão contempladas com programas de mentoria e aceleração</description>
+ <pubDate>sex, 12 ago 2016 14:40:13 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Sa%C3%BAde">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/smartphone_app_ux_mobilidade.jpg" fileSize="37037" type="image/jpeg" width="625" height="469" />
+</item>
+</channel>
+</rss>
