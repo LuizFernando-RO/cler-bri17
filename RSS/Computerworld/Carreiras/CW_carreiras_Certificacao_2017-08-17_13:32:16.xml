@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://computerworld.com.br/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"> <channel> <title>RSS Assunto</title>
+ <description>Portal sobre tecnologia da informação e telecomunicações</description>
+ <link>http://computerworld.com.br/</link>
+ <atom:link rel="self" href="http://computerworld.com.br/rss_assunto/Certifica%C3%A7%C3%A3o" />
+ <language>pt-br</language>
+ <item> <title>Certificações de TI extremamente valiosas para a carreira</title>
+ <link>http://computerworld.com.br/certificacoes-de-ti-extremamente-valiosas-para-carreira</link>
+ <description>Certificações continuam sendo uma maneira comprovada de ganhar habilidades rapidamente e demonstrar interesse e know-how em determinadas áreas</description>
+ <pubDate>seg, 17 jul 2017 15:28:53 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Certifica%C3%A7%C3%A3o">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/certificacao.jpg" fileSize="67238" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Banco Paulista aumenta produtividade com uso da assinatura digital</title>
+ <link>http://computerworld.com.br/banco-paulista-aumenta-produtividade-com-uso-da-assinatura-digital</link>
+ <description>Assinatura digital simplificou processos e deu mais agilidade ao banco, além de trazer inúmeras facilidades para os clientes</description>
+ <pubDate>ter, 13 jun 2017 00:01:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Certifica%C3%A7%C3%A3o">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/assinatura.jpg" fileSize="32672" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Profissionais de TI certificados têm desempenho melhor, mostra estudo</title>
+ <link>http://computerworld.com.br/profissionais-de-ti-certificados-tem-desempenho-melhor-mostra-estudo</link>
+ <description>Comprovar desempenho e domínio de conhecimento atrai a atenção de empregadores e abre portas na carreira, afirma estudo da IDC</description>
+ <pubDate>sex, 26 mai 2017 15:44:31 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Certifica%C3%A7%C3%A3o">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/certificado_0.jpg" fileSize="28008" type="image/jpeg" width="625" height="464" />
+</item>
+ <item> <title>Cursos grátis de gestão de projetos que o profissinal de TI não pode perder</title>
+ <link>http://computerworld.com.br/cursos-gratis-de-gestao-de-projetos-que-o-profissinal-de-ti-nao-pode-perder</link>
+ <description>Está difícil obter o conhecimento que você precisa? Preparamos um guia com opções de treinamento online</description>
+ <pubDate>qua, 26 abr 2017 20:06:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Certifica%C3%A7%C3%A3o">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/curso.jpg" fileSize="28936" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>CompTIA cria nova certificação para enfrentar o desafio global de segurança cibernética</title>
+ <link>http://computerworld.com.br/comptia-cria-nova-certificacao-para-enfrentar-o-desafio-global-de-seguranca-cibernetica</link>
+ <description>CompTIA Cybersecurity Analyst é voltada para detecção de ameaças, análise de dados e interpretação de resultados para identificar vulnerabilidades, ameaças e riscos</description>
+ <pubDate>seg, 10 abr 2017 14:23:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Certifica%C3%A7%C3%A3o">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/certificado.jpg" fileSize="32497" type="image/jpeg" width="625" height="464" />
+</item>
+ <item> <title>Oracle University amplia participação no Brasil</title>
+ <link>http://computerworld.com.br/oracle-university-amplia-participacao-no-brasil</link>
+ <description>Lançamento de novo modelo de ensino irá permitir a aprendizagem presencial e virtual</description>
+ <pubDate>qui, 06 abr 2017 23:09:15 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Certifica%C3%A7%C3%A3o">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/educacao_0.jpg" fileSize="135175" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Google ameaça punir Symantec por emissão incorreta de certificados SSL</title>
+ <link>http://computerworld.com.br/google-ameaca-punir-symantec-por-emissao-incorreta-de-certificados-ssl</link>
+ <description>Gigante das buscas diz que a empresa não adotou as práticas de segurança esperadas, tais como validação de controle de domínio e auditoria de logs. Symantec nega</description>
+ <pubDate>qua, 29 mar 2017 16:36:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Certifica%C3%A7%C3%A3o">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/symantec_0.jpg" fileSize="100132" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Competição digital Accenture Synapses está com inscrições abertas</title>
+ <link>http://computerworld.com.br/competicao-digital-accenture-synapses-esta-com-inscricoes-abertas</link>
+ <description>Projetado para estimular os participantes a desenvolver soluções e protótipos para problemas reais, desafio será realizada em maio, em São Paulo e Recife simultaneamente</description>
+ <pubDate>seg, 20 mar 2017 18:34:28 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Certifica%C3%A7%C3%A3o">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/jovem.jpg" fileSize="37758" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>UL obtém aval para certificar biometria de bancos brasileiros</title>
+ <link>http://computerworld.com.br/ul-obtem-aval-para-certificar-biometria-de-bancos-brasileiros</link>
+ <description>A validação tem apenas caráter indicativo, ou seja, não há qualquer obrigação de contratação por parte das instituições financeiras</description>
+ <pubDate>seg, 20 fev 2017 16:01:22 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Certifica%C3%A7%C3%A3o">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/biometria_0.jpg" fileSize="48631" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Metodologias de acreditação são garantia de benefícios reais a pacientes</title>
+ <link>http://computerworld.com.br/metodologias-de-acreditacao-sao-garantia-de-beneficios-reais-pacientes</link>
+ <description>São vários os programas de acreditação e certificação hospitalar cujo principal benefício é a segurança do paciente e, consequentemente, a preservação da vida</description>
+ <pubDate>seg, 28 nov 2016 19:18:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Certifica%C3%A7%C3%A3o">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/metodologia.jpg" fileSize="130654" type="image/jpeg" width="625" height="469" />
+</item>
+</channel>
+</rss>

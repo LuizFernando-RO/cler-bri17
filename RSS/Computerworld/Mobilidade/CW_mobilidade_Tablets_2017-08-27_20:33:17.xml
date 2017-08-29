@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://computerworld.com.br/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"> <channel> <title>RSS Assunto</title>
+ <description>Portal sobre tecnologia da informação e telecomunicações</description>
+ <link>http://computerworld.com.br/</link>
+ <atom:link rel="self" href="http://computerworld.com.br/rss_assunto/Tablets" />
+ <language>pt-br</language>
+ <item> <title>Microsoft lança upgrade do Surface Pro 4 com melhorias</title>
+ <link>http://computerworld.com.br/microsoft-lanca-upgrade-do-surface-pro-4-com-melhorias</link>
+ <description>Empresa apresentou nesta terça-feira, 23, a nova versão de seu tablet com desempenho 20% mais rápido e bateria de 13,5 horas</description>
+ <pubDate>ter, 23 mai 2017 12:00:20 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Tablets">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/surfacepro2017_625.jpg" fileSize="21894" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Vendas de tablets caem 32% no Brasil em 2016, aponta IDC</title>
+ <link>http://computerworld.com.br/vendas-de-tablets-caem-32-no-brasil-em-2016-aponta-idc</link>
+ <description>Mercado brasileiro de tablets fecha o segundo ano seguido em baixa após vender cerca de 4 milhões de dispositivos em 2016</description>
+ <pubDate>sex, 10 mar 2017 18:29:57 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Tablets">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/tablet_1.jpg" fileSize="90826" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Uso de dispositivos móveis no local de trabalho ainda não está consolidado</title>
+ <link>http://computerworld.com.br/uso-de-dispositivos-moveis-no-local-de-trabalho-ainda-nao-esta-consolidado</link>
+ <description>Desktops ainda são os equipamentos corporativos mais populares nos negócios, revela pesquisa do Gartner</description>
+ <pubDate>qua, 04 jan 2017 14:59:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Tablets">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/smartphone3.jpg" fileSize="83628" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Lenovo amplia portfólio corporativo no Brasil com PCs de R$ 10 mil</title>
+ <link>http://computerworld.com.br/lenovo-amplia-portfolio-corporativo-no-brasil-com-pcs-de-r-10-mil</link>
+ <description>ThinkPad X1 Carbon e o X1 Yoga já estão disponíveis através do site da fabricante no País</description>
+ <pubDate>seg, 06 jun 2016 13:56:38 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Tablets">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/lenovo-thumb_625.jpg" fileSize="43751" type="image/jpeg" width="626" height="468" />
+</item>
+ <item> <title>Vendas de tablets despencam quase 40% no Brasil em 2015 </title>
+ <link>http://computerworld.com.br/vendas-de-tablets-despencam-quase-40-no-brasil-em-2015</link>
+ <description>No total, foram comercializados 5,8 milhões de aparelhos desse tipo no ano passado. Foi a primeira queda anual no mercado local</description>
+ <pubDate>seg, 21 mar 2016 14:39:22 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Tablets">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/tablet_android.jpg" fileSize="32930" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Samsung lança clone do Microsoft Surface Pro por US$ 900</title>
+ <link>http://computerworld.com.br/samsung-lanca-clone-do-microsoft-surface-pro-por-us-900</link>
+ <description>Chamado de Galaxy TabPro S, aparelho roda Windows 10 e conta com teclado destacável já incluso no preço. Empresas trabalharam juntas no produto</description>
+ <pubDate>qui, 17 mar 2016 15:42:45 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Tablets">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/samsung_tabpro.jpg" fileSize="23138" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Apple convoca usuários brasileiros para recall de carregadores</title>
+ <link>http://computerworld.com.br/apple-convoca-usuarios-brasileiros-para-recall-de-carregadores</link>
+ <description>Recall voluntário diz respeito a tomadas vendidas entre 2003 e 2015 em vários países, entre eles o Brasil</description>
+ <pubDate>sex, 29 jan 2016 10:47:02 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Tablets">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/carregador_apple.jpg" fileSize="10449" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Dilma sanciona lei que eleva tributação sobre smartphones, tablets e PCs</title>
+ <link>http://computerworld.com.br/dilma-sanciona-lei-que-eleva-tributacao-sobre-smartphones-tablets-e-pcs</link>
+ <description>Segundo texto publicado no Diário Oficial da União, eletrônicos pagarão PIS/Pasep e Cofins quando comercializados pelo varejo</description>
+ <pubDate>qua, 06 jan 2016 12:48:29 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Tablets">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/problema_imposto.jpg" fileSize="57828" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Samsung lança dispositivo com Windows 10 para concorrer com Surface e iPad</title>
+ <link>http://computerworld.com.br/samsung-lanca-dispositivo-com-windows-10-para-concorrer-com-surface-e-ipad</link>
+ <description>Chamado de Galaxy TabPro S, aparelho conta com tela Super AMOLED de 12 polegadas e processador Intel Core M. Preço não foi revelado</description>
+ <pubDate>qua, 06 jan 2016 12:17:35 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Tablets">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/samsung_tab_pro.jpg" fileSize="34304" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Tablets ganham espaço nas empresas e veem futuro promissor</title>
+ <link>http://computerworld.com.br/tablets-ganham-espaco-nas-empresas-e-veem-futuro-promissor</link>
+ <description>Lançamentos recentes da Apple e da Microsoft mostram que o mercado corporativo está abrindo os braços para o gadget</description>
+ <pubDate>sex, 13 nov 2015 17:27:31 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Tablets">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/wifi_tablet_625.jpg" fileSize="45387" type="image/jpeg" width="625" height="469" />
+</item>
+</channel>
+</rss>

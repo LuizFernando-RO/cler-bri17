@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://computerworld.com.br/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"> <channel> <title>RSS Assunto</title>
+ <description>Portal sobre tecnologia da informação e telecomunicações</description>
+ <link>http://computerworld.com.br/</link>
+ <atom:link rel="self" href="http://computerworld.com.br/rss_assunto/Cibercrime" />
+ <language>pt-br</language>
+ <item> <title>Hacker chinês é preso sob acusação de atacar redes de empresas nos EUA</title>
+ <link>http://computerworld.com.br/hacker-chines-e-preso-sob-acusacao-de-atacar-redes-de-empresas-nos-eua</link>
+ <description>Entre os ataques realizado por Yu Pingan, de 36 anos, estaria a rede de computadores do Escritório de Gestão de Pessoal do governo americano, que abriga informações de todos os funcionários federais</description>
+ <pubDate>sex, 25 ago 2017 20:59:30 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Cibercrime">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/hacker_13.jpg" fileSize="26791" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Descoberto vírus que pode roubar dados bancários de usuários do Android</title>
+ <link>http://computerworld.com.br/descoberto-virus-que-pode-roubar-dados-bancarios-de-usuarios-do-android</link>
+ <description>Chamado de Fakedtoken, o vírus descoberto pela Kaspersky surpreende por sua sofisticação, como a capacidade de interceptar mensagens de texto para roubar identidades bancárias</description>
+ <pubDate>qua, 23 ago 2017 19:21:40 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Cibercrime">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/smartphone_android_0.jpg" fileSize="32389" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>GDPR é desafio para responsáveis pela segurança de TI, na Europa e no Brasil</title>
+ <link>http://computerworld.com.br/gdpr-e-desafio-para-responsaveis-pela-seguranca-de-ti-na-europa-e-no-brasil</link>
+ <description>À medida que as empresas se preparam para estar em conformidade com a norma europeia, iniciar a classificação é o primeiro passo para proteção de dados</description>
+ <pubDate>ter, 22 ago 2017 18:51:31 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Cibercrime">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/data-protection-10.jpg" fileSize="66857" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>STF autoriza extradição para os EUA de hacker acusado de fraudes eletrônicas</title>
+ <link>http://computerworld.com.br/stf-autoriza-extradicao-para-os-eua-de-hacker-acusado-de-fraudes-eletronicas</link>
+ <description>Michael Knigthen, acusado de pertencer ao grupo hacker autodenominado Techie Group, teria fraudado empresas com sede nos EUA em mais de US$ 4,85 milhões</description>
+ <pubDate>qua, 16 ago 2017 12:43:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Cibercrime">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/hacker_sombrio_1.jpg" fileSize="14010" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Robôs e &amp;#039;zonas escuras&amp;#039; das estruturas de TI agravam ambiente de risco</title>
+ <link>http://computerworld.com.br/robos-e-zonas-escuras-das-estruturas-de-ti-agravam-ambiente-de-risco</link>
+ <description>Inteligência artificial, zonas escuras de TI, resquícios da guerra cibernética, criptomoedas e Internet das Coisas estão entre os vetores de riscos virtuais elencados pela Aker N-Stalker</description>
+ <pubDate>ter, 15 ago 2017 16:00:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Cibercrime">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/hacking_4.jpg" fileSize="78918" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Empresas precisam estar preparadas para mitigar ataques de DDoS</title>
+ <link>http://computerworld.com.br/empresas-precisam-estar-preparadas-para-mitigar-ataques-de-ddos</link>
+ <description>Segundo o Gartner, grande parte dos ataques está na faixa de 20 a 30 Gbps ou até menos, enquanto os maiores registraram até 1,2 terabit por segundo. Mas empresas devem se proteger contra ambos</description>
+ <pubDate>qua, 02 ago 2017 17:04:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Cibercrime">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/ddos_attack.jpg" fileSize="64942" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Centros de segurança com recursos homem-máquina são mais eficazes na &amp;#039;caça&amp;#039; a ameaças</title>
+ <link>http://computerworld.com.br/centros-de-seguranca-com-recursos-homem-maquina-sao-mais-eficazes-na-caca-ameacas</link>
+ <description>Estudo da McAfee revela que quase 70% das empresas obtêm elevado nível de segurança por meio da automação e adoção de procedimentos de combate a ameaças</description>
+ <pubDate>ter, 01 ago 2017 15:55:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Cibercrime">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/monitor_0.jpg" fileSize="101425" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Relatório mostra como se dá a proliferação de Ransomware as a Service</title>
+ <link>http://computerworld.com.br/relatorio-mostra-como-se-da-proliferacao-de-ransomware-service</link>
+ <description>Estudo da Sophos desconstrói o popular Philadelphia para revelar como o kit de ransomware ajuda a proliferar o cibercrime</description>
+ <pubDate>seg, 31 jul 2017 17:58:52 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Cibercrime">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/ransomware5_3.jpg" fileSize="100315" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>5 dicas essenciais para prevenir lavagem de dinheiro na sua empresa </title>
+ <link>http://computerworld.com.br/5-dicas-essenciais-para-prevenir-lavagem-de-dinheiro-na-sua-empresa</link>
+ <description>Especialista explica como tirar proveito das novas tecnologias de análise de dados para evitar práticas ilegais com o caixa corporativo</description>
+ <pubDate>seg, 31 jul 2017 16:22:31 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Cibercrime">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/money_dinheiro_dolar.jpg" fileSize="111141" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Malware que visa o Brasil continua se espalhando por e-mails</title>
+ <link>http://computerworld.com.br/malware-que-visa-o-brasil-continua-se-espalhando-por-e-mails</link>
+ <description>Palo Alto Networks detectou 9.125 amostras do spam malicioso associado como o Banload, uma família de cavalo de Tróia que faz download de outros malwares</description>
+ <pubDate>seg, 24 jul 2017 17:11:15 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Cibercrime">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/malware_5.jpg" fileSize="73962" type="image/jpeg" width="625" height="469" />
+</item>
+</channel>
+</rss>

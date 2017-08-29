@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://computerworld.com.br/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"> <channel> <title>RSS Assunto</title>
+ <description>Portal sobre tecnologia da informação e telecomunicações</description>
+ <link>http://computerworld.com.br/</link>
+ <atom:link rel="self" href="http://computerworld.com.br/rss_assunto/RFID" />
+ <language>pt-br</language>
+ <item> <title>Plataforma para gestão de ativos acelera inventários com uso de RFID</title>
+ <link>http://computerworld.com.br/plataforma-para-gestao-de-ativos-acelera-inventarios-com-uso-de-rfid</link>
+ <description>Lançamento da NEXXTO, o software corporativo ATIVIS pode reduzir em até 99% o tempo gasto por áreas de contabilidade e controladoria</description>
+ <pubDate>seg, 11 jan 2016 17:42:54 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/RFID">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/rfid_tag.jpg" fileSize="70637" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>KidZania adota infraestrutura da Allied Telesis para suportar operações</title>
+ <link>http://computerworld.com.br/kidzania-adota-infraestrutura-da-allied-telesis-para-suportar-operacoes</link>
+ <description>Fabricante forneceu cerca de 20 equipamentos que suportam intenso tráfego de dados gerado na unidade brasileira do parque temático</description>
+ <pubDate>qui, 24 set 2015 12:56:27 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/RFID">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/kidzania_0.jpg" fileSize="110992" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Intel quer usar RFID para melhorar a gestão de ativos nos data centers</title>
+ <link>http://computerworld.com.br/intel-quer-usar-rfid-para-melhorar-gestao-de-ativos-nos-data-centers</link>
+ <description>Etiquetas de radiofrequência já são usadas por alguns fornecedores. Embarcar a tecnologia em chipsets da fabricante daria escala à solução</description>
+ <pubDate>seg, 01 jun 2015 08:10:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/RFID">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/datacenter-286386_1280.jpg" fileSize="76424" type="image/jpeg" width="625" height="469" />
+</item>
+</channel>
+</rss>

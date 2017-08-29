@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://computerworld.com.br/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"> <channel> <title>RSS Assunto</title>
+ <description>Portal sobre tecnologia da informação e telecomunicações</description>
+ <link>http://computerworld.com.br/</link>
+ <atom:link rel="self" href="http://computerworld.com.br/rss_assunto/Internet%20das%20Coisas" />
+ <language>pt-br</language>
+ <item> <title>Gastos com software e serviços no Brasil atingem US$ 19 bilhões em 2016</title>
+ <link>http://computerworld.com.br/gastos-com-software-e-servicos-no-brasil-atingem-us-19-bilhoes-em-2016</link>
+ <description>Os investimentos das empresas somente em computação em nuvem tiveram expansão de 47,4%, para US$ 746 milhões, tendo como base os dois principais serviços: SaaS e PaaS, aponta da Abes</description>
+ <pubDate>ter, 15 ago 2017 14:58:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Internet%20das%20Coisas">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/crescimento_16.jpg" fileSize="47435" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Desenvolvimento de plataforma para Internet das Coisas terá apoio do BNDES</title>
+ <link>http://computerworld.com.br/desenvolvimento-de-plataforma-para-internet-das-coisas-tera-apoio-do-bndes</link>
+ <description>Banco estatal liberou financiamento de R$ 13 milhões para o plano de negócios da Inmetrics, que visa desenvolver a plataforma de IoT Konker</description>
+ <pubDate>qui, 10 ago 2017 18:07:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Internet%20das%20Coisas">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/iot_carro_2.jpg" fileSize="42474" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Logicalis e Qualcomm se unem para desenvolver soluções de IoT no Brasil</title>
+ <link>http://computerworld.com.br/logicalis-e-qualcomm-se-unem-para-desenvolver-solucoes-de-iot-no-brasil</link>
+ <description>Empresas vão trabalhar juntas no desenvolvimento de soluções de Internet das Coisas para os setores de manufatura, agronegócio, saúde e cidades inteligentes</description>
+ <pubDate>qui, 10 ago 2017 13:04:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Internet%20das%20Coisas">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/iot5_4.jpg" fileSize="84384" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Rede Mirai: Ataques virtuais a dispositivos de IoT se tornam mais comuns</title>
+ <link>http://computerworld.com.br/rede-mirai-ataques-virtuais-dispositivos-de-iot-se-tornam-mais-comuns</link>
+ <description>Brasil está entre um dos países mais atacados pela botnet, que contamina câmeras de segurança IP, gravadores digitais de vídeo (DVRs) e outros dispositivos de IoT, como impressoras e roteadores</description>
+ <pubDate>seg, 07 ago 2017 14:01:45 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Internet%20das%20Coisas">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/hacking5_1.jpg" fileSize="54737" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Consórcio Brasil-Europa vai aplicar R$ 5,5 mi em pesquisa de IoT para irrigação inteligente</title>
+ <link>http://computerworld.com.br/consorcio-brasil-europa-vai-aplicar-r-55-mi-em-pesquisa-de-iot-para-irrigacao-inteligente</link>
+ <description>Projeto Smart Water Management Platform prevê a criação de uma plataforma inteligente de gerenciamento de água em irrigação de precisão</description>
+ <pubDate>qua, 02 ago 2017 19:58:26 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Internet%20das%20Coisas">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/irrigacao.jpg" fileSize="63928" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>IoT: Inteligência, interoperabilidade e intuição por meio da voz</title>
+ <link>http://computerworld.com.br/iot-inteligencia-interoperabilidade-e-intuicao-por-meio-da-voz</link>
+ <description>Considerando que a fala é o modo de comunicação básico dos humanos, incorporá-la à experiência da Internet das Coisas possibilitaria um novo nível de simplicidade de integração entre dispositivos distintos</description>
+ <pubDate>seg, 31 jul 2017 18:58:01 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Internet%20das%20Coisas">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/communication-1927706_2.jpg" fileSize="92801" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Onde está a fragilidade da Internet das Coisas?</title>
+ <link>http://computerworld.com.br/onde-esta-fragilidade-da-internet-das-coisas</link>
+ <description>Investir em uma boa solução de data center ou cloud computing pode reduzir a vulnerabilidade dos sistemas</description>
+ <pubDate>seg, 31 jul 2017 12:58:40 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Internet%20das%20Coisas">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/iot_carro_1.jpg" fileSize="42474" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Internet das Coisas não é o mesmo que Internet de Todas as Coisas</title>
+ <link>http://computerworld.com.br/internet-das-coisas-nao-e-o-mesmo-que-internet-de-todas-coisas</link>
+ <description>O aumento em escala mundial de coisas conectadas vai exigir abordagens novas e complementares para a construção das redes no futuro</description>
+ <pubDate>qui, 27 jul 2017 13:27:55 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Internet%20das%20Coisas">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/iot5_3.jpg" fileSize="84384" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Como a Internet das Coisas pode ajudar a salvar vidas</title>
+ <link>http://computerworld.com.br/como-internet-das-coisas-pode-ajudar-salvar-vidas</link>
+ <description>A capacidade de monitorar e de analisar os dados vindos dos equipamentos conectados deverá se estender para outras áreas</description>
+ <pubDate>sex, 21 jul 2017 12:05:11 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Internet%20das%20Coisas">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/iotcuidadosaude.jpg" fileSize="53589" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Gateways serão fundamentais para segurança em projetos de IoT</title>
+ <link>http://computerworld.com.br/gateways-serao-fundamentais-para-seguranca-em-projetos-de-iot</link>
+ <description>A explosão da Internet das Coisas nos próximos anos será tão grande que entrará em cena um novo ator: o IoT gateway — dispositivo que intermediará o fluxo de dados entre os sensores e o data center</description>
+ <pubDate>seg, 17 jul 2017 12:02:06 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Internet%20das%20Coisas">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/sensor.jpg" fileSize="94948" type="image/jpeg" width="625" height="469" />
+</item>
+</channel>
+</rss>

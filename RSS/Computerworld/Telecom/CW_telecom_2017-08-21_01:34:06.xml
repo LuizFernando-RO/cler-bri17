@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://computerworld.com.br/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"> <channel> <title>RSS Tema</title>
+ <description>Portal sobre tecnologia da informação e telecomunicações</description>
+ <link>http://computerworld.com.br/</link>
+ <atom:link rel="self" href="http://computerworld.com.br/rss_tema/Telecom" />
+ <language>pt-br</language>
+ <item> <title>Primeira fase de padronização da 5G deve ser concluída até março de 2018</title>
+ <link>http://computerworld.com.br/primeira-fase-de-padronizacao-da-5g-deve-ser-concluida-ate-marco-de-2018</link>
+ <description>3GPP espera concluir a opção não autônoma do padrão para estações radiobase 5G NR (Novo Rádio) para banda larga móvel avançada até o primeiro trimestre do ano que vem</description>
+ <guid isPermaLink="false">http://computerworld.com.br/primeira-fase-de-padronizacao-da-5g-deve-ser-concluida-ate-marco-de-2018</guid>
+ <pubDate>Fri, 18 Aug 2017 20:06:13 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Telecom">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/5gb_1.jpg" fileSize="80216" type="image/jpeg" width="625" height="468" />
+</item>
+ <item> <title>Lucro da Algar Telecom cresce 58% e atinge R$ 65,2 milhões no segundo trimestre</title>
+ <link>http://computerworld.com.br/lucro-da-algar-telecom-cresce-58-e-atinge-r-652-milhoes-no-segundo-trimestre</link>
+ <description>Destaque no período foi o crescimento de clientes de planos de ultra banda larga — velocidade acima de 10Mbps —, que já representam 44,2% da base total de banda larga fixa da operadora</description>
+ <guid isPermaLink="false">http://computerworld.com.br/lucro-da-algar-telecom-cresce-58-e-atinge-r-652-milhoes-no-segundo-trimestre</guid>
+ <pubDate>Fri, 11 Aug 2017 15:33:20 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Telecom">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/crescimento3_3.jpg" fileSize="51256" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Futuro da tecnologia 5G requer maior capacidade dos provedores de serviço</title>
+ <link>http://computerworld.com.br/futuro-da-tecnologia-5g-requer-maior-capacidade-dos-provedores-de-servico</link>
+ <description>Espera-se que o tráfego móvel alcance bilhões de conexões até 2020, o que representa um desafio para as operadoras, segundo a CommScope</description>
+ <guid isPermaLink="false">http://computerworld.com.br/futuro-da-tecnologia-5g-requer-maior-capacidade-dos-provedores-de-servico</guid>
+ <pubDate>Fri, 28 Jul 2017 15:07:16 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Telecom">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/5gb_0.jpg" fileSize="80216" type="image/jpeg" width="625" height="468" />
+</item>
+ <item> <title>Secretário pede que indicadores de serviços de telecom sigam percepção do usuário</title>
+ <link>http://computerworld.com.br/secretario-pede-que-indicadores-de-servicos-de-telecom-sigam-percepcao-do-usuario</link>
+ <description>Atualmente, a qualidade dos serviços de telecom é monitorada por 54 indicadores, mas apenas 14 deles são baseados na percepção do usuário</description>
+ <guid isPermaLink="false">http://computerworld.com.br/secretario-pede-que-indicadores-de-servicos-de-telecom-sigam-percepcao-do-usuario</guid>
+ <pubDate>Thu, 20 Jul 2017 16:08:44 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Telecom">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/wireless.jpg" fileSize="30722" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Número de linhas de telefonia fixa volta a registrar queda em maio</title>
+ <link>http://computerworld.com.br/numero-de-linhas-de-telefonia-fixa-volta-registrar-queda-em-maio</link>
+ <description>A redução do número total de linhas em operação no mês foi de 75,3 mil, segundo dados divulgados nesta segunda-feira, 17, pela Anatel</description>
+ <guid isPermaLink="false">http://computerworld.com.br/numero-de-linhas-de-telefonia-fixa-volta-registrar-queda-em-maio</guid>
+ <pubDate>Mon, 17 Jul 2017 18:45:57 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Telecom">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/telefonia_fixa.jpg" fileSize="33831" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Equipamento de telecom sem origem comprovada poderá ser considerado roubado</title>
+ <link>http://computerworld.com.br/equipamento-de-telecom-sem-origem-comprovada-podera-ser-considerado-roubado</link>
+ <description>Punição prevista na LGT é de detenção de dois a quatro anos, aumentada em 50% se houver dano a terceiro, e multa de R$ 10 mil</description>
+ <guid isPermaLink="false">http://computerworld.com.br/equipamento-de-telecom-sem-origem-comprovada-podera-ser-considerado-roubado</guid>
+ <pubDate>Wed, 12 Jul 2017 19:44:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Telecom">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/torre_2.jpg" fileSize="39991" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Com 5G, pacientes terão mais controle sobre os cuidados com a saúde</title>
+ <link>http://computerworld.com.br/com-5g-pacientes-terao-mais-controle-sobre-os-cuidados-com-saude</link>
+ <description>Relatório da Ericsson revela que consumidores poderão monitorar melhor a saúde com dispositivos vestíveis quando a tecnologia aumentar a confiabilidade e segurança</description>
+ <guid isPermaLink="false">http://computerworld.com.br/com-5g-pacientes-terao-mais-controle-sobre-os-cuidados-com-saude</guid>
+ <pubDate>Fri, 07 Jul 2017 16:29:01 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Telecom">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/5gb.jpg" fileSize="80216" type="image/jpeg" width="625" height="468" />
+</item>
+ <item> <title>Chegou a hora dos dados gratuitos?</title>
+ <link>http://computerworld.com.br/chegou-hora-dos-dados-gratuitos</link>
+ <description>A chave para as operadoras ganharem dinheiro é vender outros serviços além da conectividade de dados</description>
+ <guid isPermaLink="false">http://computerworld.com.br/chegou-hora-dos-dados-gratuitos</guid>
+ <pubDate>Fri, 07 Jul 2017 15:49:30 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Telecom">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/dados4_1.jpg" fileSize="67842" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Intel faz parceria com AT&amp;amp;T e Ericsson para testar 5G em serviço de streaming</title>
+ <link>http://computerworld.com.br/intel-faz-parceria-com-att-e-ericsson-para-testar-5g-em-servico-de-streaming</link>
+ <description>Teste vai permitir que clientes residenciais e corporativos acompanhem transmissões ao vivo no serviço DirecTV Now e experimentem serviços de banda larga mais rápidos</description>
+ <guid isPermaLink="false">http://computerworld.com.br/intel-faz-parceria-com-att-e-ericsson-para-testar-5g-em-servico-de-streaming</guid>
+ <pubDate>Wed, 05 Jul 2017 16:36:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Telecom">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/5g_4.jpg" fileSize="80097" type="image/jpeg" width="1280" height="853" />
+</item>
+ <item> <title>Contratos da telefonia fixa serão mantidos até nova LGT ser aprovada</title>
+ <link>http://computerworld.com.br/contratos-da-telefonia-fixa-serao-mantidos-ate-nova-lgt-ser-aprovada</link>
+ <description>Com a decisão, seguem em vigor os critérios da revisão feita em 2011 do Plano Geral de Metas para Universalização da telefonia fixa</description>
+ <guid isPermaLink="false">http://computerworld.com.br/contratos-da-telefonia-fixa-serao-mantidos-ate-nova-lgt-ser-aprovada</guid>
+ <pubDate>Fri, 30 Jun 2017 15:07:06 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Telecom">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/torre_1.jpg" fileSize="39991" type="image/jpeg" width="625" height="469" />
+</item>
+</channel>
+</rss>

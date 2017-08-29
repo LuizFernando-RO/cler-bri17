@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://computerworld.com.br/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"> <channel> <title>RSS Assunto</title>
+ <description>Portal sobre tecnologia da informação e telecomunicações</description>
+ <link>http://computerworld.com.br/</link>
+ <atom:link rel="self" href="http://computerworld.com.br/rss_assunto/m-commerce" />
+ <language>pt-br</language>
+ <item> <title>Fintech iZettle inicia produção máquina de cartão no Brasil</title>
+ <link>http://computerworld.com.br/fintech-izettle-inicia-producao-maquina-de-cartao-no-brasil</link>
+ <description>Fintech sueca vai produzir o Maquinão iZettle na Zona Franca de Manaus e reduz preço do produto em 33% para o consumidor final</description>
+ <pubDate>seg, 31 jul 2017 14:50:28 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/m-commerce">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/iz_reader_front.jpg" fileSize="21514" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Carros da GM vão usar pagamento móvel da Mastercard, com o IBM Watson</title>
+ <link>http://computerworld.com.br/carros-da-gm-vao-usar-pagamento-movel-da-mastercard-com-o-ibm-watson</link>
+ <description>Com o Masterpass e recursos de IA, o objetivo é facilitar compras on-line para passageiros e motoristas, enquanto eles estão em trânsito</description>
+ <pubDate>qui, 27 out 2016 17:31:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/m-commerce">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/masterpass_usando_ibm_watson_em_carros_gm.jpg" fileSize="50433" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Consumidor brasileiro usa mais os dispositivos móveis para pagamentos</title>
+ <link>http://computerworld.com.br/consumidor-brasileiro-usa-mais-os-dispositivos-moveis-para-pagamentos</link>
+ <description>Pesquisa feita pela Ipsos para o Mercado Pago mostra que os brasileiros se sentem cada vez mais seguros com o uso da tecnologia para compras</description>
+ <pubDate>ter, 29 dez 2015 11:05:18 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/m-commerce">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/digital_tendencia_mobilidade.jpg" fileSize="36718" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Apps já respondem por 50% das compras mobile no Brasil</title>
+ <link>http://computerworld.com.br/apps-ja-respondem-por-50-das-compras-mobile-no-brasil</link>
+ <description>Criteo indica que mais de 13% do e-commerce brasileiro foi feito por meio de dispositivos móveis no segundo trimestre de 2015</description>
+ <pubDate>qui, 23 jul 2015 12:48:08 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/m-commerce">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/mobile_commerce_varejo_smartphone.jpg" fileSize="29129" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Evite que os consumidores abandonem o carrinho de compras no m-commerce</title>
+ <link>http://computerworld.com.br/evite-que-os-consumidores-abandonem-o-carrinho-de-compras-no-m-commerce</link>
+ <description>CEO da Viewit Mobile atenta para a customização de audiência, conteúdo e timing como fatores de sucesso no varejo móvel</description>
+ <pubDate>qua, 08 jul 2015 16:58:18 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/m-commerce">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/crm_varejo.jpg" fileSize="76844" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>PayPal protegerá consumidores em compras de bens intangíveis</title>
+ <link>http://computerworld.com.br/paypal-expande-programa-de-protecao-ao-consumidor-compras-de-bens-intangiveis</link>
+ <description>Empresa expande o programa Buyer Protection a negócios envolvendo download de software e compras de música, vídeo e outros serviços </description>
+ <pubDate>seg, 06 jul 2015 15:30:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/m-commerce">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/ecommerce_mcommerce_varejo.jpg" fileSize="29315" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Mobile representou 14% do e-commerce brasileiro no segundo trimestre de 2015</title>
+ <link>http://computerworld.com.br/mobile-representou-14-do-e-commerce-brasileiro-no-segundo-trimestre-de-2015</link>
+ <description>Pesquisa da Criteo indica que a cota de transações de comércio eletrônico móvel está prevista para chegar a 22% no Brasil até o final do ano</description>
+ <pubDate>seg, 29 jun 2015 12:28:14 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/m-commerce">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/smartphone_internet_625.jpg" fileSize="45190" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Os benefícios do mPOS e a tendência de crescimento no País</title>
+ <link>http://computerworld.com.br/os-beneficios-do-mpos-e-tendencia-de-crescimento-no-pais</link>
+ <description>41% dos empresários passaram a utilizar o serviço de mPOS para não perderem vendas, já que seus clientes querem pagar com cartão</description>
+ <pubDate>sex, 05 jun 2015 10:56:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/m-commerce">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/smartphone_internet_625.jpg" fileSize="45190" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Digital Banking: carteira eletrônica e transferência de valores P2P</title>
+ <link>http://computerworld.com.br/digital-banking-carteira-eletronica-e-transferencia-de-valores-p2p</link>
+ <description>Os pagamentos por celular têm que ser tão fáceis quanto usar notas e moedas. Bancos começam a pensar em como podem reaver a confiança dos clientes</description>
+ <pubDate>qui, 09 abr 2015 08:25:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/m-commerce">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/looppay_smartphone_625.jpg" fileSize="63087" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Banco do Brasil adota tecnologia de pagamento móvel na nuvem</title>
+ <link>http://computerworld.com.br/negocios/2015/03/25/banco-do-brasil-adota-tecnologia-de-pagamento-movel-na-nuvem</link>
+ <description>Banco é o primeiro do mundo a permitir uso de cartões de débito em pagamentos móveis com smartphones usando tecnologia Visa Digital Solutions</description>
+ <pubDate>qua, 25 mar 2015 07:10:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/m-commerce">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/omnichannel_625_0.jpg" fileSize="82201" type="image/jpeg" width="625" height="469" />
+</item>
+</channel>
+</rss>

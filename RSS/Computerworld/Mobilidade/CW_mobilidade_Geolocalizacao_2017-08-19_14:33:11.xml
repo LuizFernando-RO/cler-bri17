@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://computerworld.com.br/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"> <channel> <title>RSS Assunto</title>
+ <description>Portal sobre tecnologia da informação e telecomunicações</description>
+ <link>http://computerworld.com.br/</link>
+ <atom:link rel="self" href="http://computerworld.com.br/rss_assunto/Geolocaliza%C3%A7%C3%A3o" />
+ <language>pt-br</language>
+ <item> <title>TomTom e Microsoft fecham acordo para oferta de serviços de localização no Azure</title>
+ <link>http://computerworld.com.br/tomtom-e-microsoft-fecham-acordo-para-oferta-de-servicos-de-localizacao-no-azure</link>
+ <description>TomTom planeja integrar seus serviços à plataforma de nuvem da fabricante de software para torná-lo mais flexível para os desenvolvedores criarem e gerenciarem aplicativos empresariais</description>
+ <pubDate>seg, 19 dez 2016 11:43:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Geolocaliza%C3%A7%C3%A3o">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/gps.jpg" fileSize="54849" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Acordo entre Waze e Esri permitirá troca de dados sobre condições das vias</title>
+ <link>http://computerworld.com.br/acordo-entre-waze-e-esri-permitira-troca-de-dados-governamentais-sobre-condicoes-das-vias</link>
+ <description>Prefeituras que adotam a plataforma ArcGis da Esri poderão compartilhar as informações com usuários do aplicativo de rotas</description>
+ <pubDate>ter, 25 out 2016 12:25:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Geolocaliza%C3%A7%C3%A3o">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/waze_navigation_screen_on_android_portuguese.png" fileSize="190588" type="image/png" width="625" height="469" />
+</item>
+ <item> <title>A tecnologia que otimizou a entrega de 25 mil flores no Mês das Mães</title>
+ <link>http://computerworld.com.br/tecnologia-que-otimizou-entrega-de-25-mil-flores-no-mes-das-maes</link>
+ <description>Flores Online melhora a logística de entrega a partir do uso de sistema israelense de geolocalização da OfficeTrack</description>
+ <pubDate>ter, 17 mai 2016 08:00:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Geolocaliza%C3%A7%C3%A3o">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/flores.jpg" fileSize="72812" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Porto Alegre melhora arrecadação sobre o consumo de água com georreferenciamento</title>
+ <link>http://computerworld.com.br/porto-alegre-melhora-arrecadacao-sobre-o-consumo-de-agua-com-georreferenciamento</link>
+ <description>Tecnologia deu ao DMAE eficiência na gestão, agilidade para tomada de decisão e permitiu ações de fiscalização com mais assertividade</description>
+ <pubDate>qui, 19 nov 2015 09:00:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Geolocaliza%C3%A7%C3%A3o">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/dmae_agua_utilities.jpg" fileSize="78792" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Audi, BMW e Daimler compram Here Maps da Nokia por US$ 3 bilhões</title>
+ <link>http://computerworld.com.br/audi-bmw-e-daimler-compram-here-maps-da-nokia-por-us-3-bilhoes</link>
+ <description>Serviço de mapas e localização foi adquirido por consórcio que reúne Audi, BMW e Daimler</description>
+ <pubDate>seg, 03 ago 2015 17:25:17 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Geolocaliza%C3%A7%C3%A3o">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/heremaps_625.jpg" fileSize="33669" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Brasileira goGeo quer faturar R$ 75 milhões com oferta de big data</title>
+ <link>http://computerworld.com.br/brasileira-gogeo-quer-faturar-r-75-milhoes-com-oferta-de-big-data</link>
+ <description>Segundo seu fundador, solução de processamento de dados geolocalizados é 50 vezes mais rápida e 5 vezes mais barata que concorrência</description>
+ <pubDate>seg, 03 ago 2015 09:00:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Geolocaliza%C3%A7%C3%A3o">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/mundo_mapas_geo.jpg" fileSize="63536" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Tendências que nortearão os mercado de sistemas de informações geográficas</title>
+ <link>http://computerworld.com.br/11-tendencias-que-nortearao-os-mercado-de-sistemas-de-informacoes-geograficas</link>
+ <description>Ideia é que essas ferramentas se transformem em uma plataforma integradora de todos os tipos de tecnologia geoespacial</description>
+ <pubDate>ter, 31 mar 2015 09:00:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Geolocaliza%C3%A7%C3%A3o">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/mapa_economia_625_0.jpg" fileSize="91658" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Yamaha aposta em geomarketing e cresce 2,5% em marketshare</title>
+ <link>http://computerworld.com.br/yamaha-aposta-em-geomarketing-e-cresce-25-em-marketshare</link>
+ <description>Solução OnMaps permitiu à companhia posicionar melhor a distribuição de suas concessionárias e adequar mix de produtos </description>
+ <pubDate>seg, 30 mar 2015 18:20:01 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Geolocaliza%C3%A7%C3%A3o">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/geolocalizacao.jpg" fileSize="66597" type="image/jpeg" width="625" height="469" />
+</item>
+</channel>
+</rss>

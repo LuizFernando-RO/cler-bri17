@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://computerworld.com.br/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"> <channel> <title>RSS Assunto</title>
+ <description>Portal sobre tecnologia da informação e telecomunicações</description>
+ <link>http://computerworld.com.br/</link>
+ <atom:link rel="self" href="http://computerworld.com.br/rss_assunto/V%C3%ADrus%20e%20vulnerabilidades" />
+ <language>pt-br</language>
+ <item> <title>McAfee Labs identifica 244 novas ameaças cibernéticas por minuto</title>
+ <link>http://computerworld.com.br/mcafee-labs-identifica-244-novas-ameacas-ciberneticas-por-minuto</link>
+ <description>Empresa de segurança alerta que taxa de infecção por vírus móveis subiu 57% no 1º trimestre de 2017. Total de malwares para Mac OS subiu 53%</description>
+ <pubDate>sex, 30 jun 2017 13:30:25 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/V%C3%ADrus%20e%20vulnerabilidades">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/virus_0.jpg" fileSize="55399" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Novos ciberataques expõem os desafios que as equipes de segurança enfrentam</title>
+ <link>http://computerworld.com.br/novos-ciberataques-expoem-os-desafios-que-equipes-de-seguranca-enfrentam</link>
+ <description>A dificuldade de gerenciar e proteger as infraestruturas cada vez mais complexas  de TI contra ataques como  WannaCry ou ExPetr é brutal</description>
+ <pubDate>qui, 29 jun 2017 00:10:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/V%C3%ADrus%20e%20vulnerabilidades">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/ataque_de_guerra.jpg" fileSize="84464" type="image/jpeg" width="626" height="468" />
+</item>
+ <item> <title>Vulnerabilidades no Windows e Linux podem abrir brecha para outro mega-ataque de ransomware</title>
+ <link>http://computerworld.com.br/vulnerabilidades-no-windows-e-linux-podem-abrir-brecha-para-outro-mega-ataque-de-ransomware</link>
+ <description>Falhas no serviço de desktop remoto do Windows e em máquinas Linux com o serviço Samba podem gerar nova onda de malware, alerta Cipher</description>
+ <pubDate>ter, 20 jun 2017 18:16:50 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/V%C3%ADrus%20e%20vulnerabilidades">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/ransomware_6.jpg" fileSize="60824" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Brasil está entre os dez países mais visados por ransomware móvel</title>
+ <link>http://computerworld.com.br/brasil-esta-entre-os-dez-paises-mais-visados-por-ransomware-movel</link>
+ <description>O número de arquivos detectados de ransomware móvel atingiu 218.625 durante o trimestre, na comparação com 61.832 no trimestre anterior, de acordo com a Kaspersky Lab</description>
+ <pubDate>ter, 23 mai 2017 15:53:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/V%C3%ADrus%20e%20vulnerabilidades">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/ransomwareimg_625_0.jpg" fileSize="54021" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>CIA usou malware bancário para sofisticar técnicas de hacking, segundo WikiLeaks</title>
+ <link>http://computerworld.com.br/cia-usou-malware-bancario-para-sofisticar-tecnicas-de-hacking-segundo-wikileaks</link>
+ <description>Operações de espionagem da agência utilizaram supostamente elementos do malware Carberp, quando o código foi vazado em 2013</description>
+ <pubDate>seg, 10 abr 2017 12:29:28 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/V%C3%ADrus%20e%20vulnerabilidades">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/cia.jpg" fileSize="50707" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Ataques de DDoS ameaçam dispositivos de Internet das Coisas</title>
+ <link>http://computerworld.com.br/ataques-de-ddos-ameacam-dispositivos-de-internet-das-coisas</link>
+ <description>Câmeras, impressoras, geladeiras e relógios que contam com um número IP, software embarcado e conexão com a internet são extremamente suscetíveis aos DDoS </description>
+ <pubDate>seg, 21 nov 2016 21:16:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/V%C3%ADrus%20e%20vulnerabilidades">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/ddos.jpg" fileSize="74746" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Google descobre vulnerabilidade no Windows e irrita Microsoft</title>
+ <link>http://computerworld.com.br/google-descobre-vulnerabilidade-no-windows-e-irrita-microsoft</link>
+ <description>Empresa de Redmond publicou nota criticando a iniciativa da gigante de buscas de revelar falha antes de conseguir publicar aviso e patches com soluções</description>
+ <pubDate>ter, 01 nov 2016 14:25:09 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/V%C3%ADrus%20e%20vulnerabilidades">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/windows_microsoft.jpg" fileSize="26445" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Um Cavalo de Troia para suceder o Dyre aponta na pista</title>
+ <link>http://computerworld.com.br/um-cavalo-de-troia-para-suceder-o-dyre-aponta-na-pista</link>
+ <description>Para especialistas,o novo programa, chamado TrickBot, inspirou-se no anterior, que atacou clientes de mais de mil bancos</description>
+ <pubDate>seg, 17 out 2016 18:13:55 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/V%C3%ADrus%20e%20vulnerabilidades">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/cavalo_de_troia.jpg" fileSize="52781" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Quer mais segurança da informação? Conheça seus pontos fracos</title>
+ <link>http://computerworld.com.br/quer-mais-seguranca-da-informacao-conheca-seus-pontos-fracos</link>
+ <description>Identificar pontos cegos e traçar estratégias de mitigação irá ajudá-lo a elevar as barreiras de proteção de sua companhia</description>
+ <pubDate>qui, 13 out 2016 15:07:45 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/V%C3%ADrus%20e%20vulnerabilidades">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/corrente_blockchain.jpg" fileSize="30665" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Dell EMC corrige falhas críticas em storages da linha VMAX</title>
+ <link>http://computerworld.com.br/dell-emc-corrige-falhas-criticas-em-storages-da-linha-vmax</link>
+ <description>Três vulnerabilidades foram apontadas como críticas, passíveis de expor arquivos sensíveis ou comprometer ambientes inteiros</description>
+ <pubDate>seg, 03 out 2016 17:30:44 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/V%C3%ADrus%20e%20vulnerabilidades">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/vmax_emc_storage.jpg" fileSize="59833" type="image/jpeg" width="625" height="469" />
+</item>
+</channel>
+</rss>

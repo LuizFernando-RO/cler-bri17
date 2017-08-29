@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://computerworld.com.br/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"> <channel> <title>RSS Assunto</title>
+ <description>Portal sobre tecnologia da informação e telecomunicações</description>
+ <link>http://computerworld.com.br/</link>
+ <atom:link rel="self" href="http://computerworld.com.br/rss_assunto/APIs" />
+ <language>pt-br</language>
+ <item> <title>Quem vai sobreviver ao tsunami pós-transformação digital</title>
+ <link>http://computerworld.com.br/quem-vai-sobreviver-ao-tsunami-pos-transformacao-digital</link>
+ <description>O que vem depois da primeira onda da transformação digital é um verdadeiro tsunami. Prepare-se para enfrentar e não afundar</description>
+ <pubDate>seg, 03 jul 2017 13:29:52 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/APIs">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/tsunami.jpg" fileSize="74579" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>IoT, APIs, blockchain e chatbots: O que esperar da integração de aplicações</title>
+ <link>http://computerworld.com.br/iot-apis-blockchain-e-chatbots-o-que-esperar-da-integracao-de-aplicacoes</link>
+ <description>Cada vez mais a integração de aplicações se torna mais presente e fundamental nas empresas em razão do surgimento de projetos baseados nessas tecnologias</description>
+ <pubDate>qui, 22 jun 2017 14:46:53 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/APIs">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/app_1.jpg" fileSize="84066" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Mercado de carros autônomos vai movimentar US$7 trilhões em 2050</title>
+ <link>http://computerworld.com.br/mercado-de-carros-autonomos-vai-movimentar-us7-trilhoes-em-2050</link>
+ <description>Dados são do novo estudo Economia de Passageiros, encomendado à Strategy Analytics pela Intel</description>
+ <pubDate>seg, 12 jun 2017 16:32:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/APIs">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/googlecar_625.jpg" fileSize="53790" type="image/jpeg" width="624" height="468" />
+</item>
+ <item> <title>Banco Central cria laboratório de inovação para fintechs</title>
+ <link>http://computerworld.com.br/banco-central-cria-laboratorio-de-inovacao-para-fintechs</link>
+ <description>Projeto terá participação da Microsoft que irá fornecer sua plataforma de nuvem Azure para projetos de fintechs</description>
+ <pubDate>qui, 08 jun 2017 12:08:18 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/APIs">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/startup3_1_0.jpg" fileSize="39242" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>BNDES fecha parceria com B2W para ampliar acesso ao crédito a MPMEs</title>
+ <link>http://computerworld.com.br/bndes-fecha-parceria-com-b2w-para-ampliar-acesso-ao-credito-mpmes</link>
+ <description>Portadores do Cartão BNDES já podem adquirir e financiar bens e serviços na plataforma digital da B2W, que reúne as marcas Americanas.com, Submarino, Shoptime e SouBarato</description>
+ <pubDate>seg, 03 abr 2017 17:16:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/APIs">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/cartao_de_credito3.jpg" fileSize="26263" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>W3C lança recomendações para publicações de dados na internet</title>
+ <link>http://computerworld.com.br/w3c-lanca-recomendacoes-para-publicacoes-de-dados-na-internet</link>
+ <description>Documento é útil para todos. Pensou em metadados? Em APIs? O objetivo é criar boas práticas para usá-los corretamente</description>
+ <pubDate>qui, 02 fev 2017 10:02:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/APIs">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/criptografia_0.jpg" fileSize="72821" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>SEC4YOU adota solução de gestão de API para modernizar sistemas legados</title>
+ <link>http://computerworld.com.br/sec4you-adota-solucao-de-gestao-de-api-para-modernizar-sistemas-legados</link>
+ <description>Projeto SEC4YOU Tapioca Plugin permitiu aos clientes da empresa interagir de maneira assertiva com dispositivos e usuários</description>
+ <pubDate>seg, 23 jan 2017 17:41:20 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/APIs">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/apis_0.jpg" fileSize="96003" type="image/jpeg" width="620" height="465" />
+</item>
+ <item> <title>Bots e APIs: O mundo é pequeno demais para os dois?</title>
+ <link>http://computerworld.com.br/bots-e-apis-o-mundo-e-pequeno-demais-para-os-dois</link>
+ <description>Se o domínio das máquinas está começando com uma &quot;guerra civil&quot; entre bots e APIs, é bom que nós humanos façamos uma análise cuidadosa da situação</description>
+ <pubDate>qua, 28 dez 2016 09:05:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/APIs">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/bots.jpg" fileSize="51472" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Chatbots são como filhos, estão sempre aprendendo</title>
+ <link>http://computerworld.com.br/chatbots-sao-como-filhos-estao-sempre-aprendendo</link>
+ <description>Conectar o chatbot com o call center para que questões que ele não seja capaz de resolver sejam encaminhadas a um atendente humano é uma boa solução</description>
+ <pubDate>seg, 26 dez 2016 07:44:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/APIs">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/virtual.jpg" fileSize="34811" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Brasil entra na era do Open Banking</title>
+ <link>http://computerworld.com.br/brasil-entra-na-era-do-open-banking</link>
+ <description>Novo conceito permite que terceiros possam desenvolver aplicações em torno das instituições financeiras que, por sua vez, abrem suas APIs para construção de aplicativos</description>
+ <pubDate>sex, 23 dez 2016 12:39:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/APIs">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/open_bank.jpg" fileSize="53167" type="image/jpeg" width="625" height="469" />
+</item>
+</channel>
+</rss>

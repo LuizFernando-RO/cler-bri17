@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://computerworld.com.br/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"> <channel> <title>RSS Assunto</title>
+ <description>Portal sobre tecnologia da informação e telecomunicações</description>
+ <link>http://computerworld.com.br/</link>
+ <atom:link rel="self" href="http://computerworld.com.br/rss_assunto/Rob%C3%B3tica" />
+ <language>pt-br</language>
+ <item> <title>Robô auxiliará médicos do Hospital Samaritano em cirurgias de média e alta complexidades</title>
+ <link>http://computerworld.com.br/robo-auxiliara-medicos-do-hospital-samaritano-em-cirurgias-de-media-e-alta-complexidades</link>
+ <description>Hospital acaba de inaugurar seu Centro de Robótica, que conta com o robô Da Vinci, que será utilizado em cirurgias dos núcleos de urologia, gastroenterologia e ginecologia</description>
+ <pubDate>seg, 21 ago 2017 17:26:40 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Rob%C3%B3tica">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/robo_5.jpg" fileSize="29163" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Gastos globais com robótica devem atingir US$ 87 bilhões até 2025</title>
+ <link>http://computerworld.com.br/gastos-globais-com-robotica-devem-atingir-us-87-bilhoes-ate-2025</link>
+ <description>Segundo o Boston Consulting Group, maior parte deste crescimento deve vir do mercado consumidor incentivado por veículos autônomos e dispositivos para casa</description>
+ <pubDate>seg, 10 jul 2017 13:43:20 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Rob%C3%B3tica">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/robo-michael_kan.jpg" fileSize="57450" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Fábricas Inteligentes devem adicionar US$ 500 bi à economia global, indica estudo</title>
+ <link>http://computerworld.com.br/fabricas-inteligentes-devem-adicionar-us-500-bi-economia-global-indica-estudo</link>
+ <description>Gestores da indústria de manufatura esperam que os investimentos em fábricas inteligentes sejam responsáveis por um aumento de 27% de produtividade nos próximos cinco anos, aponta pesquisa</description>
+ <pubDate>qui, 22 jun 2017 20:36:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Rob%C3%B3tica">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/robo_4.jpg" fileSize="29163" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Setores automotivo, aeroespacial, defesa e manufatura lideram projetos de fábricas inteligentes</title>
+ <link>http://computerworld.com.br/setores-automotivo-aeroespacial-defesa-e-manufatura-lideram-projetos-de-fabricas-inteligentes</link>
+ <description>Estudo do Instituto de Transformação Digital da Capgemini revela que 21% dos fabricantes esperam que suas fábricas sejam inteligentes até 2022</description>
+ <pubDate>seg, 29 mai 2017 12:35:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Rob%C3%B3tica">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/robo_3.jpg" fileSize="29163" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Muitas pessoas já admitem ser atendidas por robôs no lugar de médicos, diz estudo</title>
+ <link>http://computerworld.com.br/muitas-pessoas-ja-admitem-ser-atendidas-por-robos-no-lugar-de-medicos-diz-estudo</link>
+ <description>Acesso mais fácil a tratamentos e diagnósticos mais rápidos e exatos estão entre razões para o uso de inteligência artificial na área de saúde, segundo a consultoria PwC</description>
+ <pubDate>qua, 17 mai 2017 18:05:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Rob%C3%B3tica">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/doutor_robo.jpg" fileSize="47697" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Com Neuralink, Elon Musk espera transformar humanos em ciborgues em quatro anos</title>
+ <link>http://computerworld.com.br/com-neuralink-elon-musk-espera-transformar-humanos-em-ciborgues-em-quatro-anos</link>
+ <description>Em entrevista a site, empresário detalhou planos de desenvolver interface cérebro-máquina para impulsionar habilidades cognitivas de humanos</description>
+ <pubDate>seg, 24 abr 2017 14:36:36 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Rob%C3%B3tica">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/musk-recode_625.jpg" fileSize="26772" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Empresa sueca instala microchips em funcionários</title>
+ <link>http://computerworld.com.br/empresa-sueca-instala-microchips-em-funcionarios</link>
+ <description>Funcionários ciborgues viraram rotina no espaço de coworking Epicenter. Implante funciona como uma chave para abrir portas, operar impressoras e até mesmo como cartão de crédito</description>
+ <pubDate>sex, 07 abr 2017 11:54:07 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Rob%C3%B3tica">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/epicenter.jpg" fileSize="28919" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Robôs e algoritmos poderão substituir até o trabalho de CEOs</title>
+ <link>http://computerworld.com.br/robos-e-algoritmos-poderao-substituir-ate-o-trabalho-de-ceos</link>
+ <description>Estudo da McKinsey indica que a análise de relatórios e dados para tomar decisões, por exemplo, poderá ser realizada por algoritmos. Ao todo, um quarto do trabalho dos CEOs poderá ser automatizado</description>
+ <pubDate>qui, 02 mar 2017 10:26:21 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Rob%C3%B3tica">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/robo2.jpg" fileSize="68663" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>APIs e o desenvolvimento de um mundo com robôs</title>
+ <link>http://computerworld.com.br/apis-e-o-desenvolvimento-de-um-mundo-com-robos</link>
+ <description>Os chatbots vão permitir que os humanos interajam com os sistemas de informação de novas maneiras</description>
+ <pubDate>qui, 22 dez 2016 08:32:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Rob%C3%B3tica">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/robo_0.jpg" fileSize="96270" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Sete tendências de startups de tecnologia para acompanhar em 2017</title>
+ <link>http://computerworld.com.br/sete-tendencias-de-startups-de-tecnologia-para-acompanhar-em-2017</link>
+ <description>Inteligência Artificial será uma área pródiga no próximo ano, juntamente com segurança cibernética, chatbots e realidade virtual</description>
+ <pubDate>qui, 15 dez 2016 06:46:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Rob%C3%B3tica">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/artificial-intelligence.jpg" fileSize="157970" type="image/jpeg" width="625" height="469" />
+</item>
+</channel>
+</rss>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://computerworld.com.br/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"> <channel> <title>RSS Assunto</title>
+ <description>Portal sobre tecnologia da informação e telecomunicações</description>
+ <link>http://computerworld.com.br/</link>
+ <atom:link rel="self" href="http://computerworld.com.br/rss_assunto/PaaS" />
+ <language>pt-br</language>
+ <item> <title>Ingram Micro amplia portfólio cloud com oferta de IBM Softlayer no Brasil</title>
+ <link>http://computerworld.com.br/ingram-micro-amplia-portfolio-cloud-com-oferta-de-ibm-softlayer-no-brasil</link>
+ <description>A partir do acordo, revendas podem comprar, provisionar, administrar e faturar serviços em nuvem a partir do relacionamento com a distribuidora</description>
+ <pubDate>seg, 16 mai 2016 18:52:44 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/PaaS">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/cloud-network-composite.jpg" fileSize="39229" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Projetos de IoT puxarão uso de PaaS até 2020</title>
+ <link>http://computerworld.com.br/projetos-de-iot-puxarao-uso-de-paas-ate-2020</link>
+ <description>Gartner estima que metade das aplicações desenvolvidas em plataforma como serviço serão para suportar esforços de internet das coisas</description>
+ <pubDate>ter, 08 mar 2016 18:08:47 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/PaaS">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/cloud_paas_plataforma.jpg" fileSize="30657" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>AWS disponibiliza ferramenta gratuita para desenvolvimento de games 3D</title>
+ <link>http://computerworld.com.br/aws-disponibiliza-ferramenta-gratuita-para-desenvolvimento-de-games-3d</link>
+ <description>Tecnologia está disponível em versão beta para desenvolvedores de PC e jogos de console</description>
+ <pubDate>qui, 11 fev 2016 17:22:38 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/PaaS">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/estrategia_investimento.jpg" fileSize="38570" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Microsoft libera versão grátis do Azure para estudantes no Brasil</title>
+ <link>http://computerworld.com.br/microsoft-libera-versao-gratis-do-azure-para-estudantes-no-brasil</link>
+ <description>Oferta faz parte do DreamSpark, programa de apoio à educação técnica mantido pela fabricante</description>
+ <pubDate>ter, 08 dez 2015 15:59:14 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/PaaS">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/cloud_gestao.jpg" fileSize="53661" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Oracle molda estratégia para liderar transição para cloud computing</title>
+ <link>http://computerworld.com.br/oracle-forja-estrategia-para-liderar-transicao-para-cloud-computing</link>
+ <description>Fabricante ajustou produtos, reforçou abordagem comercial e agora começa a mover o ecossistema de parceiros para oferta de nuvem </description>
+ <pubDate>ter, 27 out 2015 13:30:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/PaaS">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/emprego_quente.jpg" fileSize="62314" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Locaweb disponibiliza integração com o Docker na plataforma Jelastic Cloud</title>
+ <link>http://computerworld.com.br/locaweb-disponibiliza-integracao-com-o-docker-na-plataforma-jelastic-cloud</link>
+ <description>Oferta de PaaS para aplicações Java, PHP, Ruby, Python e Node da provedora passa a suportar tecnologia disponível em contêineres</description>
+ <pubDate>qui, 03 set 2015 16:18:24 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/PaaS">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/conteiner_docker_devops.jpg" fileSize="122283" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Empresas ainda desconhecem benefícios da computação em nuvem</title>
+ <link>http://computerworld.com.br/empresas-ainda-desconhecem-beneficios-da-computacao-em-nuvem</link>
+ <description>Estudo da Oracle indica que 44% dos departamentos de TI desconhecem vantagens do uso de PaaS, como a possibilidade de criação de aplicativos rapidamente</description>
+ <pubDate>qui, 27 ago 2015 16:26:56 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/PaaS">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/cloud-barco_625.jpg" fileSize="39562" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>GE lança plataforma cloud e pode revolucionar futuro da IoT</title>
+ <link>http://computerworld.com.br/ge-lanca-plataforma-cloud-e-pode-revolucionar-futuro-da-iot</link>
+ <description>Predix Cloud foi construído de acordo com a necessidade vivenciada pela companhia, que atuam em frentes que vão desde eletrodomésticos até turbinas de avião</description>
+ <pubDate>qua, 05 ago 2015 19:16:22 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/PaaS">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/internet_iot.jpg" fileSize="49333" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Oracle (finalmente) migra todos seus serviços para nuvem</title>
+ <link>http://computerworld.com.br/oracle-finalmente-migra-todos-seus-servicos-para-nuvem</link>
+ <description>Fabricante apresentou 24 novas soluções para ajudar seus clientes a avançarem para um ambiente cloud</description>
+ <pubDate>ter, 23 jun 2015 17:59:23 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/PaaS">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/larry_ellison_oracle_625.jpg" fileSize="35837" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Microsoft abre as portas do Azure para Cloud Foundry</title>
+ <link>http://computerworld.com.br/microsoft-abre-portas-do-azure-para-cloud-foundry</link>
+ <description>Preview público da iniciativa já está disponível. Usuários podem estender fluxos de trabalho de qualquer nuvem pública ou privada para plataforma</description>
+ <pubDate>seg, 01 jun 2015 08:25:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/PaaS">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/cloud-data_625.jpg" fileSize="102512" type="image/jpeg" width="625" height="469" />
+</item>
+</channel>
+</rss>

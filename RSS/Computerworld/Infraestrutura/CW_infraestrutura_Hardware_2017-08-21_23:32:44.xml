@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://computerworld.com.br/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"> <channel> <title>RSS Assunto</title>
+ <description>Portal sobre tecnologia da informação e telecomunicações</description>
+ <link>http://computerworld.com.br/</link>
+ <atom:link rel="self" href="http://computerworld.com.br/rss_assunto/Hardware" />
+ <language>pt-br</language>
+ <item> <title>Dell renova portfólio de notebooks 2 em 1 corporativos</title>
+ <link>http://computerworld.com.br/dell-renova-portfolio-de-notebooks-2-em-1-corporativos</link>
+ <description>Com formato que combina notebook e tablet, as linhas Latitude 5000 e 7000 incluem recursos de segurança como autenticação multifator, criptografia e proteção contra malware</description>
+ <pubDate>qui, 10 ago 2017 17:13:37 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Hardware">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/computer_7.jpg" fileSize="60828" type="image/jpeg" width="625" height="467" />
+</item>
+ <item> <title>Vendas mundiais de PCs caem 4,3% no segundo trimestre</title>
+ <link>http://computerworld.com.br/vendas-mundiais-de-pcs-caem-43-no-segundo-trimestre</link>
+ <description>Remessas de computadores pessoais totalizaram 61,1 milhões de unidades no período de abril a junho. Este foi o 11º trimestre consecutivo de queda nas vendas, segundo o Gartner</description>
+ <pubDate>ter, 08 ago 2017 13:27:45 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Hardware">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/financas_crise_5.jpg" fileSize="47900" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Produção da indústria eletroeletrônica cresce 3% no primeiro trimestre</title>
+ <link>http://computerworld.com.br/producao-da-industria-eletroeletronica-cresce-3-no-primeiro-trimestre</link>
+ <description>Segundo a Abinee, desempenho foi melhor que o apresentado pela indústria geral e pela indústria de transformação</description>
+ <pubDate>seg, 07 ago 2017 15:48:49 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Hardware">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/financas_1.jpg" fileSize="58036" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Pesquisadores da IBM batem recorde ao armazenar 330 TB em fita magnética</title>
+ <link>http://computerworld.com.br/pesquisadores-da-ibm-batem-recorde-ao-armazenar-330-tb-em-fita-magnetica</link>
+ <description>A gigante da tecnologia conseguiu alcançar densidade de 201 GB por polegada quadrada, superando em mais de 20 vezes o valor alcançado em drives vendidos atualmente</description>
+ <pubDate>qua, 02 ago 2017 12:38:03 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Hardware">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/ibm330tb_625.jpg" fileSize="35435" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Samsung supera Intel como maior fabricante de chips no mundo</title>
+ <link>http://computerworld.com.br/samsung-supera-intel-como-maior-fabricante-de-chips-no-mundo</link>
+ <description>Fabricante sul-coreana registrou uma receita de US$15,8 bilhões no trimestre, superando os US$14,76 bilhões da concorrente</description>
+ <pubDate>ter, 01 ago 2017 11:26:54 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Hardware">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/chip3_1.jpg" fileSize="92507" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Atos lança primeiro supercomputador com chip ARM</title>
+ <link>http://computerworld.com.br/atos-lanca-primeiro-supercomputador-com-chip-arm</link>
+ <description>Novo Bull Sequana X1310 chega após anos de desenvolvimento para garantir mais eficiência e desempenho em exa-escala</description>
+ <pubDate>sex, 28 jul 2017 14:27:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Hardware">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/bull.jpg" fileSize="45255" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Receita mundial da indústria de semicondutores deve superar a casa dos US$ 400 bi neste ano</title>
+ <link>http://computerworld.com.br/receita-mundial-da-industria-de-semicondutores-deve-superar-casa-dos-us-400-bi-neste-ano</link>
+ <description>De acordo com o Gartner, esta será a primeira vez que o montante do mercado global de semicondutores deve ultrapassar os US$ 400 bilhões</description>
+ <pubDate>sex, 28 jul 2017 14:05:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Hardware">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/chip_de_memoria.jpg" fileSize="77009" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Remessas globais de PCs devem cair, mas de smartphones crescerão 5% neste ano</title>
+ <link>http://computerworld.com.br/remessas-globais-de-pcs-devem-cair-mas-de-smartphones-crescerao-5-neste-ano</link>
+ <description>No geral, as remessas mundiais de PCs, tablets e smartphones deverão ter ligeiro declínio de 0,3% em relação a 2016, de acordo com o Gartner, que avalia que o mercado deve voltar a crescer em 2018</description>
+ <pubDate>qui, 27 jul 2017 17:32:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Hardware">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/pcs_0.jpg" fileSize="67737" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>HP supera Lenovo e retoma liderança mundial na venda de PCs no segundo trimestre</title>
+ <link>http://computerworld.com.br/hp-supera-lenovo-e-retoma-lideranca-mundial-na-venda-de-pcs-no-segundo-trimestre</link>
+ <description>As remessas de computadores pessoais da empresa cresceram na maioria de regiões do mundo, em especial nos Estados Unidos</description>
+ <pubDate>sex, 14 jul 2017 19:52:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Hardware">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/computer_6.jpg" fileSize="60828" type="image/jpeg" width="625" height="467" />
+</item>
+ <item> <title>Dell EMC inicia produção e venda de servidores PowerEdge 14G no Brasil</title>
+ <link>http://computerworld.com.br/dell-emc-inicia-producao-e-venda-de-servidores-poweredge-14g-no-brasil</link>
+ <description>Os novos servidores foram criados para funcionar como a base para os data centers modernos, com ganhos de desempenho, gestão simplificada e segurança</description>
+ <pubDate>qui, 13 jul 2017 23:55:47 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Hardware">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/servidor.jpg" fileSize="28197" type="image/jpeg" width="625" height="469" />
+</item>
+</channel>
+</rss>

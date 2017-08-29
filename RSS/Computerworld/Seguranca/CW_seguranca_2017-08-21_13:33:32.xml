@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://computerworld.com.br/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"> <channel> <title>RSS Tema</title>
+ <description>Portal sobre tecnologia da informação e telecomunicações</description>
+ <link>http://computerworld.com.br/</link>
+ <atom:link rel="self" href="http://computerworld.com.br/rss_tema/Seguran%C3%A7a" />
+ <language>pt-br</language>
+ <item> <title>Radiografia dos Ransomwares, os vilões mais temidos da internet  </title>
+ <link>http://computerworld.com.br/radiografia-dos-ransomwares-os-viloes-mais-temidos-da-internet</link>
+ <description>Aumenta a preocupação das empresas com a segurança de dados depois do caso WannaCry</description>
+ <guid isPermaLink="false">http://computerworld.com.br/radiografia-dos-ransomwares-os-viloes-mais-temidos-da-internet</guid>
+ <pubDate>Mon, 21 Aug 2017 11:46:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Seguran%C3%A7a">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/ransomwares-brandpost-kaspersky.jpg" fileSize="70109" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Quanto valem seus dados? Deixe-os desprotegidos e saberás</title>
+ <link>http://computerworld.com.br/quanto-valem-seus-dados-deixe-os-desprotegidos-e-saberas</link>
+ <description>Devemos nos perguntar até quando deixaremos nossas informações desprotegidas a ponto de comprometer e causar prejuízos</description>
+ <guid isPermaLink="false">http://computerworld.com.br/quanto-valem-seus-dados-deixe-os-desprotegidos-e-saberas</guid>
+ <pubDate>Thu, 17 Aug 2017 19:09:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Seguran%C3%A7a">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/security-1202344_1280_2.jpg" fileSize="73947" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Ocorreu um incidente de segurança? Saiba o que fazer</title>
+ <link>http://computerworld.com.br/ocorreu-um-incidente-de-seguranca-saiba-o-que-fazer</link>
+ <description>Saída é buscar reduzir o impacto que um incidente pode causar, sendo ágil e assertivo no seu tratamento</description>
+ <guid isPermaLink="false">http://computerworld.com.br/ocorreu-um-incidente-de-seguranca-saiba-o-que-fazer</guid>
+ <pubDate>Wed, 16 Aug 2017 23:18:10 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Seguran%C3%A7a">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/dados_9.jpg" fileSize="110823" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>STF autoriza extradição para os EUA de hacker acusado de fraudes eletrônicas</title>
+ <link>http://computerworld.com.br/stf-autoriza-extradicao-para-os-eua-de-hacker-acusado-de-fraudes-eletronicas</link>
+ <description>Michael Knigthen, acusado de pertencer ao grupo hacker autodenominado Techie Group, teria fraudado empresas com sede nos EUA em mais de US$ 4,85 milhões</description>
+ <guid isPermaLink="false">http://computerworld.com.br/stf-autoriza-extradicao-para-os-eua-de-hacker-acusado-de-fraudes-eletronicas</guid>
+ <pubDate>Wed, 16 Aug 2017 12:43:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Seguran%C3%A7a">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/hacker_sombrio_1.jpg" fileSize="14010" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Robôs e &amp;#039;zonas escuras&amp;#039; das estruturas de TI agravam ambiente de risco</title>
+ <link>http://computerworld.com.br/robos-e-zonas-escuras-das-estruturas-de-ti-agravam-ambiente-de-risco</link>
+ <description>Inteligência artificial, zonas escuras de TI, resquícios da guerra cibernética, criptomoedas e Internet das Coisas estão entre os vetores de riscos virtuais elencados pela Aker N-Stalker</description>
+ <guid isPermaLink="false">http://computerworld.com.br/robos-e-zonas-escuras-das-estruturas-de-ti-agravam-ambiente-de-risco</guid>
+ <pubDate>Tue, 15 Aug 2017 16:00:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Seguran%C3%A7a">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/hacking_4.jpg" fileSize="78918" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Grande parte das empresas ignora o risco de ameaças cibernéticas</title>
+ <link>http://computerworld.com.br/grande-parte-das-empresas-ignora-o-risco-de-ameacas-ciberneticas</link>
+ <description>Levantamento com 482 executivos de negócios e TI mostra que 32% das empresas não realizou uma avaliação dos riscos oferecidos por ameaças cibernéticas no último ano</description>
+ <guid isPermaLink="false">http://computerworld.com.br/grande-parte-das-empresas-ignora-o-risco-de-ameacas-ciberneticas</guid>
+ <pubDate>Mon, 14 Aug 2017 16:08:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Seguran%C3%A7a">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/risk.jpg" fileSize="53898" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Porque manter a saúde dos dados de pacientes</title>
+ <link>http://computerworld.com.br/porque-manter-saude-dos-dados-de-pacientes</link>
+ <description>Diariamente, os hospitais lidam com informações pessoais de inúmeros pacientes, que, em mãos erradas, podem ser utilizados de maneira ilícita</description>
+ <guid isPermaLink="false">http://computerworld.com.br/porque-manter-saude-dos-dados-de-pacientes</guid>
+ <pubDate>Mon, 14 Aug 2017 15:28:26 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Seguran%C3%A7a">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/xray.jpg" fileSize="45048" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Esteja pronto para responder a incidentes, em vez de só preveni-los</title>
+ <link>http://computerworld.com.br/esteja-pronto-para-responder-incidentes-em-vez-de-so-preveni-los</link>
+ <description>Uma vez que há o plano de resposta, a companhia precisa ter certeza de que possui as tecnologias de segurança e conhecimentos adequados para apoiá-lo</description>
+ <guid isPermaLink="false">http://computerworld.com.br/esteja-pronto-para-responder-incidentes-em-vez-de-so-preveni-los</guid>
+ <pubDate>Mon, 14 Aug 2017 13:23:16 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Seguran%C3%A7a">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/ciberseguranca_3.jpg" fileSize="230560" type="image/jpeg" width="960" height="640" />
+</item>
+ <item> <title>Cientistas invadem computador usando malware codificado em cadeia de DNA</title>
+ <link>http://computerworld.com.br/cientistas-invadem-computador-usando-malware-codificado-em-cadeia-de-dna</link>
+ <description>Equipe explorou vulnerabilidade de segurança conhecida e a incluiu em um programa de processamento de DNA</description>
+ <guid isPermaLink="false">http://computerworld.com.br/cientistas-invadem-computador-usando-malware-codificado-em-cadeia-de-dna</guid>
+ <pubDate>Fri, 11 Aug 2017 15:08:50 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Seguran%C3%A7a">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/dna-625.jpg" fileSize="35636" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Sua política de segurança de dados está no caminho certo?</title>
+ <link>http://computerworld.com.br/sua-politica-de-seguranca-de-dados-esta-no-caminho-certo</link>
+ <description>As boas práticas de segurança da informação compartilhadas por analistas do Gartner durante a Conferência Segurança e Gestão de Risco 2017, em São Paulo</description>
+ <guid isPermaLink="false">http://computerworld.com.br/sua-politica-de-seguranca-de-dados-esta-no-caminho-certo</guid>
+ <pubDate>Fri, 11 Aug 2017 14:06:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Seguran%C3%A7a">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/data.jpg" fileSize="92145" type="image/jpeg" width="625" height="469" />
+</item>
+</channel>
+</rss>

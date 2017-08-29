@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://computerworld.com.br/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"> <channel> <title>RSS Assunto</title>
+ <description>Portal sobre tecnologia da informação e telecomunicações</description>
+ <link>http://computerworld.com.br/</link>
+ <atom:link rel="self" href="http://computerworld.com.br/rss_assunto/Programa%C3%A7%C3%A3o" />
+ <language>pt-br</language>
+ <item> <title>Hackathon Ciab FEBRABAN atrai mais de 400 candidatos para projetos em finanças</title>
+ <link>http://computerworld.com.br/hackathon-ciab-febraban-atrai-mais-de-400-candidatos-para-projetos-em-financas</link>
+ <description>Foram selecionados 80 participantes que terão pouco mais de 24 horas para aperfeiçoar suas ideias e disputar um dos 4 lugares na feira</description>
+ <pubDate>qui, 01 jun 2017 00:53:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Programa%C3%A7%C3%A3o">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/hackathon_0.jpg" fileSize="47317" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Diário de campo na guerra por talentos no mercado de tecnologia</title>
+ <link>http://computerworld.com.br/diario-de-campo-na-guerra-por-talentos-no-mercado-de-tecnologia</link>
+ <description>Na busca por profissionais qualificados para assumir posições em TI, recrutadores esbarram em egos inflados e leilões salariais</description>
+ <pubDate>sex, 24 mar 2017 16:16:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Programa%C3%A7%C3%A3o">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/guerra_soldados.jpg" fileSize="91917" type="image/jpeg" width="626" height="469" />
+</item>
+ <item> <title>Entidades de TI celebram aprovação da PL que libera trabalho terceirizado</title>
+ <link>http://computerworld.com.br/entidades-de-ti-celebram-aprovacao-da-pl-que-libera-trabalho-terceirizado</link>
+ <description>O PL 4.302/1998 foi bem recebido pelos associados da Assespro-SP e ABES, entidades que concentram empresas de software e serviços</description>
+ <pubDate>qui, 23 mar 2017 18:09:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Programa%C3%A7%C3%A3o">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/outsourcing_0.jpg" fileSize="90534" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Google Cloud libera geral e lança nova iniciativa Always Free na nuvem</title>
+ <link>http://computerworld.com.br/google-cloud-libera-geral-e-lanca-nova-iniciativa-always-free-na-nuvem</link>
+ <description>Empresa quer com isso atrair mais usuários para sua plataforma de cloud computing. Iniciativa foi apresentada durante a NEXT 2017, em San Francisco</description>
+ <pubDate>sex, 10 mar 2017 17:18:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Programa%C3%A7%C3%A3o">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/sam_rimji_2.jpg" fileSize="30056" type="image/jpeg" width="624" height="468" />
+</item>
+ <item> <title>Metodologias ágeis otimizam o fluxo de doações de sangue no Brasil</title>
+ <link>http://computerworld.com.br/metodologias-ageis-otimizam-o-fluxo-de-doacoes-de-sangue-no-brasil</link>
+ <description>Projeto HemoHeroes foi criado por estudantes de TI da PUC-RS na Aceleradora de Métodos Ágeis, que tem parceria com a ThoughtWorks e a Microsoft</description>
+ <pubDate>qua, 28 dez 2016 11:31:15 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Programa%C3%A7%C3%A3o">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/sangue_doacao.jpg" fileSize="49856" type="image/jpeg" width="624" height="470" />
+</item>
+ <item> <title>Voluntários da TCS ensinam técnicas de programação em escola estadual de SP</title>
+ <link>http://computerworld.com.br/voluntarios-da-tcs-ensinam-tecnicas-de-programacao-em-escola-estadual-de-sp</link>
+ <description>A iniciativa faz parte da “Hora do Código”, iniciativa promovida pela ONG Code.org para difundir a Ciência da Computação</description>
+ <pubDate>qui, 27 out 2016 09:54:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Programa%C3%A7%C3%A3o">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/relogios.jpg" fileSize="88426" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Microsoft abre o código de linguagem de programação para IoT</title>
+ <link>http://computerworld.com.br/microsoft-abre-o-codigo-de-linguagem-de-programacao-para-iot</link>
+ <description>Linguagem de programação P é indicada para construção de sistemas embarcados, controladores de dispositivos e serviços distribuídos</description>
+ <pubDate>sex, 14 out 2016 17:52:17 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Programa%C3%A7%C3%A3o">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/binario_programacao_futuro.jpg" fileSize="93376" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>IBM convoca estudantes brasileiros a virarem mestres em Mainframe</title>
+ <link>http://computerworld.com.br/ibm-convoca-estudantes-brasileiros-virarem-mestres-em-mainframe</link>
+ <description>Master the Mainframe Brasil tem como objetivo atrair interessados em desenvolver habilidades de programação na plataforma z Systems</description>
+ <pubDate>sex, 14 out 2016 11:20:28 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Programa%C3%A7%C3%A3o">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/mainframe_ibm.jpg" fileSize="48738" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Microsoft lança campanha para ensinar jovens brasileiros a programar</title>
+ <link>http://computerworld.com.br/microsoft-lanca-campanha-para-ensinar-jovens-brasileiros-programar</link>
+ <description>#EuPossoProgramar oferece às crianças e jovens a oportunidade de dar os primeiros passos na programação</description>
+ <pubDate>seg, 03 out 2016 12:10:19 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Programa%C3%A7%C3%A3o">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/minecraft_0.jpg" fileSize="107301" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Sete ferramentas para criar uma cultura eficiente de DevOps</title>
+ <link>http://computerworld.com.br/tecnologia/2015/01/30/7-ferramentas-para-criar-uma-cultura-de-devops-correta</link>
+ <description>Com os DevOps, as brigas entre programação e operação estão acabando. Mais ainda com a ajuda dessas soluções</description>
+ <pubDate>sex, 16 set 2016 15:00:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Programa%C3%A7%C3%A3o">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/devops_635.jpg" fileSize="72768" type="image/jpeg" width="625" height="469" />
+</item>
+</channel>
+</rss>

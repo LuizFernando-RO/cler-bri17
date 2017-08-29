@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://computerworld.com.br/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"> <channel> <title>RSS Assunto</title>
+ <description>Portal sobre tecnologia da informação e telecomunicações</description>
+ <link>http://computerworld.com.br/</link>
+ <atom:link rel="self" href="http://computerworld.com.br/rss_assunto/Investimentos" />
+ <language>pt-br</language>
+ <item> <title>Accenture adquire empresa brasileira especializada em Agile e DevOps</title>
+ <link>http://computerworld.com.br/accenture-adquire-empresa-brasileira-especializada-em-agile-e-devops</link>
+ <description>Em comunicado, a consultoria de gestão, serviços de tecnologia e outsourcing diz que a aquisição vai expandir suas capacidades em tecnologias de ponta e abordagens de desenvolvimento rápido</description>
+ <pubDate>ter, 08 ago 2017 12:46:04 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Investimentos">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/devops_6.jpg" fileSize="62327" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Neoway recebe nova rodada de investimentos, de US$ 45 milhões</title>
+ <link>http://computerworld.com.br/neoway-recebe-nova-rodada-de-investimentos-de-us-45-milhoes</link>
+ <description>Empresa catarinense vai utilizar os recursos para a expansão internacional, desenvolvimento de dados e expansão de P&amp;amp;D em IA, big data e análises preditivas</description>
+ <pubDate>qui, 29 jun 2017 18:59:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Investimentos">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/aporte3.jpg" fileSize="100200" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>App de transporte 99 recebe aporte de US$100 milhões do Softbank</title>
+ <link>http://computerworld.com.br/app-de-transporte-99-recebe-aporte-de-us100-milhoes-do-softbank</link>
+ <description>Startup com sede em São Paulo pretende usar o investimento para expandir o seu serviço com carros particulares 99 Pop, que concorre diretamente com o Uber</description>
+ <pubDate>qua, 24 mai 2017 16:18:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Investimentos">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/taxi.jpg" fileSize="40627" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Mais um ano ruim para o mercado de TI</title>
+ <link>http://computerworld.com.br/mais-um-ano-ruim-para-o-mercado-de-ti</link>
+ <description>A reoneração da folha de pagamento, aumento de ISS, lei de terceirização e os discursos do Meirelles sobre aumento de impostos em geral estão tirando o sono de todo o mercado de TI</description>
+ <pubDate>seg, 22 mai 2017 12:18:38 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Investimentos">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/financas_crise_1.jpg" fileSize="47900" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Investimentos em TI dos bancos brasileiros se aproximam dos da vertical governo</title>
+ <link>http://computerworld.com.br/investimentos-em-ti-dos-bancos-brasileiros-se-aproximam-dos-da-vertical-governo-2</link>
+ <description>E o mobile banking supera pela primeira vez o internet banking, respondendo por 34% do total das transações, segundo estudo da Febraban</description>
+ <pubDate>qui, 11 mai 2017 10:12:16 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Investimentos">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/mobilebanking.jpg" fileSize="42184" type="image/jpeg" width="625" height="468" />
+</item>
+ <item> <title>Sem grana para prototipar uma grande ideia? Confira o Sibratecshop </title>
+ <link>http://computerworld.com.br/sem-grana-para-prototipar-uma-grande-ideia-confira-o-sibratecshop</link>
+ <description>Inatel oferece recursos financeiros para micro e pequenas empresas, empreendedores individuais e startups através do programa</description>
+ <pubDate>sex, 28 abr 2017 14:04:02 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Investimentos">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/ideia_lampada_0.jpg" fileSize="34153" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Cristina Brisola assume direção da Hitachi Data Systems no Brasil</title>
+ <link>http://computerworld.com.br/cristina-brisola-assume-direcao-da-hitachi-data-systems-no-brasil</link>
+ <description>Executiva passa a ser a nova country manager da companhia, com a missão de triplicar o tamanho da operação nos próximos três anos</description>
+ <pubDate>qui, 27 abr 2017 13:42:53 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Investimentos">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/cristina_brisola_hds.jpg" fileSize="50763" type="image/jpeg" width="626" height="469" />
+</item>
+ <item> <title>Líderes de TI brasileiros esperam queda média de 1% nos orçamentos neste ano</title>
+ <link>http://computerworld.com.br/lideres-de-ti-brasileiros-esperam-queda-media-de-1-nos-orcamentos-neste-ano</link>
+ <description>Orçamento curto de TI será o principal desafio para os CIOs da América Latina neste ano, o que levará a maioria deles a direcionar a TI para encontrar novas formas de otimizar custos, avalia Gartner</description>
+ <pubDate>ter, 25 abr 2017 22:51:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Investimentos">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/negcios_0.jpg" fileSize="65906" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Gastos e investimentos em TI se mantêm apesar da crise, aponta estudo da FGV</title>
+ <link>http://computerworld.com.br/gastos-e-investimentos-em-ti-se-mantem-apesar-da-crise-aponta-estudo-da-fgv</link>
+ <description>Mesmo diante do cenário econômico adverso, as empresas que atuam no Brasil mantiveram os gastos e investimentos em TI em 2016/2017, ainda que em um nível bem inferior ao dos três últimos anos</description>
+ <pubDate>qua, 19 abr 2017 17:08:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Investimentos">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/crescimento_8.jpg" fileSize="59726" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Tokio Marine investe em diretoria de operações e tecnologia</title>
+ <link>http://computerworld.com.br/tokio-marine-investe-em-diretoria-de-operacoes-e-tecnologia</link>
+ <description>Companhia aplica anualmente cerca de R$ 100 milhões em melhorias, como o serviço de apólice digital, para facilitar o dia a dia de corretores e clientes</description>
+ <pubDate>sex, 24 mar 2017 18:23:52 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Investimentos">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/digitalizacao.png" fileSize="635071" type="image/png" width="625" height="469" />
+</item>
+</channel>
+</rss>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://computerworld.com.br/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"> <channel> <title>RSS Assunto</title>
+ <description>Portal sobre tecnologia da informação e telecomunicações</description>
+ <link>http://computerworld.com.br/</link>
+ <atom:link rel="self" href="http://computerworld.com.br/rss_assunto/Seguran%C3%A7a%20de%20Dados" />
+ <language>pt-br</language>
+ <item> <title>Grande parte das empresas ignora o risco de ameaças cibernéticas</title>
+ <link>http://computerworld.com.br/grande-parte-das-empresas-ignora-o-risco-de-ameacas-ciberneticas</link>
+ <description>Levantamento com 482 executivos de negócios e TI mostra que 32% das empresas não realizou uma avaliação dos riscos oferecidos por ameaças cibernéticas no último ano</description>
+ <pubDate>seg, 14 ago 2017 16:08:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Seguran%C3%A7a%20de%20Dados">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/risk.jpg" fileSize="53898" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Porque manter a saúde dos dados de pacientes</title>
+ <link>http://computerworld.com.br/porque-manter-saude-dos-dados-de-pacientes</link>
+ <description>Diariamente, os hospitais lidam com informações pessoais de inúmeros pacientes, que, em mãos erradas, podem ser utilizados de maneira ilícita</description>
+ <pubDate>seg, 14 ago 2017 15:28:26 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Seguran%C3%A7a%20de%20Dados">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/xray.jpg" fileSize="45048" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Cientistas invadem computador usando malware codificado em cadeia de DNA</title>
+ <link>http://computerworld.com.br/cientistas-invadem-computador-usando-malware-codificado-em-cadeia-de-dna</link>
+ <description>Equipe explorou vulnerabilidade de segurança conhecida e a incluiu em um programa de processamento de DNA</description>
+ <pubDate>sex, 11 ago 2017 15:08:50 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Seguran%C3%A7a%20de%20Dados">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/dna-625.jpg" fileSize="35636" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Sua política de segurança de dados está no caminho certo?</title>
+ <link>http://computerworld.com.br/sua-politica-de-seguranca-de-dados-esta-no-caminho-certo</link>
+ <description>As boas práticas de segurança da informação compartilhadas por analistas do Gartner durante a Conferência Segurança e Gestão de Risco 2017, em São Paulo</description>
+ <pubDate>sex, 11 ago 2017 14:06:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Seguran%C3%A7a%20de%20Dados">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/data.jpg" fileSize="92145" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Risco cibernético é a principal preocupação da indústria de aviação, aponta pesquisa</title>
+ <link>http://computerworld.com.br/risco-cibernetico-e-principal-preocupacao-da-industria-de-aviacao-aponta-pesquisa</link>
+ <description>Especialistas temem que ciberterroristas possam ameaçar a segurança de aeronaves. A chance de uma empresa do setor ser atacada neste ano é de 69%, indica pesquisa da Aon</description>
+ <pubDate>qua, 09 ago 2017 12:22:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Seguran%C3%A7a%20de%20Dados">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/airport.jpg" fileSize="82577" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>CISOs precisam assumir novo modo de pensar a segurança, alerta Gartner</title>
+ <link>http://computerworld.com.br/cisos-precisam-assumir-novo-modo-de-pensar-seguranca-alerta-gartner</link>
+ <description>Executivos responsáveis pela segurança da informação devem adaptar técnicas de segurança, já que ela se tornou parte integral da equação de negócios digitais quando se trata de tecnologias como cloud, big data e DevOps, entre outras</description>
+ <pubDate>ter, 08 ago 2017 11:42:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Seguran%C3%A7a%20de%20Dados">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/security-1202344_1280_1.jpg" fileSize="73947" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Técnica que oculta informações roubadas em imagens é cada vez mais usada entre hackers</title>
+ <link>http://computerworld.com.br/tecnica-que-oculta-informacoes-roubadas-em-imagens-e-cada-vez-mais-usada-entre-hackers</link>
+ <description>Hackers estão usando cada vez mais a esteganografia, a versão digital de uma técnica antiga para ocultar mensagens em imagens e encobrir pistas do roubo no PC invadido</description>
+ <pubDate>sex, 04 ago 2017 14:36:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Seguran%C3%A7a%20de%20Dados">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/hacker_sombrio_0.jpg" fileSize="14010" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Asegi lança primeira Norma Brasileira de Segurança da Informação na terça, 8</title>
+ <link>http://computerworld.com.br/asegi-lanca-primeira-norma-brasileira-de-seguranca-da-informacao-na-terca-8</link>
+ <description>O intuito da norma é ser genuinamente brasileira, entender como funcionam as organizações do país e seguir uma proposta diferente das demais que foram criadas na Europa ou nos EUA</description>
+ <pubDate>qua, 02 ago 2017 22:08:36 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Seguran%C3%A7a%20de%20Dados">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/seguranca5_0.jpg" fileSize="83907" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Brasil está entre os cinco países que mais sofrem ataques cibernéticos no mundo</title>
+ <link>http://computerworld.com.br/brasil-esta-entre-os-cinco-paises-que-mais-sofrem-ataques-ciberneticos-no-mundo</link>
+ <description>Especialista da FGV, Andre Miceli destaca que sequestro de servidores e ameaças direcionadas a meios de pagamento, arquivos em nuvem e dispositivos móveis estão entre os alvos dos hackers</description>
+ <pubDate>sex, 28 jul 2017 20:01:09 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Seguran%C3%A7a%20de%20Dados">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/cibercrime6.jpg" fileSize="47080" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Empresas devem se preparar para novos ataques de destruição de serviço, alerta Cisco</title>
+ <link>http://computerworld.com.br/empresas-devem-se-preparar-para-novos-ataques-de-destruicao-de-servico-alerta-cisco</link>
+ <description>Estudo revela que as principais indústrias precisam melhorar a conduta de segurança para acompanhar a convergência da tecnologia da informação e a tecnologia operacional</description>
+ <pubDate>qui, 27 jul 2017 19:26:42 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Seguran%C3%A7a%20de%20Dados">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/hacking5_0.jpg" fileSize="54737" type="image/jpeg" width="625" height="469" />
+</item>
+</channel>
+</rss>

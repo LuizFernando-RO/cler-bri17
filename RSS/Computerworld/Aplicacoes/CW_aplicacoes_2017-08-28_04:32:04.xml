@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://computerworld.com.br/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"> <channel> <title>RSS Tema</title>
+ <description>Portal sobre tecnologia da informação e telecomunicações</description>
+ <link>http://computerworld.com.br/</link>
+ <atom:link rel="self" href="http://computerworld.com.br/rss_tema/Aplica%C3%A7%C3%B5es" />
+ <language>pt-br</language>
+ <item> <title>Analytics ajuda a barrar fraudes no programa de seguro-desemprego</title>
+ <link>http://computerworld.com.br/analytics-ajuda-barrar-fraudes-no-programa-de-seguro-desemprego</link>
+ <description>Aplicação em uso no Ministério do Trabalho já teria contribuído para economia indireta de cerca de R$ 500 milhões em cinco meses</description>
+ <guid isPermaLink="false">http://computerworld.com.br/analytics-ajuda-barrar-fraudes-no-programa-de-seguro-desemprego</guid>
+ <pubDate>Sun, 27 Aug 2017 13:24:35 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Aplica%C3%A7%C3%B5es">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/big_data_analytics_dados.jpg" fileSize="51782" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Gastos com software e serviços no Brasil atingem US$ 19 bilhões em 2016</title>
+ <link>http://computerworld.com.br/gastos-com-software-e-servicos-no-brasil-atingem-us-19-bilhoes-em-2016</link>
+ <description>Os investimentos das empresas somente em computação em nuvem tiveram expansão de 47,4%, para US$ 746 milhões, tendo como base os dois principais serviços: SaaS e PaaS, aponta da Abes</description>
+ <guid isPermaLink="false">http://computerworld.com.br/gastos-com-software-e-servicos-no-brasil-atingem-us-19-bilhoes-em-2016</guid>
+ <pubDate>Tue, 15 Aug 2017 14:58:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Aplica%C3%A7%C3%B5es">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/crescimento_16.jpg" fileSize="47435" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Após mudanças no Windows 10, Kaspersky retira ação contra Microsoft</title>
+ <link>http://computerworld.com.br/apos-mudancas-no-windows-10-kaspersky-retira-acao-contra-microsoft</link>
+ <description>Empresa de segurança acusava a gigante do software de usar seu domínio para promover o Windows Defender em detrimento de outros apps antivírus na plataforma</description>
+ <guid isPermaLink="false">http://computerworld.com.br/apos-mudancas-no-windows-10-kaspersky-retira-acao-contra-microsoft</guid>
+ <pubDate>Thu, 10 Aug 2017 14:07:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Aplica%C3%A7%C3%B5es">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/windows10upgrade_0.jpg" fileSize="19880" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Navegador Chrome e Windows são os mais usados em compras online na Europa e Brasil</title>
+ <link>http://computerworld.com.br/navegador-chrome-e-windows-sao-os-mais-usados-em-compras-online-na-europa-e-brasil</link>
+ <description>Navegador do Google tem 53,31%de participação na Europa e 81,97% no Brasil, enquanto o sistema operacional Windows tem 96,42% de presença no Brasil e 85,8% na Europa</description>
+ <guid isPermaLink="false">http://computerworld.com.br/navegador-chrome-e-windows-sao-os-mais-usados-em-compras-online-na-europa-e-brasil</guid>
+ <pubDate>Fri, 04 Aug 2017 20:09:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Aplica%C3%A7%C3%B5es">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/navegadores_625_0.jpg" fileSize="29399" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Totvs fecha segundo trimestre com queda no lucro e ligeiro crescimento da receita</title>
+ <link>http://computerworld.com.br/totvs-fecha-segundo-trimestre-com-queda-no-lucro-e-ligeiro-crescimento-da-receita</link>
+ <description>Lucro da empresa totalizou R$ 32,1 milhões, cifra cerca de 15% menor na comparação com igual período de 2016. Já receita líquida aumentou 1%, para R$ 551 milhões</description>
+ <guid isPermaLink="false">http://computerworld.com.br/totvs-fecha-segundo-trimestre-com-queda-no-lucro-e-ligeiro-crescimento-da-receita</guid>
+ <pubDate>Fri, 04 Aug 2017 16:53:51 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Aplica%C3%A7%C3%B5es">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/big-data.jpg" fileSize="63560" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Sem agências, Banco Original agora permite depósito em dinheiro pelo app</title>
+ <link>http://computerworld.com.br/sem-agencias-banco-original-agora-permite-deposito-em-dinheiro-pelo-app</link>
+ <description>Para fazer o depósito correntista precisam emitir um boleto pelo app ou site e fazer o pagamento do mesmo em qualquer banco ou correspondente bancário</description>
+ <guid isPermaLink="false">http://computerworld.com.br/sem-agencias-banco-original-agora-permite-deposito-em-dinheiro-pelo-app</guid>
+ <pubDate>Thu, 03 Aug 2017 17:42:22 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Aplica%C3%A7%C3%B5es">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/banco_original_0.jpg" fileSize="31920" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Oi estende atendimento do app Oi Mais Empresas para todas PMEs</title>
+ <link>http://computerworld.com.br/oi-estende-atendimento-do-app-oi-mais-empresas-para-todas-pmes</link>
+ <description>Agora com nova versão, aplicativo ampliou atendimento para todas as pequenas e médias empresas clientes da operadora</description>
+ <guid isPermaLink="false">http://computerworld.com.br/oi-estende-atendimento-do-app-oi-mais-empresas-para-todas-pmes</guid>
+ <pubDate>Thu, 03 Aug 2017 13:47:50 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Aplica%C3%A7%C3%B5es">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/iphone7handson_625.jpg" fileSize="22942" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Indiana Zoho amplia foco no Brasil e quer ganhar mercado das PMEs</title>
+ <link>http://computerworld.com.br/indiana-zoho-amplia-foco-no-brasil-e-quer-ganhar-mercado-das-pmes</link>
+ <description>Companhia aposta na Zoho One, sua recém-lançada suíte que reúne 35 aplicativos corporativos ao custo de US$ 30 por mês por usuário</description>
+ <guid isPermaLink="false">http://computerworld.com.br/indiana-zoho-amplia-foco-no-brasil-e-quer-ganhar-mercado-das-pmes</guid>
+ <pubDate>Tue, 01 Aug 2017 05:17:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Aplica%C3%A7%C3%B5es">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/zoho_logotipo.jpg" fileSize="64805" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Cassio Matos Group RH amplia número de currículos com ferramenta de cadastro</title>
+ <link>http://computerworld.com.br/cassio-matos-group-rh-amplia-numero-de-curriculos-com-ferramenta-de-cadastro</link>
+ <description>Serviço de recrutamento e seleção simplificou o processo de inclusão de currículos, o que trouxe, como resultado uma maior inscrição de candidatos</description>
+ <guid isPermaLink="false">http://computerworld.com.br/cassio-matos-group-rh-amplia-numero-de-curriculos-com-ferramenta-de-cadastro</guid>
+ <pubDate>Thu, 27 Jul 2017 13:40:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Aplica%C3%A7%C3%B5es">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/tela_cassio_matos.jpg" fileSize="38472" type="image/jpeg" width="625" height="467" />
+</item>
+ <item> <title>Empresas que combinam DevOps e cloud melhoram entrega de software, diz estudo</title>
+ <link>http://computerworld.com.br/empresas-que-combinam-devops-e-cloud-melhoram-entrega-de-software-diz-estudo</link>
+ <description>Empresas que combinam a metodologia com ferramentas baseadas em nuvem e mecanismos de entrega obtêm 81% de melhoria no desempenho geral da entrega de software, afirma pesquisa</description>
+ <guid isPermaLink="false">http://computerworld.com.br/empresas-que-combinam-devops-e-cloud-melhoram-entrega-de-software-diz-estudo</guid>
+ <pubDate>Thu, 27 Jul 2017 13:12:12 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Aplica%C3%A7%C3%B5es">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/emerging-tech_1.jpg" fileSize="38408" type="image/jpeg" width="625" height="469" />
+</item>
+</channel>
+</rss>

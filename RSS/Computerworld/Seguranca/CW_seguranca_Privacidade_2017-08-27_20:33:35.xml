@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://computerworld.com.br/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"> <channel> <title>RSS Assunto</title>
+ <description>Portal sobre tecnologia da informação e telecomunicações</description>
+ <link>http://computerworld.com.br/</link>
+ <atom:link rel="self" href="http://computerworld.com.br/rss_assunto/Privacidade" />
+ <language>pt-br</language>
+ <item> <title>Reino Unido permitirá que usuários apaguem dados pessoais da internet</title>
+ <link>http://computerworld.com.br/reino-unido-permitira-que-usuarios-apaguem-dados-pessoais-da-internet</link>
+ <description>Segundo ministro de Cultura e Digital, novo projeto de lei prepara o país para a saída da União Europeia</description>
+ <pubDate>qua, 09 ago 2017 13:51:55 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Privacidade">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/work.jpg" fileSize="45237" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Rejeitada remoção de links da internet para dados irrelevantes ou defasados</title>
+ <link>http://computerworld.com.br/rejeitada-remocao-de-links-da-internet-para-dados-irrelevantes-ou-defasados</link>
+ <description>Comissão de Ciência e Tecnologia, Comunicação e Informática da Câmara dos Deputados rejeitou projeto de lei que tornava obrigatória a remoção de links dos mecanismos de busca</description>
+ <pubDate>sex, 30 jun 2017 14:58:57 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Privacidade">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/seo_0.jpg" fileSize="54448" type="image/jpeg" width="625" height="467" />
+</item>
+ <item> <title>Dados abertos: Posições distintas para uma mesma métrica</title>
+ <link>http://computerworld.com.br/dados-abertos-posicoes-distintas-para-uma-mesma-metrica</link>
+ <description>Brasil ficou na 67ª posição da Open Data Watch neste ano, com média de 43 pontos, obtendo 44 pontos em cobertura e 42 em abertura</description>
+ <pubDate>ter, 13 jun 2017 15:39:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Privacidade">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/dados3_4.jpg" fileSize="45862" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>França multa Facebook por violar lei de privacidade</title>
+ <link>http://computerworld.com.br/franca-multa-facebook-por-violar-lei-de-privacidade</link>
+ <description>Sanção foi motivada por mudanças feitas em 2015 pela rede social em sua política de privacidade. Valor da multa é de 150 mil euros</description>
+ <pubDate>ter, 16 mai 2017 19:36:23 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Privacidade">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/facebook_headquarters-625.jpg" fileSize="54884" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Roubo de credenciais é o oxigênio que alimenta ataques bem-sucedidos</title>
+ <link>http://computerworld.com.br/roubo-de-credenciais-e-o-oxigenio-que-alimenta-ataques-bem-sucedidos</link>
+ <description>Pesquisa da equipe de inteligência de ameaças da Palo Alto Networks aponta que dois em cada três ataques envolvem credenciais comprometidas</description>
+ <pubDate>qui, 04 mai 2017 16:54:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Privacidade">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/roubo_dados_625.jpg" fileSize="26269" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Google pode incorporar recurso de bloqueio de anúncios ao Chrome</title>
+ <link>http://computerworld.com.br/google-pode-incorporar-recurso-de-bloqueio-de-anuncios-ao-chrome</link>
+ <description>Segundo Wall Street Journal, recurso pode ser anunciado pela gigante em algumas semanas. Com isso, empresa controlaria sua experiência web</description>
+ <pubDate>qui, 20 abr 2017 13:16:02 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Privacidade">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/chrome.jpg" fileSize="26267" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Venda de dados por provedores nos EUA pode abrir precedentes no Brasil, diz especialista</title>
+ <link>http://computerworld.com.br/venda-de-dados-por-provedores-nos-eua-pode-abrir-precedentes-no-brasil-diz-especialista</link>
+ <description>Para o advogado Rafael Maciel, medida aprovada pelo Congresso dos EUA pode impactar as políticas do Brasil, que correm o risco de ficar sujeitas às mesmas pressões</description>
+ <pubDate>ter, 04 abr 2017 18:17:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Privacidade">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/dados_5.jpg" fileSize="58654" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>WikiLeaks revela como CIA mascarava malware</title>
+ <link>http://computerworld.com.br/wikileaks-revela-como-cia-mascarava-malware</link>
+ <description>Novos documentos mostram &#039;técnicas de ofuscação&#039; supostamente usadas pela agência de inteligência americana no ano passado</description>
+ <pubDate>ter, 04 abr 2017 17:59:57 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Privacidade">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/jukian_assange_0.jpg" fileSize="30274" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Teles dos EUA se comprometem a não vão vender dados de clientes sobre navegação na web</title>
+ <link>http://computerworld.com.br/teles-dos-eua-se-comprometem-nao-vao-vender-dados-de-clientes-sobre-navegacao-na-web</link>
+ <description>Principais operadoras do país anunciaram que não vão vender informações de seus clientes, mesmo após aprovação de lei que retira as regras de privacidade</description>
+ <pubDate>seg, 03 abr 2017 16:23:15 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Privacidade">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/navegacao.jpg" fileSize="43687" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Microsoft Docs.com compartilha arquivos pessoais sem usuário saber</title>
+ <link>http://computerworld.com.br/microsoft-docscom-compartilha-arquivos-pessoais-sem-usuario-saber</link>
+ <description>Serviço de armazenamento de documentos na empresa configura todos os arquivos como &quot;públicos&quot; por padrão, algo que nem todo mundo sabe</description>
+ <pubDate>seg, 27 mar 2017 15:03:31 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Privacidade">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/microsoftdocs.jpg" fileSize="49216" type="image/jpeg" width="625" height="469" />
+</item>
+</channel>
+</rss>

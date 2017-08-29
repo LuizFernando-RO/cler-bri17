@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://computerworld.com.br/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"> <channel> <title>RSS Assunto</title>
+ <description>Portal sobre tecnologia da informação e telecomunicações</description>
+ <link>http://computerworld.com.br/</link>
+ <atom:link rel="self" href="http://computerworld.com.br/rss_assunto/Computa%C3%A7%C3%A3o%20Cognitiva" />
+ <language>pt-br</language>
+ <item> <title>IBM Brasil lança Garagem 11.57 para IoT, blockchain e computação cognitiva</title>
+ <link>http://computerworld.com.br/ibm-brasil-lanca-garagem-1157-para-iot-blockchain-e-computacao-cognitiva</link>
+ <description>Iniciativa que já existe nos Estados Unidos chega agora ao Brasil e quer atrair clientes e parceiros para usar metodologia Bluemix</description>
+ <pubDate>sex, 17 fev 2017 08:52:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Computa%C3%A7%C3%A3o%20Cognitiva">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/ibm_logo.jpg" fileSize="37676" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Margens mais estreitas derrubam receita da IBM pelo 19º trimestre consecutivo</title>
+ <link>http://computerworld.com.br/margens-mais-estreitas-derrubam-receita-da-ibm-pelo-19o-trimestre-consecutivo</link>
+ <description>Embora as receitas da empresa com soluções cognitivas e computação em nuvem tenham crescido, as baixas margens não ajudaram a compensar os custos com aquisição e outras despesas</description>
+ <pubDate>sex, 20 jan 2017 15:14:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Computa%C3%A7%C3%A3o%20Cognitiva">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/ginni_rometty_1.jpg" fileSize="43967" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Bancos precisam tornar operações mais ‘inteligentes’ para enfrentar fintechs</title>
+ <link>http://computerworld.com.br/bancos-precisam-tornar-operacoes-mais-inteligentes-para-enfrentar-fintechs</link>
+ <description>Tecnologias de analytics aliadas à computação cognitiva e o reconhecimento de voz devem ganhar espaço nas instituições financeiras nos próximos anos, diz CEO da Icaro Tech</description>
+ <pubDate>seg, 28 nov 2016 15:38:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Computa%C3%A7%C3%A3o%20Cognitiva">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/atm.jpg" fileSize="40418" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>O futuro segundo a Autodesk: Algoritmos, VR, impressoras 3D, robôs...</title>
+ <link>http://computerworld.com.br/o-futuro-segundo-autodesk-algoritmos-vr-impressoras-3d-robos</link>
+ <description>...E o designer como um grande maestro fabril. Autodesk University reuniu executivos e desenvolvedores para discutir o futuro da manufatura</description>
+ <pubDate>seg, 21 nov 2016 21:45:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Computa%C3%A7%C3%A3o%20Cognitiva">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/modelvr_hero_625.jpg" fileSize="53013" type="image/jpeg" width="625" height="469" />
+</item>
+</channel>
+</rss>
