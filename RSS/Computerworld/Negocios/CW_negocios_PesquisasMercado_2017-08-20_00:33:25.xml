@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://computerworld.com.br/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"> <channel> <title>RSS Assunto</title>
+ <description>Portal sobre tecnologia da informação e telecomunicações</description>
+ <link>http://computerworld.com.br/</link>
+ <atom:link rel="self" href="http://computerworld.com.br/rss_assunto/Pesquisas%20de%20Mercado" />
+ <language>pt-br</language>
+ <item> <title>Samsung lidera mercado de impressão a laser no Brasil</title>
+ <link>http://computerworld.com.br/samsung-lidera-mercado-de-impressao-laser-no-brasil</link>
+ <description>Marca coreana liderou o segmento no país com 41,2% de participação de mercado no primeiro trimestre deste ano</description>
+ <pubDate>sex, 21 jul 2017 10:19:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Pesquisas%20de%20Mercado">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/impressora_3_0.jpg" fileSize="40762" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Receita da indústria de chip cresce 2,6% e atinge US$ 343,5 bi em 2016</title>
+ <link>http://computerworld.com.br/receita-da-industria-de-chip-cresce-26-e-atinge-us-3435-bi-em-2016</link>
+ <description>Desempenho foi impulsionado pelo aumento da demanda e pela melhora no ambiente de preços a partir do segundo semestre, de acordo com estudo do Gartner</description>
+ <pubDate>seg, 22 mai 2017 17:09:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Pesquisas%20de%20Mercado">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/chip3_0.jpg" fileSize="92507" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Gartner revê para baixo projeção de crescimento dos gastos mundiais com TI neste ano</title>
+ <link>http://computerworld.com.br/gartner-reve-para-baixo-projecao-de-crescimento-dos-gastos-mundiais-com-ti-neste-ano</link>
+ <description>Novo relatório divulgado pela consultoria prevê um aumento de 1,4% nos investimentos em TI, para US$ 3,5 trilhões, ante projeção anterior de crescimento de 2,7%</description>
+ <pubDate>ter, 16 mai 2017 12:29:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Pesquisas%20de%20Mercado">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/crescimento_11.jpg" fileSize="47435" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Mobile banking se torna canal preferido dos brasileiros, indica pesquisa</title>
+ <link>http://computerworld.com.br/mobile-banking-se-torna-canal-preferido-dos-brasileiros-indica-pesquisa</link>
+ <description>De acordo com estudo Deloitte/Febraban, o canal superou pela primeira vez o internet banking e já responde por 34% do total das transações; operações com movimentação financeira aumentam 140%</description>
+ <pubDate>sex, 12 mai 2017 17:20:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Pesquisas%20de%20Mercado">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/m-banking_2.jpg" fileSize="52162" type="image/jpeg" width="625" height="468" />
+</item>
+ <item> <title>Nenhuma grande empresa no Brasil está preparada para transformação digital, diz estudo</title>
+ <link>http://computerworld.com.br/nenhuma-grande-empresa-no-brasil-esta-preparada-para-transformacao-digital-diz-estudo</link>
+ <description>Pesquisa da ESG/Dell EMC revela que só 5% das organizações no mundo — nenhuma das 100 companhias consultadas no Brasil — têm ambientes de TI preparados para a transformação digital dos negócios</description>
+ <pubDate>sex, 28 abr 2017 14:20:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Pesquisas%20de%20Mercado">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/digitalizacao.jpg" fileSize="55996" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Quase metade dos brasileiros diz que trabalhar de casa aumenta a produtividade</title>
+ <link>http://computerworld.com.br/quase-metade-dos-brasileiros-diz-que-trabalhar-de-casa-aumenta-produtividade</link>
+ <description>Estudo da Citrix revela que o salário deixou de ser o ponto de maior relevância e deu lugar para aspectos que facilitam o equilíbrio entre vida pessoal e profissional</description>
+ <pubDate>qui, 30 mar 2017 17:57:55 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Pesquisas%20de%20Mercado">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/home_office_1.jpg" fileSize="64672" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Teles e operadoras de TV a cabo correm risco de perder clientes para gigantes digitais</title>
+ <link>http://computerworld.com.br/teles-e-operadoras-de-tv-cabo-correm-risco-de-perder-clientes-para-gigantes-digitais</link>
+ <description>Casas conectadas e vídeo digital oferecem oportunidades significativas para reverter esse cenário, aponta estudo da Accenture</description>
+ <pubDate>ter, 07 mar 2017 07:57:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Pesquisas%20de%20Mercado">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/casa_conectada.jpg" fileSize="29415" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Bancos devem investir US$ 1 milhão em blockchain neste ano</title>
+ <link>http://computerworld.com.br/bancos-devem-investir-us-1-milhao-em-blockchain-neste-ano</link>
+ <description>Metade dos bancos também está trabalhando com startups ou fintechs para ampliar o domínio e uso da tecnologia, afirma pesquisa da Infosys Finacle</description>
+ <pubDate>ter, 21 fev 2017 16:43:05 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Pesquisas%20de%20Mercado">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/bitcoin_2.jpg" fileSize="141221" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Mercado de drones deve crescer 39% neste ano e movimentar mais de US$ 6 bilhões</title>
+ <link>http://computerworld.com.br/mercado-de-drones-deve-crescer-39-neste-ano-e-movimentar-mais-de-us-6-bilhoes</link>
+ <description>Aproximadamente 3 milhões de drones para uso pessoal e comercial serão vendidos em 2017, segundo o Gartner</description>
+ <pubDate>ter, 14 fev 2017 17:48:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Pesquisas%20de%20Mercado">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/drones2.jpg" fileSize="33216" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>IoT ganha impulso e deve movimentar US$ 13 bilhões até o fim da década no Brasil</title>
+ <link>http://computerworld.com.br/iot-ganha-impulso-e-deve-movimentar-us-13-bilhoes-ate-o-fim-da-decada-no-brasil</link>
+ <description>Com a definição de uma política pública de incentivos pelo BNDES, a previsão da IDC Brasil é que o mercado de Internet das Coisas dobre de tamanho até o final da década</description>
+ <pubDate>qui, 26 jan 2017 19:53:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Pesquisas%20de%20Mercado">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/communication-1439132.jpg" fileSize="65925" type="image/jpeg" width="625" height="469" />
+</item>
+</channel>
+</rss>

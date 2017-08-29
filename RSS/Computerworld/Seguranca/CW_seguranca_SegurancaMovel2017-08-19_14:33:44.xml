@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://computerworld.com.br/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"> <channel> <title>RSS Assunto</title>
+ <description>Portal sobre tecnologia da informação e telecomunicações</description>
+ <link>http://computerworld.com.br/</link>
+ <atom:link rel="self" href="http://computerworld.com.br/rss_assunto/Seguran%C3%A7a%20M%C3%B3vel" />
+ <language>pt-br</language>
+ <item> <title>As muitas dores do líder de TI</title>
+ <link>http://computerworld.com.br/muitas-dores-do-lider-de-ti</link>
+ <description>O CIO precisa dispor de ferramentas que garantam a segurança integrada e automatizada para poder focar em questões de maior relevância estratégica</description>
+ <pubDate>qui, 06 jul 2017 16:04:12 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Seguran%C3%A7a%20M%C3%B3vel">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/businessman5.jpg" fileSize="43284" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Kaspersky patenteia tecnologia de proteção contra a espionagem por áudio</title>
+ <link>http://computerworld.com.br/kaspersky-patenteia-tecnologia-de-protecao-contra-espionagem-por-audio</link>
+ <description>Tecnologia categoriza todos os programas de acordo com sua reputação e quando detecta que um programa ‘não confiável’ está tentando acessar o microfone a solicitação é bloqueada</description>
+ <pubDate>qui, 22 jun 2017 19:33:14 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Seguran%C3%A7a%20M%C3%B3vel">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/microphone.jpg" fileSize="47199" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Novo cartão da Mastercard traz leitor de impressão digital integrado</title>
+ <link>http://computerworld.com.br/novo-cartao-da-mastercard-traz-leitor-de-impressao-digital-integrado</link>
+ <description>Com a mesma espessura padrão e compatível com máquinas atuais, cartão está sendo testado na África do Sul e deve chegar à Europa e Ásia em breve</description>
+ <pubDate>qui, 20 abr 2017 13:24:49 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Seguran%C3%A7a%20M%C3%B3vel">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/cartao_2.jpg" fileSize="20405" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Fujitsu desenvolve tecnologia de autenticação baseada nas veias da palma da mão</title>
+ <link>http://computerworld.com.br/fujitsu-desenvolve-tecnologia-de-autenticacao-baseada-nas-veias-da-palma-da-mao</link>
+ <description>Novidade é o primeiro slide-style do mundo com 8 milímetros de largura, o que permite ser incorporada a dispositivos móveis</description>
+ <pubDate>ter, 18 abr 2017 13:16:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Seguran%C3%A7a%20M%C3%B3vel">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/palma_da_mao.jpg" fileSize="59230" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Mais privacidade e segurança nas comunicações móveis envolve decisões políticas, diz estudo</title>
+ <link>http://computerworld.com.br/mais-privacidade-e-seguranca-nas-comunicacoes-moveis-envolve-decisoes-politicas-diz-estudo</link>
+ <description>Relatório da GSMA e AT Kearney defende atuação integrada, envolvendo governos, agências de segurança e operadoras móveis, como forma de aumentar a privacidade e a segurança dos serviços móveis</description>
+ <pubDate>dom, 09 abr 2017 18:26:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Seguran%C3%A7a%20M%C3%B3vel">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/celular_3.jpg" fileSize="40439" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Novo tipo de bomba em notebooks pode enganar segurança de aeroportos</title>
+ <link>http://computerworld.com.br/novo-tipo-de-bomba-em-notebooks-pode-enganar-seguranca-de-aeroportos</link>
+ <description>Segundo notícia exclusiva da rede CNN, grupos terroristas inventaram novas formas de esconder explosivos em dispositivos eletrônicos</description>
+ <pubDate>sex, 31 mar 2017 21:01:14 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Seguran%C3%A7a%20M%C3%B3vel">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/cnn.png" fileSize="325588" type="image/png" width="625" height="469" />
+</item>
+ <item> <title>Gestão de dispositivos conectados é o maior desafio da segurança, indica estudo</title>
+ <link>http://computerworld.com.br/gestao-de-dispositivos-conectados-e-o-maior-desafio-da-seguranca-indica-estudo</link>
+ <description>Pesquisa do IEEE revela que apenas 27% dos CIOs e CTOs se dizem capazes de controlar e gerenciar 76% ou mais dos dispositivos conectados ao seu negócio</description>
+ <pubDate>qui, 30 mar 2017 18:49:26 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Seguran%C3%A7a%20M%C3%B3vel">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/digital_5.jpg" fileSize="80517" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Segurança digital e os desafios da nova era da Internet das Coisas</title>
+ <link>http://computerworld.com.br/seguranca-digital-e-os-desafios-da-nova-era-da-internet-das-coisas</link>
+ <description>Falta investimento em segurança aplicada a dispositivos IoT. E ninguém pode prever exatamente qual categoria de IoT será a próxima atacada. </description>
+ <pubDate>qui, 23 fev 2017 09:27:46 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Seguran%C3%A7a%20M%C3%B3vel">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/iot_nuvem_palavras.jpg" fileSize="86981" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Apenas 30% dos assinantes estão cientes das vulnerabilidades das redes móveis</title>
+ <link>http://computerworld.com.br/apenas-30-dos-assinantes-estao-cientes-das-vulnerabilidades-das-redes-moveis</link>
+ <description>Cerca de um terço nunca confere sua conta para verificar se as cobranças estão corretas e detectar atividade suspeita, aponta pesquisa</description>
+ <pubDate>sex, 23 dez 2016 11:28:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Seguran%C3%A7a%20M%C3%B3vel">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/telefonia_movel.jpg" fileSize="44143" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Confira as quatro principais previsões de segurança para 2017</title>
+ <link>http://computerworld.com.br/confira-quatro-principais-previsoes-de-seguranca-para-2017</link>
+ <description>Na lista de Vanja Svajcer, gerente sênior de pesquisa de segurança da Hewlett Packard Enterprise, estão ataques cibernéticos com motivações políticas e militares</description>
+ <pubDate>qua, 23 nov 2016 15:44:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Seguran%C3%A7a%20M%C3%B3vel">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/data_security.jpg" fileSize="37296" type="image/jpeg" width="625" height="469" />
+</item>
+</channel>
+</rss>

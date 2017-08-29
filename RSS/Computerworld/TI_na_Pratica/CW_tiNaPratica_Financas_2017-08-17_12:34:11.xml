@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://computerworld.com.br/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"> <channel> <title>RSS Assunto</title>
+ <description>Portal sobre tecnologia da informação e telecomunicações</description>
+ <link>http://computerworld.com.br/</link>
+ <atom:link rel="self" href="http://computerworld.com.br/rss_assunto/Finan%C3%A7as" />
+ <language>pt-br</language>
+ <item> <title>Indiana Zoho amplia foco no Brasil e quer ganhar mercado das PMEs</title>
+ <link>http://computerworld.com.br/indiana-zoho-amplia-foco-no-brasil-e-quer-ganhar-mercado-das-pmes</link>
+ <description>Companhia aposta na Zoho One, sua recém-lançada suíte que reúne 35 aplicativos corporativos ao custo de US$ 30 por mês por usuário</description>
+ <pubDate>ter, 01 ago 2017 05:17:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Finan%C3%A7as">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/zoho_logotipo.jpg" fileSize="64805" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>5 dicas essenciais para prevenir lavagem de dinheiro na sua empresa </title>
+ <link>http://computerworld.com.br/5-dicas-essenciais-para-prevenir-lavagem-de-dinheiro-na-sua-empresa</link>
+ <description>Especialista explica como tirar proveito das novas tecnologias de análise de dados para evitar práticas ilegais com o caixa corporativo</description>
+ <pubDate>seg, 31 jul 2017 16:22:31 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Finan%C3%A7as">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/money_dinheiro_dolar.jpg" fileSize="111141" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Crimes econômicos entram na mira do rastreador Risk Money Monitor</title>
+ <link>http://computerworld.com.br/crimes-economicos-entram-na-mira-do-rastreador-risk-money-monitor</link>
+ <description>Ferramenta em software atua diretamente na prevenção à lavagem de dinheiro monitorando atividades suspeitas ou atípicas</description>
+ <pubDate>qua, 19 jul 2017 13:14:07 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Finan%C3%A7as">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/lavagem_dinheiro.jpg" fileSize="78562" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Receita dos maiores fornecedores de TI tem forte queda em 2016</title>
+ <link>http://computerworld.com.br/receita-dos-maiores-fornecedores-de-ti-tem-forte-queda-em-2016</link>
+ <description>Apple e Samsung mantiveram a posição no ranking do Gartner que aponta os 100 principais fornecedores globais em TI. E o Google ultrapassou a Microsoft e a IBM</description>
+ <pubDate>sex, 23 jun 2017 20:36:51 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Finan%C3%A7as">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/financas_crise_2.jpg" fileSize="47900" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Fintech combina inteligência artificial e OCR na triagem de documentos</title>
+ <link>http://computerworld.com.br/fintech-combina-inteligencia-artificial-e-ocr-na-triagem-de-documentos</link>
+ <description>Mineira Simply, fornecedora de serviços digitais para instituições financeiras quer derrubar processos burocráticos de análise de crédito</description>
+ <pubDate>dom, 18 jun 2017 21:27:50 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Finan%C3%A7as">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/fintech_documento.jpg" fileSize="52376" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>SAS leva soluções de analytics contra risco e fraude para o CIAB 2017</title>
+ <link>http://computerworld.com.br/sas-leva-solucoes-de-analytics-contra-risco-e-fraude-para-o-ciab-2017</link>
+ <description>Soluções de prevenção a fraude, gerenciamento de risco, customer intelligence e visualização de dados para setor financeiro estão na vitrine</description>
+ <pubDate>seg, 05 jun 2017 10:40:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Finan%C3%A7as">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/financas_0.jpg" fileSize="67366" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Hackathon Ciab FEBRABAN atrai mais de 400 candidatos para projetos em finanças</title>
+ <link>http://computerworld.com.br/hackathon-ciab-febraban-atrai-mais-de-400-candidatos-para-projetos-em-financas</link>
+ <description>Foram selecionados 80 participantes que terão pouco mais de 24 horas para aperfeiçoar suas ideias e disputar um dos 4 lugares na feira</description>
+ <pubDate>qui, 01 jun 2017 00:53:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Finan%C3%A7as">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/hackathon_0.jpg" fileSize="47317" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Brasil terá comissão especial para discutir regulamentação do Bitcoin</title>
+ <link>http://computerworld.com.br/brasil-tera-comissao-especial-para-discutir-regulamentacao-do-bitcoin</link>
+ <description>Instalada nesta semana pela Câmara dos Deputados, comissão terá como objetivo discutir ideias sobre as negociações envolvendo moedas virtuais</description>
+ <pubDate>qua, 31 mai 2017 18:16:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Finan%C3%A7as">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/615_bitcoin_dourado.jpg" fileSize="64570" type="image/jpeg" width="615" height="461" />
+</item>
+ <item> <title>Aptidão em analytics está entre atributos valorizados em automação do financeiro</title>
+ <link>http://computerworld.com.br/aptidao-em-analytics-esta-entre-atributos-valorizados-em-automacao-do-financeiro</link>
+ <description>Estudo Robert Half com 100 CFOs no Brasil indica as áreas e funções que serão mais impactadas com a automação de tarefas nos departamentos financeiros</description>
+ <pubDate>sex, 28 abr 2017 22:46:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Finan%C3%A7as">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/profissional_0.jpg" fileSize="35161" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Avaya apresenta plano de recuperação judicial à Justiça dos EUA</title>
+ <link>http://computerworld.com.br/avaya-apresenta-plano-de-recuperacao-judicial-justica-dos-eua</link>
+ <description>Empresa divulgou ao mercado as propostas de recuperação visando obter o consenso dos credores e a confirmação pelo Tribunal de Falências dos EUA</description>
+ <pubDate>qua, 19 abr 2017 17:38:04 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Finan%C3%A7as">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/avaya2.jpg" fileSize="143107" type="image/jpeg" width="620" height="466" />
+</item>
+</channel>
+</rss>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://computerworld.com.br/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"> <channel> <title>RSS Assunto</title>
+ <description>Portal sobre tecnologia da informação e telecomunicações</description>
+ <link>http://computerworld.com.br/</link>
+ <atom:link rel="self" href="http://computerworld.com.br/rss_assunto/BYOD" />
+ <language>pt-br</language>
+ <item> <title>Citrix reforça segurança para habilitar um trabalho cada vez mais móvel</title>
+ <link>http://computerworld.com.br/citrix-reforca-seguranca-para-habilitar-um-trabalho-cada-vez-mais-movel</link>
+ <description>Para Luis Banhara, country manager para o Brasil, há uma quebra de paradigma onde empresas devem trabalhar a segurança de seus dados ao focar no usuário e não no dispositivo</description>
+ <pubDate>qua, 07 jun 2017 13:52:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/BYOD">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/ctsynergy-625.jpg" fileSize="72915" type="image/jpeg" width="626" height="468" />
+</item>
+ <item> <title>Vendas de celulares voltam a crescer, após cinco trimestres em baixa</title>
+ <link>http://computerworld.com.br/vendas-de-celulares-voltam-crescer-apos-cinco-trimestres-em-baixa</link>
+ <description>Entre julho e setembro, foram vendidos 11.136 milhões de smartphones e 1.419 feature phones, totalizando R$ 10,7 bilhões e R$ 179,8 milhões, respectivamente</description>
+ <pubDate>sex, 18 nov 2016 16:38:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/BYOD">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/smartphone_2.jpg" fileSize="50602" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Nova linha da Dell integra a gestão de soluções para segurança de dados</title>
+ <link>http://computerworld.com.br/nova-linha-da-dell-integra-gestao-de-solucoes-para-seguranca-de-dados</link>
+ <description>O objetivo é atender à demanda resultante da mobilidade crescente da força de trabalho, protegendo celulares, notebooks e outros dispositivos</description>
+ <pubDate>sex, 21 out 2016 12:31:58 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/BYOD">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/celular_seguranca_de_dados.jpg" fileSize="36953" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Ambientes de trabalho móveis correm mais risco de ciberataques</title>
+ <link>http://computerworld.com.br/ambientes-de-trabalho-moveis-correm-mais-risco-de-ciberataques</link>
+ <description>Até 2020, 1,5 bilhão de pessoas trabalharão fora dos escritórios, diz a Frost &amp;amp; Sullivan, que aponta despreparo na segurança de dados</description>
+ <pubDate>qua, 19 out 2016 15:35:35 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/BYOD">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/smartphone_byod.jpg" fileSize="33361" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Forças da tecnologia de consumo que revolucionam o ambiente de trabalho</title>
+ <link>http://computerworld.com.br/forcas-da-tecnologia-de-consumo-que-revolucionam-o-ambiente-de-trabalho</link>
+ <description>Avanade listou conceitos do cotidiano que exercem força sobre os ambientes corporativos e desafiam gestores de TI</description>
+ <pubDate>seg, 23 mai 2016 16:55:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/BYOD">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/rh_gestao_time_equipe.jpg" fileSize="69106" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Por que você deve observar de perto os avanços da mobilidade corporativa</title>
+ <link>http://computerworld.com.br/por-que-voce-deve-observar-de-perto-os-avancos-da-mobilidade-corporativa</link>
+ <description>Acessar e processar informações de forma remota vem se tornando uma constante na vida de cada um de nós</description>
+ <pubDate>qua, 03 fev 2016 07:00:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/BYOD">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/smartphone_busca_625.jpg" fileSize="41864" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Mobilidade dita cinco novas regras aos negócios</title>
+ <link>http://computerworld.com.br/mobilidade-dita-cinco-novas-regras-aos-negocios</link>
+ <description>Colaboradores querem acessar dados a qualquer momento enquanto CIOs precisam proteger as informações. Como alinhar as necessidades?</description>
+ <pubDate>seg, 25 jan 2016 08:50:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/BYOD">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/smartphone_internet_625.jpg" fileSize="45190" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Cinco elementos que mudarão para sempre o mundo do software</title>
+ <link>http://computerworld.com.br/cinco-elementos-que-mudarao-para-sempre-o-mundo-do-software</link>
+ <description>Interfaces mais simples, funcionalidades sociais mais presentes e navegação mais amigável. Veja o que puxa o avanço das aplicações</description>
+ <pubDate>qui, 21 jan 2016 12:06:19 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/BYOD">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/625_gestao_software.jpg" fileSize="57248" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Tablets ganham espaço nas empresas e veem futuro promissor</title>
+ <link>http://computerworld.com.br/tablets-ganham-espaco-nas-empresas-e-veem-futuro-promissor</link>
+ <description>Lançamentos recentes da Apple e da Microsoft mostram que o mercado corporativo está abrindo os braços para o gadget</description>
+ <pubDate>sex, 13 nov 2015 17:27:31 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/BYOD">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/wifi_tablet_625.jpg" fileSize="45387" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Empresas estão abandonando o BYOD por “segurança”, constata pesquisa</title>
+ <link>http://computerworld.com.br/empresas-estao-abandonando-o-byod-por-seguranca-constata-pesquisa</link>
+ <description>Estudo da CompTIA mostra que 53% das companhias norte-americanas proíbem que funcionários tragam dispositivos pessoais para a empresa</description>
+ <pubDate>qui, 12 nov 2015 10:45:48 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/BYOD">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/smartphone_byod.jpg" fileSize="33361" type="image/jpeg" width="625" height="469" />
+</item>
+</channel>
+</rss>

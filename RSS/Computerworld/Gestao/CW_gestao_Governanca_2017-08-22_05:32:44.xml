@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://computerworld.com.br/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"> <channel> <title>RSS Assunto</title>
+ <description>Portal sobre tecnologia da informação e telecomunicações</description>
+ <link>http://computerworld.com.br/</link>
+ <atom:link rel="self" href="http://computerworld.com.br/rss_assunto/Governan%C3%A7a" />
+ <language>pt-br</language>
+ <item> <title>CGI.br emite nota sobre consulta do MCTIC para mudar estrutura do órgão</title>
+ <link>http://computerworld.com.br/cgibr-emite-nota-sobre-consulta-do-mctic-para-mudar-estrutura-do-orgao</link>
+ <description>Em comunicado, Comitê Gestor da Internet diz que receberá contribuições da consulta pública do governo. ONGs divulgaram nota de repúdio contra consulta</description>
+ <pubDate>dom, 20 ago 2017 21:39:34 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Governan%C3%A7a">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/internet2_0.jpg" fileSize="83195" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>8 principais orientações ao CIO hospitalar</title>
+ <link>http://computerworld.com.br/8-principais-orientacoes-ao-cio-hospitalar</link>
+ <description>Estar atento a tudo o que pode acontecer na área de tecnologia, auxilia os profissionais de saúde para que a maioria das ações ocorra da melhor maneira possível, enfatiza guia da Pixeon</description>
+ <pubDate>qui, 27 jul 2017 11:27:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Governan%C3%A7a">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/hospital_0.jpg" fileSize="55272" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>As principais etapas da transformação digital, segundo o Gartner</title>
+ <link>http://computerworld.com.br/principais-etapas-da-transformacao-digital-segundo-o-gartner</link>
+ <description>Para tirar proveito desse novo mundo, é preciso saber explorar, planejar, entregar e evoluir a estratégia de plataforma digital, diz a consultoria</description>
+ <pubDate>qua, 26 jul 2017 22:29:47 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Governan%C3%A7a">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/devops_4.jpg" fileSize="62327" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Benefícios da gestão de riscos no setor público</title>
+ <link>http://computerworld.com.br/beneficios-da-gestao-de-riscos-no-setor-publico</link>
+ <description>Embora não seja totalmente nova na administração pública brasileira, a gestão de riscos cada vez mais vem sendo incorporada por órgãos de governo</description>
+ <pubDate>qui, 20 jul 2017 18:51:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Governan%C3%A7a">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/gestao_4.jpg" fileSize="53431" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Três passos para aproveitar o melhor da TI híbrida</title>
+ <link>http://computerworld.com.br/tres-passos-para-aproveitar-o-melhor-da-ti-hibrida</link>
+ <description>Estabelecer um planejamento, definir prioridades e rever os processos são os principais pontos para se obter os resultados de negócios que a empresa almeja</description>
+ <pubDate>qua, 12 abr 2017 11:45:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Governan%C3%A7a">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/step_by_step.jpg" fileSize="67477" type="image/jpeg" width="625" height="464" />
+</item>
+ <item> <title>Acionistas do Facebook querem a saída de Mark Zuckerberg da presidência do conselho</title>
+ <link>http://computerworld.com.br/acionistas-do-facebook-querem-saida-de-mark-zuckerberg-da-presidencia-do-conselho</link>
+ <description>Grupo que quer a substituição do CEO do conselho é formado por acionistas que também são membros da associação de defesa do consumidor SumOfUs</description>
+ <pubDate>ter, 07 fev 2017 19:09:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Governan%C3%A7a">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/mark_zuckerberg_0.jpg" fileSize="33335" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Saiba tudo sobre a abordagem Zero Trust</title>
+ <link>http://computerworld.com.br/saiba-tudo-sobre-abordagem-zero-trust</link>
+ <description>O modelo de segurança alternativo envolve alteração na postura, política e processo da empresa para resolver problemas de estratégias falhas</description>
+ <pubDate>seg, 19 dez 2016 19:42:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Governan%C3%A7a">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/zero_trust.jpg" fileSize="42220" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>A relevância da segurança de dados nos negócios</title>
+ <link>http://computerworld.com.br/relevancia-da-seguranca-de-dados-nos-negocios</link>
+ <description>Ao alinhar as boas práticas de segurança às tecnologias mencionadas acima, é possível obter excelentes níveis de proteção de dados</description>
+ <pubDate>sex, 11 nov 2016 18:07:05 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Governan%C3%A7a">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/dados_apis_analytics.jpg" fileSize="157830" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Pesquisa relaciona automação de processos a ganhos de produtividade</title>
+ <link>http://computerworld.com.br/pesquisa-relaciona-automacao-de-processos-ganhos-de-produtividade</link>
+ <description>Levantamento realizado pela Iteris identificou que 85% das empresas fazem a gestão de processos principalmente via e-mail</description>
+ <pubDate>sex, 04 nov 2016 17:37:07 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Governan%C3%A7a">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/bpm_processo.jpg" fileSize="48961" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Shadow IT: o CIO que diz sim</title>
+ <link>http://computerworld.com.br/shadow-it-o-cio-que-diz-sim</link>
+ <description>Vivemos, agora, a era em que com todo o critério, a partir de informações muito bem fundamentadas, o CIO pode dizer sim</description>
+ <pubDate>seg, 31 out 2016 18:36:20 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Governan%C3%A7a">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/shadow_it.jpg" fileSize="36535" type="image/jpeg" width="625" height="469" />
+</item>
+</channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://computerworld.com.br/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"> <channel> <title>RSS Assunto</title>
+ <description>Portal sobre tecnologia da informação e telecomunicações</description>
+ <link>http://computerworld.com.br/</link>
+ <atom:link rel="self" href="http://computerworld.com.br/rss_assunto/Padroniza%C3%A7%C3%A3o" />
+ <language>pt-br</language>
+ <item> <title>Mais nove cidades brasileiras terão domínios exclusivos sob o &amp;quot;.br&amp;quot;</title>
+ <link>http://computerworld.com.br/mais-nove-cidades-brasileiras-terao-dominios-exclusivos-sob-o-br</link>
+ <description>Entre as novas opções estão nomes como &quot;osasco.br&quot;, &quot;bsb.br&quot;, &quot;maceio.br&quot; e “rio.br&quot;. Confira o calendário e registre um domínio com o nome de sua cidade</description>
+ <pubDate>ter, 11 jul 2017 18:07:02 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Padroniza%C3%A7%C3%A3o">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/nomes_de_dominio.jpg" fileSize="77632" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Conheça o Wi-FI HaLow, o padrão de conexões para a Internet das Coisas</title>
+ <link>http://computerworld.com.br/conheca-o-wi-fi-halow-o-padrao-de-conexoes-para-internet-das-coisas</link>
+ <description>Essa nova versão de Wi-Fi é baseada na especificação IEEE 802.11ah e foi anunciada esta semana pela Wi-Fi Alliance</description>
+ <pubDate>seg, 04 jan 2016 17:42:07 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Padroniza%C3%A7%C3%A3o">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/internet_das_coisas_iot.jpg" fileSize="48004" type="image/jpeg" width="625" height="469" />
+</item>
+</channel>
+</rss>

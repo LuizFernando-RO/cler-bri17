@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://computerworld.com.br/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"> <channel> <title>RSS Tema</title>
+ <description>Portal sobre tecnologia da informação e telecomunicações</description>
+ <link>http://computerworld.com.br/</link>
+ <atom:link rel="self" href="http://computerworld.com.br/rss_tema/Cloud%20Computing" />
+ <language>pt-br</language>
+ <item> <title>Microsoft desenvolve sistema para processar aplicações de IA em tempo real</title>
+ <link>http://computerworld.com.br/microsoft-desenvolve-sistema-para-processar-aplicacoes-de-ia-em-tempo-real</link>
+ <description>Segundo a fabricante de software, o novo Brainwave consegue processar pedidos tão rápido quanto os recebe. Microsoft pretende oferecê-lo também em sua plataforma de nuvem Azure</description>
+ <guid isPermaLink="false">http://computerworld.com.br/microsoft-desenvolve-sistema-para-processar-aplicacoes-de-ia-em-tempo-real</guid>
+ <pubDate>Wed, 23 Aug 2017 17:26:57 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Cloud%20Computing">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/microsoft_9.jpg" fileSize="33641" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>TIM e IBM firmam parceria para oferta de soluções de infraestrutura em nuvem</title>
+ <link>http://computerworld.com.br/tim-e-ibm-firmam-parceria-para-oferta-de-solucoes-de-infraestrutura-em-nuvem</link>
+ <description>Acordo amplia o portfólio de serviços da operadora com soluções de virtualização para grandes empresas</description>
+ <guid isPermaLink="false">http://computerworld.com.br/tim-e-ibm-firmam-parceria-para-oferta-de-solucoes-de-infraestrutura-em-nuvem</guid>
+ <pubDate>Tue, 22 Aug 2017 19:26:25 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Cloud%20Computing">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/cloud-25.jpg" fileSize="42479" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Combinar DevOps com ferramentas em cloud gera melhora significativa na entrega de software</title>
+ <link>http://computerworld.com.br/combinar-devops-com-ferramentas-em-cloud-gera-melhora-significativa-na-entrega-de-software</link>
+ <description>Pesquisa aponta ganhos de performance de até 81% e benefícios de negócios com a adoção de ferramentas baseadas em cloud para DevOps</description>
+ <guid isPermaLink="false">http://computerworld.com.br/combinar-devops-com-ferramentas-em-cloud-gera-melhora-significativa-na-entrega-de-software</guid>
+ <pubDate>Mon, 14 Aug 2017 16:33:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Cloud%20Computing">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/devops_7.jpg" fileSize="62327" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Jive firma parceria com Cisco para oferta solução de comunicações unificadas em nuvem</title>
+ <link>http://computerworld.com.br/jive-firma-parceria-com-cisco-para-oferta-solucao-de-comunicacoes-unificadas-em-nuvem</link>
+ <description>Segundo as empresas, acordo vai permitir a integração do sistema de comunicações unificadas e do cloud voice da Jive aos telefones multiplataforma da Cisco</description>
+ <guid isPermaLink="false">http://computerworld.com.br/jive-firma-parceria-com-cisco-para-oferta-solucao-de-comunicacoes-unificadas-em-nuvem</guid>
+ <pubDate>Mon, 14 Aug 2017 14:59:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Cloud%20Computing">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/contact_center_2.jpg" fileSize="22417" type="image/jpeg" width="620" height="465" />
+</item>
+ <item> <title>Farmoquímica migra ambiente de TI para nuvem e troca banco de dados</title>
+ <link>http://computerworld.com.br/farmoquimica-migra-ambiente-de-ti-para-nuvem-e-troca-banco-de-dados</link>
+ <description>Companhia leva soluções para cloud, ao mesmo tempo em que substitui o banco de dados SQL pelo HANA, num movimento preparatório para adoção do S4/HANA</description>
+ <guid isPermaLink="false">http://computerworld.com.br/farmoquimica-migra-ambiente-de-ti-para-nuvem-e-troca-banco-de-dados</guid>
+ <pubDate>Tue, 08 Aug 2017 19:53:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Cloud%20Computing">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/nuvem_9.jpg" fileSize="44396" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Cloud computing já é tão crítico quanto água, luz e petróleo</title>
+ <link>http://computerworld.com.br/cloud-computing-ja-e-tao-critico-quanto-agua-luz-e-petroleo</link>
+ <description>Relatório da Vertiv adotou como critério de definição da criticidade o impacto que períodos de inatividade de cada segmento avaliado podem causar</description>
+ <guid isPermaLink="false">http://computerworld.com.br/cloud-computing-ja-e-tao-critico-quanto-agua-luz-e-petroleo</guid>
+ <pubDate>Tue, 08 Aug 2017 17:14:26 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Cloud%20Computing">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/cloud-1280440_1280_3.jpg" fileSize="37765" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>UOLDiveo participa do CIO Perspectives em Curitiba com foco em inovação</title>
+ <link>http://computerworld.com.br/uoldiveo-participa-do-cio-perspectives-em-curitiba-com-foco-em-inovacao</link>
+ <description>Empresa de infraestrutura, multicloud, serviços gerenciados e aplicação fará palestra para discutir inovação e transformação digital.</description>
+ <guid isPermaLink="false">http://computerworld.com.br/uoldiveo-participa-do-cio-perspectives-em-curitiba-com-foco-em-inovacao</guid>
+ <pubDate>Mon, 07 Aug 2017 13:49:58 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Cloud%20Computing">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/multicloud.jpg" fileSize="43886" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>PureCloud by Genesys alcança mais de 1 milhão de interações diárias</title>
+ <link>http://computerworld.com.br/purecloud-genesys-alcanca-mais-de-1-milhao-de-interacoes-diarias</link>
+ <description>A adoção da solução de contact center baseada na nuvem excede as projeções. Segundo a empresa, apenas nos últimos 12 meses conquistou mais de 500 clientes</description>
+ <guid isPermaLink="false">http://computerworld.com.br/purecloud-genesys-alcanca-mais-de-1-milhao-de-interacoes-diarias</guid>
+ <pubDate>Fri, 04 Aug 2017 17:31:27 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Cloud%20Computing">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/contact-us-1143659_1920_0.jpg" fileSize="195336" type="image/jpeg" width="1920" height="1437" />
+</item>
+ <item> <title>Digitalcomm migra operações para nova plataforma de nuvem e melhora nível de serviço</title>
+ <link>http://computerworld.com.br/digitalcomm-migra-operacoes-para-nova-plataforma-de-nuvem-e-melhora-nivel-de-servico</link>
+ <description>Fornecedora de software escolheu a plataforma OpenStack do UOLDiveo para consolidar operações em uma única nuvem, mais robusta e com gerenciamento mais eficiente</description>
+ <guid isPermaLink="false">http://computerworld.com.br/digitalcomm-migra-operacoes-para-nova-plataforma-de-nuvem-e-melhora-nivel-de-servico</guid>
+ <pubDate>Wed, 02 Aug 2017 18:53:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Cloud%20Computing">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/cloud_3.jpg" fileSize="36953" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Cloud computing aliado a BYOD muda mercado para PMEs</title>
+ <link>http://computerworld.com.br/cloud-computing-aliado-byod-muda-mercado-para-pmes</link>
+ <description>A combinação dessas duas tendências irá mudar terminantemente o trabalho e o ambiente dos administradores de sistemas em todo o mundo</description>
+ <guid isPermaLink="false">http://computerworld.com.br/cloud-computing-aliado-byod-muda-mercado-para-pmes</guid>
+ <pubDate>Tue, 01 Aug 2017 19:21:59 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Cloud%20Computing">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/cloud_2.jpg" fileSize="36953" type="image/jpeg" width="625" height="469" />
+</item>
+</channel>
+</rss>

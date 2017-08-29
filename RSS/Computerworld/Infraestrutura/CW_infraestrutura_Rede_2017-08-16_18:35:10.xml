@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://computerworld.com.br/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"> <channel> <title>RSS Assunto</title>
+ <description>Portal sobre tecnologia da informação e telecomunicações</description>
+ <link>http://computerworld.com.br/</link>
+ <atom:link rel="self" href="http://computerworld.com.br/rss_assunto/Rede" />
+ <language>pt-br</language>
+ <item> <title>Fundo Francisco Partners conclui aporte de US$ 200 milhões em subsidiária da Ericsson</title>
+ <link>http://computerworld.com.br/fundo-francisco-partners-conclui-aporte-de-us-200-milhoes-em-subsidiaria-da-ericsson</link>
+ <description>O fundo de private equity realizou o investimento na iconectiv, fornecedora de soluções de interconexão de redes e portabilidade numérica, passando a deter participação de 16,7% na empresa</description>
+ <pubDate>qui, 10 ago 2017 14:56:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Rede">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/aporte3_0.jpg" fileSize="100200" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Futuro da tecnologia 5G requer maior capacidade dos provedores de serviço</title>
+ <link>http://computerworld.com.br/futuro-da-tecnologia-5g-requer-maior-capacidade-dos-provedores-de-servico</link>
+ <description>Espera-se que o tráfego móvel alcance bilhões de conexões até 2020, o que representa um desafio para as operadoras, segundo a CommScope</description>
+ <pubDate>sex, 28 jul 2017 15:07:16 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Rede">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/5gb_0.jpg" fileSize="80216" type="image/jpeg" width="625" height="468" />
+</item>
+ <item> <title>Uso de WANs definidas por software deve crescer 90% até 2020</title>
+ <link>http://computerworld.com.br/uso-de-wans-definidas-por-software-deve-crescer-90-ate-2020</link>
+ <description>Estudo da Forrester Research revela que somente nos EUA 64% das empresas planejam implantar ou substituir a WAN tradicional por uma solução SD-WAN nos próximos 12 meses</description>
+ <pubDate>sab, 15 jul 2017 00:12:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Rede">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/conexao_1.jpg" fileSize="45916" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Intel faz parceria com AT&amp;amp;T e Ericsson para testar 5G em serviço de streaming</title>
+ <link>http://computerworld.com.br/intel-faz-parceria-com-att-e-ericsson-para-testar-5g-em-servico-de-streaming</link>
+ <description>Teste vai permitir que clientes residenciais e corporativos acompanhem transmissões ao vivo no serviço DirecTV Now e experimentem serviços de banda larga mais rápidos</description>
+ <pubDate>qua, 05 jul 2017 16:36:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Rede">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/5g_4.jpg" fileSize="80097" type="image/jpeg" width="1280" height="853" />
+</item>
+ <item> <title>A estrada para a 5G no Brasil</title>
+ <link>http://computerworld.com.br/estrada-para-5g-no-brasil</link>
+ <description>O Brasil está distante dos mercados desenvolvidos no quesito conectividade, pois a 4G ainda não está disponível em quase 80% dos municípios</description>
+ <pubDate>seg, 26 jun 2017 15:09:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Rede">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/5g_3.jpg" fileSize="80097" type="image/jpeg" width="1280" height="853" />
+</item>
+ <item> <title>Cisco anuncia rede intuitiva para melhorar desempenho a partir do tráfego</title>
+ <link>http://computerworld.com.br/cisco-anuncia-rede-intuitiva-para-melhorar-desempenho-partir-do-trafego</link>
+ <description>A nova solução de rede, segundo a empresa, é capaz de reconhecer comportamentos de tráfego, antecipando as ações dos usuários</description>
+ <pubDate>sex, 23 jun 2017 20:08:50 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Rede">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/dados_8.jpg" fileSize="92285" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Brasil é o único país da América Latina com mais de 30% do espectro outorgado</title>
+ <link>http://computerworld.com.br/brasil-e-o-unico-pais-da-america-latina-com-mais-de-30-do-espectro-outorgado</link>
+ <description>Apesar disso, nenhum país da região atingiu 35% do espectro sugerido pela UIT como fundamental para um melhor desempenho da banda larga móvel e a implantação das redes 5G</description>
+ <pubDate>qua, 21 jun 2017 22:57:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Rede">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/5g_2.jpg" fileSize="80097" type="image/jpeg" width="1280" height="853" />
+</item>
+ <item> <title>Brasil e Peru firmam acordo para integração de redes de telecomunicações</title>
+ <link>http://computerworld.com.br/brasil-e-peru-firmam-acordo-para-integracao-de-redes-de-telecomunicacoes</link>
+ <description>Acordo visa a integração da oferta de serviços de telecomunicações, com confiabilidade, segurança, baixo custo e velocidade na comunicação de dados</description>
+ <pubDate>sex, 16 jun 2017 21:45:13 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Rede">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/torre_0.jpg" fileSize="39991" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>CommScope e Kathrein firmam acordo de licenciamento cruzado de patentes</title>
+ <link>http://computerworld.com.br/commscope-e-kathrein-firmam-acordo-de-licenciamento-cruzado-de-patentes</link>
+ <description>Acordo entre as empresas se refere a antenas base station passivas, sistemas de antenas distribuídas (DAS) e filtros</description>
+ <pubDate>qui, 08 jun 2017 00:25:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Rede">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/antenna-1930019_1920.jpg" fileSize="532514" type="image/jpeg" width="1920" height="1279" />
+</item>
+ <item> <title>Arezzo customiza rede para aumentar disponibilidade e segurança</title>
+ <link>http://computerworld.com.br/arezzo-customiza-rede-para-aumentar-disponibilidade-e-seguranca</link>
+ <description>Rede de calçados, bolsas e acessórios femininos remodelou sua infraestrutura a fim de reduzir as possibilidades de incidentes e elevar o desempenho global e dar mais segurança aos processos</description>
+ <pubDate>seg, 05 jun 2017 15:00:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Rede">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/calcados.jpg" fileSize="38596" type="image/jpeg" width="625" height="469" />
+</item>
+</channel>
+</rss>

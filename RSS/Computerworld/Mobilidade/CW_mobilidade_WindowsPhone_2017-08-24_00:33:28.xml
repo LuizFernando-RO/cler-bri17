@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://computerworld.com.br/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"> <channel> <title>RSS Assunto</title>
+ <description>Portal sobre tecnologia da informação e telecomunicações</description>
+ <link>http://computerworld.com.br/</link>
+ <atom:link rel="self" href="http://computerworld.com.br/rss_assunto/Windows%20Phone" />
+ <language>pt-br</language>
+ <item> <title>Microsoft encerra suporte para Windows Phone 8.1</title>
+ <link>http://computerworld.com.br/microsoft-encerra-suporte-para-windows-phone-81</link>
+ <description>Lançado há cerca de três anos, update trazia grandes novidades na época, como Cortana e nova Central de Notificações. Empresa só conta agora com Windows 10 Mobile</description>
+ <pubDate>ter, 11 jul 2017 19:59:59 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Windows%20Phone">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/windowsphone.jpg" fileSize="26123" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Microsoft não precisa mais do Windows. Saiba por quê</title>
+ <link>http://computerworld.com.br/microsoft-nao-precisa-mais-do-windows-saiba-por-que</link>
+ <description>Sistema operacional responde por apenas 10% do lucro da companhia, o que faz os executivos da empresa reverem suas projeções de futuro</description>
+ <pubDate>seg, 07 mar 2016 18:57:40 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Windows%20Phone">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/cloud_janela_nuvem.jpg" fileSize="71023" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Microsoft mata ferramenta que facilita migração de Android para Windows 10</title>
+ <link>http://computerworld.com.br/microsoft-mata-ferramenta-de-migracao-de-apps-do-android-para-o-windows</link>
+ <description>Projeto Astoria foi criado para facilitar a portabilidade de aplicativos desenvolvidos originalmente para a plataforma Google </description>
+ <pubDate>sex, 26 fev 2016 16:47:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Windows%20Phone">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/windows_phone.png" fileSize="612681" type="image/png" width="625" height="469" />
+</item>
+ <item> <title>Microsoft lança smartphone básico com Windows 10 para mercado corporativo</title>
+ <link>http://computerworld.com.br/microsoft-lanca-smartphone-basico-com-windows-10-para-mercado-corporativo</link>
+ <description>Com configurações básicas, aparelho pode ser o último lançamento sob a marca Lumia pela fabricante de Redmond</description>
+ <pubDate>seg, 15 fev 2016 12:16:53 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Windows%20Phone">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/lumia_650.jpg" fileSize="58400" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Steve Ballmer acredita que o futuro do Windows Phone está no Android</title>
+ <link>http://computerworld.com.br/steve-ballmer-acredita-que-o-futuro-do-windows-phone-esta-no-android</link>
+ <description>Ex-CEO da Microsoft criticou seu sucessor, Satya Nadella, e indicou que ignorar aplicativos Android é um dos erros da companhia</description>
+ <pubDate>sex, 04 dez 2015 15:40:10 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Windows%20Phone">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/steve_ballmer.jpg" fileSize="40762" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Microsoft faz baixa contábil de US$ 7,6 bi referentes à Nokia e demite 7,8 mil</title>
+ <link>http://computerworld.com.br/microsoft-faz-baixa-contabil-de-us-76-bi-referentes-nokia-e-demite-78-mil</link>
+ <description>Satya Nadella, CEO da fabricante, anunciou que a companhia não tentará mais manter uma divisão de negócios de telefonia móvel de maneira autônoma</description>
+ <pubDate>qua, 08 jul 2015 12:00:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Windows%20Phone">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/microsoft_smartphone.jpg" fileSize="69692" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>&amp;quot;Android deixa usuários sem atualizações e expostos&amp;quot;, dispara Microsoft</title>
+ <link>http://computerworld.com.br/android-deixa-usuarios-sem-atualizacoes-e-expostos-dispara-microsoft</link>
+ <description>Para diretor da divisão Windows, plataforma do Google não assume nenhuma responsabilidade para atualizar aparelhos</description>
+ <pubDate>ter, 05 mai 2015 17:13:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Windows%20Phone">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/android.jpg" fileSize="52933" type="image/jpeg" width="625" height="469" />
+</item>
+</channel>
+</rss>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://computerworld.com.br/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"> <channel> <title>RSS Assunto</title>
+ <description>Portal sobre tecnologia da informação e telecomunicações</description>
+ <link>http://computerworld.com.br/</link>
+ <atom:link rel="self" href="http://computerworld.com.br/rss_assunto/Servidores" />
+ <language>pt-br</language>
+ <item> <title>Empresa europeia de virtualização de legados firma parceria com empresa brasileira</title>
+ <link>http://computerworld.com.br/empresa-europeia-de-virtualizacao-de-legados-firma-parceria-com-empresa-brasileira</link>
+ <description>Recém-chegada ao Brasil, Stromasys, fornecedora de soluções de emulação de servidores legados de multiplataformas corporativas, se une à MPE Soluções para expandir presença no país</description>
+ <pubDate>seg, 21 ago 2017 15:31:49 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Servidores">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/estrategia_4.jpg" fileSize="32742" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Vendas de servidores x86 cresce 12% em receita no Brasil no primeiro trimestre</title>
+ <link>http://computerworld.com.br/vendas-de-servidores-x86-cresce-12-em-receita-no-brasil-no-primeiro-trimestre</link>
+ <description>Entre janeiro e março deste ano, setor movimentou US$ 116 milhões.  Em unidades, o crescimento foi de 15% na comparação ano sobre ano</description>
+ <pubDate>seg, 31 jul 2017 14:41:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Servidores">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/lenovo-thinkserver_0.jpg" fileSize="68647" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>IBM lança primeiro mainframe com capacidade de criptografar dados</title>
+ <link>http://computerworld.com.br/ibm-lanca-primeiro-mainframe-com-capacidade-de-criptografar-dados</link>
+ <description>Segundo a empresa, o IBM z14 é capaz de processar mais de 12 bilhões de transações criptografadas por dia e possibilita criptografia de dados 24x7</description>
+ <pubDate>qua, 19 jul 2017 19:40:32 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Servidores">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/supercomputer_2.jpg" fileSize="45555" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Microsoft e Amazon ampliam ofertas de infraestrutura de nuvem para SAP HANA</title>
+ <link>http://computerworld.com.br/microsoft-e-amazon-ampliam-ofertas-de-infraestrutura-de-nuvem-para-sap-hana</link>
+ <description>Novos serviços têm objetivo de fornecer aos clientes configurações de múltiplos nós em hardware com grande capacidade de memória para cargas de trabalho</description>
+ <pubDate>qui, 18 mai 2017 20:23:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Servidores">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/cloud-1280440_1280_2.jpg" fileSize="37765" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Milhões de sites são afetados por vulnerabilidade em servidor web da Microsoft</title>
+ <link>http://computerworld.com.br/milhoes-de-sites-sao-afetados-por-vulnerabilidade-em-servidor-web-da-microsoft</link>
+ <description>Exploit para brecha encontrada no Microsoft IIS 6 foi publicado, aumentando o risco de ataques. Versão do servidor web é amplamente utilizada</description>
+ <pubDate>qui, 30 mar 2017 16:49:02 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Servidores">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/hacker6_2.jpg" fileSize="114808" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>China investe US$ 22 bilhões para expandir indústria de chips</title>
+ <link>http://computerworld.com.br/china-investe-us-22-bilhoes-para-expandir-industria-de-chips</link>
+ <description>Gigante asiático tem tentado superar fabricantes estrangeiras, como Qualcomm e Intel. Grupo que recebeu aporte, Tsinghua é um dos líderes na produção de chips móveis na China</description>
+ <pubDate>qua, 29 mar 2017 13:34:43 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Servidores">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/china.jpg" fileSize="69038" type="image/jpeg" width="625" height="467" />
+</item>
+ <item> <title>Mercado global de servidores registra ligeira queda em 2016</title>
+ <link>http://computerworld.com.br/mercado-global-de-servidores-registra-ligeira-queda-em-2016</link>
+ <description>A receita caiu 2,7% e o número de servidores comercializados aumentou 0,1% ao longo do ano passado, aponta estudo do Gartner</description>
+ <pubDate>seg, 13 mar 2017 14:06:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Servidores">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/servidores_0.jpg" fileSize="62445" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Divisão Q, da IBM, inclui computador quântico de 50 qubits</title>
+ <link>http://computerworld.com.br/divisao-q-da-ibm-inclui-computador-quantico-de-50-qubits</link>
+ <description>Com o IBM Q empresa diz estar pronta para transformar a computação quântica em um negócio real</description>
+ <pubDate>seg, 06 mar 2017 17:09:06 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Servidores">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/ibmprogramaq.jpg" fileSize="84264" type="image/jpeg" width="624" height="469" />
+</item>
+ <item> <title>Receita global da indústria de servidores tem queda de 5,8% no terceiro trimestre</title>
+ <link>http://computerworld.com.br/receita-global-da-industria-de-servidores-tem-queda-de-58-no-terceiro-trimestre</link>
+ <description>As remessas globais caíram 2,6% em relação ao ano anterior. Entre os cinco maiores fornecedores, apenas a Cisco teve aumento na receita, aponta o Gartner</description>
+ <pubDate>qua, 14 dez 2016 14:15:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Servidores">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/servidores.jpg" fileSize="40914" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Japão prepara supercomputador para 2017 com foco em eficiência</title>
+ <link>http://computerworld.com.br/japao-prepara-supercomputador-para-2017-com-foco-em-eficiencia</link>
+ <description>Com o projeto, o país também espera destronar a China e ter o supercomputador mais rápido do mundo até o fim do próximo ano</description>
+ <pubDate>sex, 25 nov 2016 17:29:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Servidores">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/supercomputer.jpg" fileSize="59591" type="image/jpeg" width="625" height="469" />
+</item>
+</channel>
+</rss>

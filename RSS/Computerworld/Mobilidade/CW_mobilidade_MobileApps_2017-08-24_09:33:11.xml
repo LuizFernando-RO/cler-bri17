@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://computerworld.com.br/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"> <channel> <title>RSS Assunto</title>
+ <description>Portal sobre tecnologia da informação e telecomunicações</description>
+ <link>http://computerworld.com.br/</link>
+ <atom:link rel="self" href="http://computerworld.com.br/rss_assunto/Mobile%20Apps" />
+ <language>pt-br</language>
+ <item> <title>Valid cria aplicativo que realiza transações bancárias via Facebook Messenger</title>
+ <link>http://computerworld.com.br/valid-cria-aplicativo-que-realiza-transacoes-bancarias-facebook-messenger</link>
+ <description>App desenvolvido pela empresa é um novo recurso de carteira móvel criado especificamente para o banco colombiano Davivienda</description>
+ <pubDate>seg, 19 jun 2017 17:00:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Mobile%20Apps">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/banknote.jpg" fileSize="44542" type="image/jpeg" width="624" height="469" />
+</item>
+ <item> <title>Carteiras virtuais móveis ignoram potencial dos programas de fidelidade</title>
+ <link>http://computerworld.com.br/carteiras-virtuais-moveis-ignoram-potencial-dos-programas-de-fidelidade</link>
+ <description>Estudo da Amdocs mostra que apenas 25% dos prestadores de serviços financeiros móveis oferecem o recurso dos cartões de fidelidade</description>
+ <pubDate>sex, 17 mar 2017 18:39:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Mobile%20Apps">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/cartao_fidelidade.jpg" fileSize="25176" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Google lança busca por sintomas auditada por médicos do Einstein</title>
+ <link>http://computerworld.com.br/google-lanca-busca-por-sintomas-auditada-por-medicos-do-einstein</link>
+ <description>Objetivo é tornar a pesquisa por informações de saúde mais fácil e confiável. Funciona apenas por dispositivos móveis e terá suporte a buscas por voz</description>
+ <pubDate>ter, 07 fev 2017 15:30:55 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Mobile%20Apps">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/google_sintomas.jpg" fileSize="44617" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Volks lança empresa com foco em carros autônomos e serviço de caronas</title>
+ <link>http://computerworld.com.br/volks-lanca-empresa-com-foco-em-carros-autonomos-e-servico-de-caronas</link>
+ <description>Chamada de Moia, a nova empresa da gigante automobilística ficará sediada em Berlim, na Alemanha, e terá serviço de vans compartilhadas</description>
+ <pubDate>ter, 06 dez 2016 14:18:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Mobile%20Apps">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/aplicativo_movel.jpg" fileSize="46887" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>STF quer opinião de especialistas em TI sobre bloqueio do WhatsApp</title>
+ <link>http://computerworld.com.br/stf-quer-opiniao-de-especialistas-em-ti-sobre-bloqueio-do-whatsapp</link>
+ <description>Ainda sem data para acontecer, audiência pública deve ajudar o ministro Edson Fachin a tomar uma decisão sobre o assunto</description>
+ <pubDate>qua, 02 nov 2016 11:16:03 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Mobile%20Apps">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/whatsapp_0.jpg" fileSize="38977" type="image/jpeg" width="625" height="467" />
+</item>
+ <item> <title>Carros da GM vão usar pagamento móvel da Mastercard, com o IBM Watson</title>
+ <link>http://computerworld.com.br/carros-da-gm-vao-usar-pagamento-movel-da-mastercard-com-o-ibm-watson</link>
+ <description>Com o Masterpass e recursos de IA, o objetivo é facilitar compras on-line para passageiros e motoristas, enquanto eles estão em trânsito</description>
+ <pubDate>qui, 27 out 2016 17:31:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Mobile%20Apps">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/masterpass_usando_ibm_watson_em_carros_gm.jpg" fileSize="50433" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Acordo entre Waze e Esri permitirá troca de dados sobre condições das vias</title>
+ <link>http://computerworld.com.br/acordo-entre-waze-e-esri-permitira-troca-de-dados-governamentais-sobre-condicoes-das-vias</link>
+ <description>Prefeituras que adotam a plataforma ArcGis da Esri poderão compartilhar as informações com usuários do aplicativo de rotas</description>
+ <pubDate>ter, 25 out 2016 12:25:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Mobile%20Apps">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/waze_navigation_screen_on_android_portuguese.png" fileSize="190588" type="image/png" width="625" height="469" />
+</item>
+ <item> <title>Apple vê Realidade Aumentada como parte do nosso cotidiano</title>
+ <link>http://computerworld.com.br/apple-ve-realidade-aumentada-como-parte-do-nosso-cotidiano</link>
+ <description>&quot;Uma parcela significativa da população usará RA todos os dias, como faz com o iPhone&quot;, garante Tim Cook, CEO da companhia</description>
+ <pubDate>ter, 04 out 2016 14:37:56 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Mobile%20Apps">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/realidade_aumentada_apple.jpg" fileSize="170994" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>BR Home Centers aumenta vendas em 20% com solução móvel da Honeywell</title>
+ <link>http://computerworld.com.br/br-home-centers-aumenta-vendas-em-20-com-solucao-movel-da-honeywell</link>
+ <description>Varejista implementou 647 equipamentos em 26 lojas de material de construção das bandeiras TendTudo e Casa Show</description>
+ <pubDate>seg, 03 out 2016 18:05:31 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Mobile%20Apps">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/smartphone_mobilidade.jpg" fileSize="25312" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Cloud e mobilidade puxarão investimentos de TI no Brasil em 2017</title>
+ <link>http://computerworld.com.br/cloud-e-mobilidade-puxarao-investimentos-de-ti-no-brasil-em-2017</link>
+ <description>Resultados preliminares da pesquisa IT Leaders revelam ainda que segurança é o terceiro pilar de investimento no próximo ano</description>
+ <pubDate>ter, 27 set 2016 12:12:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Mobile%20Apps">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/cloud_computing_creative_commons.jpg" fileSize="43528" type="image/jpeg" width="625" height="469" />
+</item>
+</channel>
+</rss>

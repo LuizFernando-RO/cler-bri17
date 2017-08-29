@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://computerworld.com.br/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"> <channel> <title>RSS Tema</title>
+ <description>Portal sobre tecnologia da informação e telecomunicações</description>
+ <link>http://computerworld.com.br/</link>
+ <atom:link rel="self" href="http://computerworld.com.br/rss_tema/Gest%C3%A3o" />
+ <language>pt-br</language>
+ <item> <title>Sabesp substitui sistemas antigos por soluções da SAP</title>
+ <link>http://computerworld.com.br/sabesp-substitui-sistemas-antigos-por-solucoes-da-sap</link>
+ <description>Companhia de saneamento básico do Estado de São Paulo adotou SAP ERP e SAP HANA  para modernizar seus sistemas de gestão gerenciais e empresariais</description>
+ <guid isPermaLink="false">http://computerworld.com.br/sabesp-substitui-sistemas-antigos-por-solucoes-da-sap</guid>
+ <pubDate>Fri, 25 Aug 2017 13:02:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Gest%C3%A3o">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/sabesp-625-cw.jpg" fileSize="51711" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Marketing e vendas habitam planetas muito diferentes</title>
+ <link>http://computerworld.com.br/marketing-e-vendas-habitam-planetas-muito-diferentes</link>
+ <description>Quando o marketing apoia as vendas, encurtando o ciclo de comercialização, as taxas de sucesso surpreendem</description>
+ <guid isPermaLink="false">http://computerworld.com.br/marketing-e-vendas-habitam-planetas-muito-diferentes</guid>
+ <pubDate>Wed, 23 Aug 2017 19:07:47 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Gest%C3%A3o">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/planetas.jpg" fileSize="63239" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Fabricante de tintas investe em business analytics e torna força de vendas mais eficaz</title>
+ <link>http://computerworld.com.br/fabricante-de-tintas-investe-em-business-analytics-e-torna-forca-de-vendas-mais-eficaz</link>
+ <description>A Sayerlack, fabricante brasileira de tintas e vernizes para madeira, apostou no Smart Analytics da Totvs para gerar relatórios com informações atualizadas e garantir uma tomada de decisão mais ágil e precisa</description>
+ <guid isPermaLink="false">http://computerworld.com.br/fabricante-de-tintas-investe-em-business-analytics-e-torna-forca-de-vendas-mais-eficaz</guid>
+ <pubDate>Mon, 21 Aug 2017 13:40:25 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Gest%C3%A3o">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/analytics2_3.jpg" fileSize="35139" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Mercado de ERP no Brasil é mapeado pela primeira vez</title>
+ <link>http://computerworld.com.br/mercado-de-erp-no-brasil-e-mapeado-pela-primeira-vez</link>
+ <description>Estratégia de ERP que suporte a jornada das empresas rumo a novos modelos de negócios digitais é uma necessidade atual no país, mostra relatório do Gartner</description>
+ <guid isPermaLink="false">http://computerworld.com.br/mercado-de-erp-no-brasil-e-mapeado-pela-primeira-vez</guid>
+ <pubDate>Wed, 16 Aug 2017 18:15:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Gest%C3%A3o">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/erp_2.jpg" fileSize="50693" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>O que você faria se a história da sua empresa fosse totalmente apagada?</title>
+ <link>http://computerworld.com.br/o-que-voce-faria-se-historia-da-sua-empresa-fosse-totalmente-apagada</link>
+ <description>Muitas organizações não percebem a importância de priorizarem a cópia de segurança das informações, já que esse é um processo muito mais complexo do que parece</description>
+ <guid isPermaLink="false">http://computerworld.com.br/o-que-voce-faria-se-historia-da-sua-empresa-fosse-totalmente-apagada</guid>
+ <pubDate>Wed, 16 Aug 2017 12:27:23 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Gest%C3%A3o">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/database_0.jpg" fileSize="77763" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Malwee implanta sistema de gestão e melhora atendimento ao consumidor</title>
+ <link>http://computerworld.com.br/malwee-implanta-sistema-de-gestao-e-melhora-atendimento-ao-consumidor</link>
+ <description>Companhia implanta sistema para gerenciar suas lojas e franquias que puderam melhorar o atendimento ao consumidor</description>
+ <guid isPermaLink="false">http://computerworld.com.br/malwee-implanta-sistema-de-gestao-e-melhora-atendimento-ao-consumidor</guid>
+ <pubDate>Tue, 15 Aug 2017 14:18:16 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Gest%C3%A3o">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/gestao_5.jpg" fileSize="53431" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Seguradora implanta módulo de recebimento com cartão para facilitar compra de seguros</title>
+ <link>http://computerworld.com.br/seguradora-implanta-modulo-de-recebimento-com-cartao-para-facilitar-compra-de-seguros</link>
+ <description>Sompo Seguros está em fase final de implementação em seu ERP de um módulo para recebimento de pagamentos com cartões de crédito para oferecer aos seus mais de 3 milhões de segurados uma opção ágil de contratação de seguros</description>
+ <guid isPermaLink="false">http://computerworld.com.br/seguradora-implanta-modulo-de-recebimento-com-cartao-para-facilitar-compra-de-seguros</guid>
+ <pubDate>Thu, 10 Aug 2017 13:52:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Gest%C3%A3o">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/seguro_0.jpg" fileSize="37172" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Lojas Renner simplifica operações com pacote integrado de aplicativos em nuvem</title>
+ <link>http://computerworld.com.br/lojas-renner-simplifica-operacoes-com-pacote-integrado-de-aplicativos-em-nuvem</link>
+ <description>Rede varejista de moda que opera mais de 470 lojas sob as marcas Renner, Youcom e Camicado decidiu adotar uma solução padrão para a marca com objetivo de aumentar a produtividade e eficiência</description>
+ <guid isPermaLink="false">http://computerworld.com.br/lojas-renner-simplifica-operacoes-com-pacote-integrado-de-aplicativos-em-nuvem</guid>
+ <pubDate>Mon, 07 Aug 2017 19:54:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Gest%C3%A3o">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/renner.jpg" fileSize="65982" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Banco Industrial melhora gestão de dados de clientes com ferramenta de MDM</title>
+ <link>http://computerworld.com.br/banco-industrial-melhora-gestao-de-dados-de-clientes-com-ferramenta-de-mdm</link>
+ <description>Com implantação de plataforma de gestão de dados mestres (MDM), banco conseguiu ter uma visão única de cada correntista e, ao mesmo tempo, eliminar o risco de duplicidade e inconsistência de informações</description>
+ <guid isPermaLink="false">http://computerworld.com.br/banco-industrial-melhora-gestao-de-dados-de-clientes-com-ferramenta-de-mdm</guid>
+ <pubDate>Fri, 28 Jul 2017 17:02:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Gest%C3%A3o">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/cliente_1.jpg" fileSize="45694" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Atento anuncia David Cardoso para comandar unidade digital</title>
+ <link>http://computerworld.com.br/atento-anuncia-david-cardoso-para-comandar-unidade-digital</link>
+ <description>A Atento Digital é uma recém-criada unidade global de negócios, que integra os ativos digitais da Atento para gerar valor adicional para os clientes no relacionamento com o consumidor</description>
+ <guid isPermaLink="false">http://computerworld.com.br/atento-anuncia-david-cardoso-para-comandar-unidade-digital</guid>
+ <pubDate>Fri, 28 Jul 2017 14:35:09 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Gest%C3%A3o">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/david_cardoso_diretor_da_atento_digital_2.jpg" fileSize="42480" type="image/jpeg" width="625" height="469" />
+</item>
+</channel>
+</rss>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://computerworld.com.br/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"> <channel> <title>RSS Tema</title>
+ <description>Portal sobre tecnologia da informação e telecomunicações</description>
+ <link>http://computerworld.com.br/</link>
+ <atom:link rel="self" href="http://computerworld.com.br/rss_tema/Seguran%C3%A7a" />
+ <language>pt-br</language>
+ <item> <title>Hacker chinês é preso sob acusação de atacar redes de empresas nos EUA</title>
+ <link>http://computerworld.com.br/hacker-chines-e-preso-sob-acusacao-de-atacar-redes-de-empresas-nos-eua</link>
+ <description>Entre os ataques realizado por Yu Pingan, de 36 anos, estaria a rede de computadores do Escritório de Gestão de Pessoal do governo americano, que abriga informações de todos os funcionários federais</description>
+ <guid isPermaLink="false">http://computerworld.com.br/hacker-chines-e-preso-sob-acusacao-de-atacar-redes-de-empresas-nos-eua</guid>
+ <pubDate>Fri, 25 Aug 2017 20:59:30 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Seguran%C3%A7a">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/hacker_13.jpg" fileSize="26791" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Ministério do Trabalho adere ao analytics e reduz fraudes no seguro-desemprego</title>
+ <link>http://computerworld.com.br/ministerio-do-trabalho-adere-ao-analytics-e-reduz-fraudes-no-seguro-desemprego</link>
+ <description>Segundo a pasta, somente neste ano a ferramenta de combate à fraude já proporcionou uma economia de aproximadamente R$ 500 milhões aos cofres públicos</description>
+ <guid isPermaLink="false">http://computerworld.com.br/ministerio-do-trabalho-adere-ao-analytics-e-reduz-fraudes-no-seguro-desemprego</guid>
+ <pubDate>Thu, 24 Aug 2017 15:42:04 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Seguran%C3%A7a">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/fraude_0.jpg" fileSize="23481" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Descoberto vírus que pode roubar dados bancários de usuários do Android</title>
+ <link>http://computerworld.com.br/descoberto-virus-que-pode-roubar-dados-bancarios-de-usuarios-do-android</link>
+ <description>Chamado de Fakedtoken, o vírus descoberto pela Kaspersky surpreende por sua sofisticação, como a capacidade de interceptar mensagens de texto para roubar identidades bancárias</description>
+ <guid isPermaLink="false">http://computerworld.com.br/descoberto-virus-que-pode-roubar-dados-bancarios-de-usuarios-do-android</guid>
+ <pubDate>Wed, 23 Aug 2017 19:21:40 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Seguran%C3%A7a">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/smartphone_android_0.jpg" fileSize="32389" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>GDPR é desafio para responsáveis pela segurança de TI, na Europa e no Brasil</title>
+ <link>http://computerworld.com.br/gdpr-e-desafio-para-responsaveis-pela-seguranca-de-ti-na-europa-e-no-brasil</link>
+ <description>À medida que as empresas se preparam para estar em conformidade com a norma europeia, iniciar a classificação é o primeiro passo para proteção de dados</description>
+ <guid isPermaLink="false">http://computerworld.com.br/gdpr-e-desafio-para-responsaveis-pela-seguranca-de-ti-na-europa-e-no-brasil</guid>
+ <pubDate>Tue, 22 Aug 2017 18:51:31 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Seguran%C3%A7a">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/data-protection-10.jpg" fileSize="66857" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Inteligência artificial não é a panaceia para a segurança cibernética</title>
+ <link>http://computerworld.com.br/inteligencia-artificial-nao-e-panaceia-para-seguranca-cibernetica</link>
+ <description>Se confiarmos na aprendizagem da máquina para proteger nossas redes, precisamos aceitar algo: é tão fácil treinar uma máquina para reconhecer o malware como é para treinar outra máquina para vencê-la</description>
+ <guid isPermaLink="false">http://computerworld.com.br/inteligencia-artificial-nao-e-panaceia-para-seguranca-cibernetica</guid>
+ <pubDate>Tue, 22 Aug 2017 14:10:24 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Seguran%C3%A7a">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/robos_1.jpg" fileSize="55590" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Especialista faz alerta para que empresas se antecipem a ciberataque maciço</title>
+ <link>http://computerworld.com.br/especialista-faz-alerta-para-que-empresas-se-antecipem-ciberataque-macico</link>
+ <description>Especialista em segurança cibernética Rodrigo Fragola aponta a tradicional prática do pentest como uma simples &quot;autópsia&quot;, incapaz de se adiantar às novas formas de ataque</description>
+ <guid isPermaLink="false">http://computerworld.com.br/especialista-faz-alerta-para-que-empresas-se-antecipem-ciberataque-macico</guid>
+ <pubDate>Mon, 21 Aug 2017 17:58:24 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Seguran%C3%A7a">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/hacking_5.jpg" fileSize="78918" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Dados na nuvem ou em casa: O que é mais seguro?</title>
+ <link>http://computerworld.com.br/dados-na-nuvem-ou-em-casa-o-que-e-mais-seguro</link>
+ <description>Na contramão do que diz o senso comum, Gartner reitera sua posição sobre o tema, aponta tendências e sugere um plano de ação aos líderes de segurança da informação</description>
+ <guid isPermaLink="false">http://computerworld.com.br/dados-na-nuvem-ou-em-casa-o-que-e-mais-seguro</guid>
+ <pubDate>Mon, 21 Aug 2017 16:00:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Seguran%C3%A7a">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/cloud_5.jpg" fileSize="36953" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Radiografia dos Ransomwares, os vilões mais temidos da internet  </title>
+ <link>http://computerworld.com.br/radiografia-dos-ransomwares-os-viloes-mais-temidos-da-internet</link>
+ <description>Aumenta a preocupação das empresas com a segurança de dados depois do caso WannaCry</description>
+ <guid isPermaLink="false">http://computerworld.com.br/radiografia-dos-ransomwares-os-viloes-mais-temidos-da-internet</guid>
+ <pubDate>Mon, 21 Aug 2017 11:46:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Seguran%C3%A7a">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/ransomwares-brandpost-kaspersky.jpg" fileSize="70109" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Quanto valem seus dados? Deixe-os desprotegidos e saberás</title>
+ <link>http://computerworld.com.br/quanto-valem-seus-dados-deixe-os-desprotegidos-e-saberas</link>
+ <description>Devemos nos perguntar até quando deixaremos nossas informações desprotegidas a ponto de comprometer e causar prejuízos</description>
+ <guid isPermaLink="false">http://computerworld.com.br/quanto-valem-seus-dados-deixe-os-desprotegidos-e-saberas</guid>
+ <pubDate>Thu, 17 Aug 2017 19:09:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Seguran%C3%A7a">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/security-1202344_1280_2.jpg" fileSize="73947" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Ocorreu um incidente de segurança? Saiba o que fazer</title>
+ <link>http://computerworld.com.br/ocorreu-um-incidente-de-seguranca-saiba-o-que-fazer</link>
+ <description>Saída é buscar reduzir o impacto que um incidente pode causar, sendo ágil e assertivo no seu tratamento</description>
+ <guid isPermaLink="false">http://computerworld.com.br/ocorreu-um-incidente-de-seguranca-saiba-o-que-fazer</guid>
+ <pubDate>Wed, 16 Aug 2017 23:18:10 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_tema/Seguran%C3%A7a">RSS Tema</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/dados_9.jpg" fileSize="110823" type="image/jpeg" width="625" height="469" />
+</item>
+</channel>
+</rss>

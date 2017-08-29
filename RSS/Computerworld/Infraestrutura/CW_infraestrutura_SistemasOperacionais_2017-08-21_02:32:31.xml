@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://computerworld.com.br/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"> <channel> <title>RSS Assunto</title>
+ <description>Portal sobre tecnologia da informação e telecomunicações</description>
+ <link>http://computerworld.com.br/</link>
+ <atom:link rel="self" href="http://computerworld.com.br/rss_assunto/Sistemas%20Operacionais" />
+ <language>pt-br</language>
+ <item> <title>Windows 7 ainda é o sistema operacional mais usado no mundo</title>
+ <link>http://computerworld.com.br/windows-7-ainda-e-o-sistema-operacional-mais-usado-no-mundo</link>
+ <description>Segundo empresa de pesquisas, software lançado em 2009 ainda está presente em 48,9% de todos os PCs do mundo. Microsoft encerrará suporte em janeiro de 2020</description>
+ <pubDate>qui, 03 ago 2017 16:29:27 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Sistemas%20Operacionais">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/windows_1.jpg" fileSize="38756" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Com 53,6% do mercado, Windows 7 pode ficar sem patches de segurança</title>
+ <link>http://computerworld.com.br/com-536-do-mercado-windows-7-pode-ficar-sem-patches-de-seguranca</link>
+ <description>Lançado em 2009, sistema operacional só terá seu suporte encerrado em 2020. Analistas temem que empresas esperem até o fim do prazo para fazer upgrade para o Windows 10</description>
+ <pubDate>ter, 11 jul 2017 12:59:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Sistemas%20Operacionais">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/windows-7.jpg" fileSize="12408" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Maioria das empresas começará a migrar para Windows 10 até o fim do ano, diz Gartner</title>
+ <link>http://computerworld.com.br/maioria-das-empresas-comecara-migrar-para-windows-10-ate-o-fim-do-ano-diz-gartner</link>
+ <description>Levantamento em seis países mostra que 85% das organizações terão iniciado a implementação do Windows 10 até o fim deste ano</description>
+ <pubDate>qua, 03 mai 2017 15:04:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Sistemas%20Operacionais">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/windows_0.jpg" fileSize="38756" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Microsoft terá cronograma fixo para novos updates do Windows 10 e Office</title>
+ <link>http://computerworld.com.br/microsoft-tera-cronograma-fixo-para-novos-updates-do-windows-10-e-office</link>
+ <description>A partir de agora, empresa se compromete a liberar atualizações sempre nos meses de março e setembro</description>
+ <pubDate>qui, 20 abr 2017 17:34:33 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Sistemas%20Operacionais">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/windows10upgrade.jpg" fileSize="19880" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Microsoft lança programa beta do Windows 10 para usuários corporativos</title>
+ <link>http://computerworld.com.br/microsoft-lanca-programa-beta-do-windows-10-para-usuarios-corporativos</link>
+ <description>Windows Insider Program for Business foi revelado nesta sexta-feira, 7/4, em uma tentativa da empresa de Redmond se aproximar mais das equipes de TI</description>
+ <pubDate>sex, 07 abr 2017 22:06:38 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Sistemas%20Operacionais">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/microsoft_1.jpg" fileSize="42329" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Android supera Windows como o sistema mais usado para acessar internet</title>
+ <link>http://computerworld.com.br/android-supera-windows-como-o-sistema-mais-usado-para-acessar-internet</link>
+ <description>Segundo dados da StatCounter, plataforma móvel do Google superou por pouco o sistema da Microsoft no último trimestre</description>
+ <pubDate>seg, 03 abr 2017 18:53:59 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Sistemas%20Operacionais">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/android_3.jpg" fileSize="43399" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Usuários processam Microsoft sob alegação de que Windows 10 destrói dados e danifica PCs</title>
+ <link>http://computerworld.com.br/usuarios-processam-microsoft-sob-alegacao-de-que-windows-10-destroi-dados-e-danifica-pcs</link>
+ <description>Em resposta, porta-voz da empresa diz que acusação de consumidores &quot;não tem mérito&quot;</description>
+ <pubDate>ter, 28 mar 2017 12:53:51 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Sistemas%20Operacionais">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/windows10.jpg" fileSize="19880" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Windows 7 ocupa 52,8% dos PCs e sinaliza transição lenta para Windows 10</title>
+ <link>http://computerworld.com.br/windows-7-ocupa-528-dos-pcs-e-sinaliza-transicao-lenta-para-windows-10</link>
+ <description>O número de computadores com Windows 7 se mantém constante nos últimos 8 meses, segundo dados da Net Applications</description>
+ <pubDate>qui, 02 mar 2017 01:05:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Sistemas%20Operacionais">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/windows_7_desktop.jpg" fileSize="42196" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Microsoft estende suporte para Windows Server e SQL Server por mais seis anos</title>
+ <link>http://computerworld.com.br/microsoft-estende-suporte-para-windows-server-e-sql-server-por-mais-seis-anos</link>
+ <description>Empresa anunciou uma nova opção de licenciamento para os sistemas que amplia o suporte por seis anos, num total de 16 anos de atualizações</description>
+ <pubDate>seg, 12 dez 2016 13:05:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Sistemas%20Operacionais">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/windows.jpg" fileSize="37608" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Banrisul adota Windows 10 Pro em todas as suas 538 agências e 202 postos no país</title>
+ <link>http://computerworld.com.br/banrisul-adota-windows-10-pro-em-todas-suas-538-agencias-e-202-postos-no-pais</link>
+ <description>Banco ganha novos recursos de segurança e de produtividade com a atualização do sistema operacional corporativo</description>
+ <pubDate>qui, 24 nov 2016 20:40:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Sistemas%20Operacionais">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/windows-10.jpg" fileSize="88835" type="image/jpeg" width="625" height="469" />
+</item>
+</channel>
+</rss>

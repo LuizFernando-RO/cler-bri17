@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://computerworld.com.br/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"> <channel> <title>RSS Assunto</title>
+ <description>Portal sobre tecnologia da informação e telecomunicações</description>
+ <link>http://computerworld.com.br/</link>
+ <atom:link rel="self" href="http://computerworld.com.br/rss_assunto/Cloud%20H%C3%ADbrida" />
+ <language>pt-br</language>
+ <item> <title>Cloud computing já é tão crítico quanto água, luz e petróleo</title>
+ <link>http://computerworld.com.br/cloud-computing-ja-e-tao-critico-quanto-agua-luz-e-petroleo</link>
+ <description>Relatório da Vertiv adotou como critério de definição da criticidade o impacto que períodos de inatividade de cada segmento avaliado podem causar</description>
+ <pubDate>ter, 08 ago 2017 17:14:26 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Cloud%20H%C3%ADbrida">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/cloud-1280440_1280_3.jpg" fileSize="37765" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>PureCloud by Genesys alcança mais de 1 milhão de interações diárias</title>
+ <link>http://computerworld.com.br/purecloud-genesys-alcanca-mais-de-1-milhao-de-interacoes-diarias</link>
+ <description>A adoção da solução de contact center baseada na nuvem excede as projeções. Segundo a empresa, apenas nos últimos 12 meses conquistou mais de 500 clientes</description>
+ <pubDate>sex, 04 ago 2017 17:31:27 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Cloud%20H%C3%ADbrida">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/contact-us-1143659_1920_0.jpg" fileSize="195336" type="image/jpeg" width="1920" height="1437" />
+</item>
+ <item> <title>Cloud computing aliado a BYOD muda mercado para PMEs</title>
+ <link>http://computerworld.com.br/cloud-computing-aliado-byod-muda-mercado-para-pmes</link>
+ <description>A combinação dessas duas tendências irá mudar terminantemente o trabalho e o ambiente dos administradores de sistemas em todo o mundo</description>
+ <pubDate>ter, 01 ago 2017 19:21:59 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Cloud%20H%C3%ADbrida">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/cloud_2.jpg" fileSize="36953" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Adoção de aplicações nativas de cloud deve dobrar em três anos</title>
+ <link>http://computerworld.com.br/adocao-de-aplicacoes-nativas-de-cloud-deve-dobrar-em-tres-anos</link>
+ <description>Uso de soluções nativas da nuvem deve crescer 32% até 2020, projeta estudo da Capgemini, que aponta a necessidade das empresas de aumentar a agilidade dos negócios e melhorar a experiência dos consumidores</description>
+ <pubDate>qui, 27 jul 2017 15:49:56 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Cloud%20H%C3%ADbrida">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/computacao_em_nuvem_4.jpg" fileSize="49491" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Empresas que combinam DevOps e cloud melhoram entrega de software, diz estudo</title>
+ <link>http://computerworld.com.br/empresas-que-combinam-devops-e-cloud-melhoram-entrega-de-software-diz-estudo</link>
+ <description>Empresas que combinam a metodologia com ferramentas baseadas em nuvem e mecanismos de entrega obtêm 81% de melhoria no desempenho geral da entrega de software, afirma pesquisa</description>
+ <pubDate>qui, 27 jul 2017 13:12:12 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Cloud%20H%C3%ADbrida">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/emerging-tech_1.jpg" fileSize="38408" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Projetos de pesquisa em TICs escolhidos pela RNP e UE receberão R$ 60 mi</title>
+ <link>http://computerworld.com.br/projetos-de-pesquisa-em-tics-escolhidos-pela-rnp-e-ue-receberao-r-60-mi</link>
+ <description>Projetos selecionados receberão recursos para desenvolver pesquisas em Internet das Coisas, computação em nuvem e 5G e terão a participação de 39 instituições brasileiras</description>
+ <pubDate>ter, 18 jul 2017 16:29:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Cloud%20H%C3%ADbrida">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/communication-1927706_1.jpg" fileSize="92801" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Dedalus Prime e Exceda unem ofertas de cloud, edge e serviços gerenciados</title>
+ <link>http://computerworld.com.br/dedalus-prime-e-exceda-unem-ofertas-de-cloud-edge-e-servicos-gerenciados</link>
+ <description>Empresas vai oferecer soluções de CDN, segurança, IaaS e gestão de ambientes. Expectativa de faturamento combinado em torno de R$ 300 milhões nos próximos 12 meses</description>
+ <pubDate>qui, 13 jul 2017 22:45:42 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Cloud%20H%C3%ADbrida">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/fusao2_1_1.jpg" fileSize="19350" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Totvs reforça estratégia de SaaS com nova nuvem e plataforma multicloud</title>
+ <link>http://computerworld.com.br/totvs-reforca-estrategia-de-saas-com-nova-nuvem-e-plataforma-multicloud</link>
+ <description>Objetivo, segundo a empresa, é oferecer aos clientes mais autonomia, performance, segurança e escalabilidade, além da opção de escolha na alocação de softwares</description>
+ <pubDate>qui, 06 jul 2017 20:23:44 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Cloud%20H%C3%ADbrida">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/computacao_em_nuvem_3.jpg" fileSize="49491" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Logicalis adquire controle de integradora de nuvem NubeliU</title>
+ <link>http://computerworld.com.br/logicalis-adquire-controle-de-integradora-de-nuvem-nubeliu</link>
+ <description>Em comunicado, companhia diz que aquisição reforça seu portfólio em OpenStack e posicionamento como integradora de nuvem</description>
+ <pubDate>qua, 05 jul 2017 10:58:23 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Cloud%20H%C3%ADbrida">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/binary-2380422_1920.jpg" fileSize="385721" type="image/jpeg" width="1920" height="1280" />
+</item>
+ <item> <title>UOLDiveo participa do CIO Perspectives RJ e aborda temática Multicloud</title>
+ <link>http://computerworld.com.br/uoldiveo-participa-do-cio-perspectives-rj-e-aborda-tematica-multicloud</link>
+ <description>Diretor de Marketing e Alianças Estratégicas do UOLDiveo, Luiz Vianna, fará palestra sobre o papel da nuvem na jornada digital das empresas</description>
+ <pubDate>ter, 04 jul 2017 18:27:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Cloud%20H%C3%ADbrida">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/cio_perspectives_1.jpg" fileSize="60885" type="image/jpeg" width="625" height="469" />
+</item>
+</channel>
+</rss>

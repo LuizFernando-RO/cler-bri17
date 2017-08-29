@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://computerworld.com.br/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"> <channel> <title>RSS Assunto</title>
+ <description>Portal sobre tecnologia da informação e telecomunicações</description>
+ <link>http://computerworld.com.br/</link>
+ <atom:link rel="self" href="http://computerworld.com.br/rss_assunto/Criptografia" />
+ <language>pt-br</language>
+ <item> <title>Como evitar que a criptografia sequestre sua rede</title>
+ <link>http://computerworld.com.br/como-evitar-que-criptografia-sequestre-sua-rede</link>
+ <description>As empresas que não adotarem uma inspeção rigorosa do tráfego criptografado estarão arriscando a segurança de rede e criando um risco inaceitável de violações e perda de dados</description>
+ <pubDate>ter, 01 ago 2017 11:44:29 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Criptografia">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/criptografia_2.jpg" fileSize="65246" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Por uma regulamentação do uso e tributação do bitcoin</title>
+ <link>http://computerworld.com.br/por-uma-regulamentacao-do-uso-e-tributacao-do-bitcoin</link>
+ <description>É preciso regulamentar o bitcoin, em razão também da dificuldade em descobrir quando uma pessoa, seja jurídica ou física, realizou alguma operação com a moeda virtual</description>
+ <pubDate>qua, 26 jul 2017 13:40:41 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Criptografia">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/bitcoin-2.jpg" fileSize="83579" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Armas para lutar contra o lado obscuro da criptografia</title>
+ <link>http://computerworld.com.br/armas-para-lutar-contra-o-lado-obscuro-da-criptografia</link>
+ <description>A correria para criptografar todo tráfego de internet aparentemente também criptografou todas as ameaças</description>
+ <pubDate>ter, 06 jun 2017 09:29:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Criptografia">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/criptografia_1.jpg" fileSize="65246" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Empresas no país admitem pouca qualificação de profissionais para lidar com ferramentas de segurança</title>
+ <link>http://computerworld.com.br/empresas-no-pais-admitem-pouca-qualificacao-de-profissionais-para-lidar-com-ferramentas-de-seguranca</link>
+ <description>Resultado é que cerca de 25% delas não conseguem medir os impactos resultantes dos incidentes relacionados à segurança, indica estudo da Level 3 Communications</description>
+ <pubDate>qui, 02 fev 2017 15:09:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Criptografia">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/binario_0.jpg" fileSize="64294" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Fujitsu desenvolve tecnologia de segurança para blockchain</title>
+ <link>http://computerworld.com.br/fujitsu-desenvolve-tecnologia-de-seguranca-para-blockchain</link>
+ <description>Companhia anuncia tecnologia de restrição de transações e de criptografia de documentos para controlar os dados confidenciais entre organizações</description>
+ <pubDate>seg, 30 jan 2017 22:56:16 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Criptografia">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/blockchain_2.jpg" fileSize="50846" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Dell desenvolve solução de segurança embarcada em PCs</title>
+ <link>http://computerworld.com.br/dell-desenvolve-solucao-de-seguranca-embarcada-em-pcs</link>
+ <description>O Dell Data Protection | Secure Lifecycle combina recursos como criptografia, monitoramento de acesso, prevenção de vazamento e gerenciamento de direito digital</description>
+ <pubDate>seg, 05 dez 2016 10:39:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Criptografia">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/laptop_0.jpg" fileSize="44570" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Seis passos para criar uma cultura de segurança</title>
+ <link>http://computerworld.com.br/seis-passos-para-criar-uma-cultura-de-seguranca</link>
+ <description>Ao contrário do que acreditam alguns líderes empresariais, a proteção da infraestrutura não começa com o investimento em um firewall</description>
+ <pubDate>sex, 25 nov 2016 11:31:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Criptografia">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/cyber-security2.jpg" fileSize="36367" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Ataques a bancos e ransomware corporativo devem aumentar na América Latina em 2017</title>
+ <link>http://computerworld.com.br/ataques-bancos-e-ransomware-corporativo-devem-aumentar-na-america-latina-em-2017</link>
+ <description>Criminosos virtuais esperarão pacientemente pelo momento certo para atacar e, assim, desviar grandes quantias dos bancos, prevê Kaspersky Lab América Latina</description>
+ <pubDate>seg, 21 nov 2016 12:30:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Criptografia">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/cibercrime.jpg" fileSize="47709" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>STF derruba bloqueio do WhatsApp no Brasil</title>
+ <link>http://computerworld.com.br/stf-derruba-bloqueio-do-whatsapp-no-brasil</link>
+ <description>Presidente do Supremo Tribunal Federal classificou a suspensão do serviço em todo o país como “desproporcional”</description>
+ <pubDate>ter, 19 jul 2016 18:18:44 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Criptografia">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/whatsapp.jpg" fileSize="39907" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>WhatsApp implementa recursos de criptografia</title>
+ <link>http://computerworld.com.br/whatsapp-implementa-recursos-de-criptografia</link>
+ <description>Atualização é válida para a última versão do aplicativo e cobre todos os sistemas operacionais que oferecem o mensageiro</description>
+ <pubDate>ter, 05 abr 2016 16:20:06 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Criptografia">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/whatsapp_0.jpg" fileSize="38977" type="image/jpeg" width="625" height="467" />
+</item>
+</channel>
+</rss>

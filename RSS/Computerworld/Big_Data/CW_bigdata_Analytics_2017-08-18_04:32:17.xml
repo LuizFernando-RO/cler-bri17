@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://computerworld.com.br/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"> <channel> <title>RSS Assunto</title>
+ <description>Portal sobre tecnologia da informação e telecomunicações</description>
+ <link>http://computerworld.com.br/</link>
+ <atom:link rel="self" href="http://computerworld.com.br/rss_assunto/Analytics" />
+ <language>pt-br</language>
+ <item> <title>Cientistas de dados brasileiros criam solução para o varejo global</title>
+ <link>http://computerworld.com.br/cientistas-de-dados-brasileiros-criam-solucao-para-o-varejo-global</link>
+ <description>Equipe da Targit no Brasil uniu forças com a Retail Pro International na criação de uma solução de BI e analytics para o segmento varejista</description>
+ <pubDate>seg, 07 ago 2017 14:50:50 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Analytics">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/varejo_1.jpg" fileSize="72860" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Dell EMC desenvolve plataforma analítica para banco digital do Bradesco</title>
+ <link>http://computerworld.com.br/dell-emc-desenvolve-plataforma-analitica-para-banco-digital-do-bradesco</link>
+ <description>Empresa foi responsável pela arquitetura tecnológica do Next, banco digital do banco, estruturado com soluções convergentes VxBlock</description>
+ <pubDate>ter, 01 ago 2017 13:07:57 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Analytics">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/banco_1.jpg" fileSize="60743" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Amadeus desenvolve módulo de big data para agências de viagens</title>
+ <link>http://computerworld.com.br/amadeus-desenvolve-modulo-de-big-data-para-agencias-de-viagens</link>
+ <description>Empresa anuncia o Productivity Tracker, a mais recente solução do Amadeus Agency Insight Suite para análise de dados originados em tempo real</description>
+ <pubDate>seg, 31 jul 2017 17:07:02 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Analytics">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/big_data_6.jpg" fileSize="39259" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Votorantim Cimentos procura empresas de base tecnológica com foco na Indústria 4.0</title>
+ <link>http://computerworld.com.br/votorantim-cimentos-procura-empresas-de-base-tecnologica-com-foco-na-industria-40</link>
+ <description>Desafio The Digital Cement Open Innovation está com inscrições abertas até 24 de agosto e procura soluções inovadoras para a área da construção</description>
+ <pubDate>qui, 27 jul 2017 18:29:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Analytics">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/industria_4.0.jpg" fileSize="53360" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Teradata adquire desenvolvedora de plataforma de provisionamento de software</title>
+ <link>http://computerworld.com.br/teradata-adquire-desenvolvedora-de-plataforma-de-provisionamento-de-software</link>
+ <description>Em comunicado, empresa diz que a compra da StackIQ reforça sua capacidade de construção e entrega de soluções em nuvem híbrida e ambientes on premises</description>
+ <pubDate>ter, 25 jul 2017 18:49:39 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Analytics">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/gerenciamento_rede_3.jpg" fileSize="34294" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Corra que a transformação digital já chegou</title>
+ <link>http://computerworld.com.br/corra-que-transformacao-digital-ja-chegou</link>
+ <description>Os próximos três anos serão mais críticos do que as últimas cinco décadas para as empresas devido à transformação digital dos negócios</description>
+ <pubDate>sex, 21 jul 2017 17:33:19 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Analytics">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/corrida.jpg" fileSize="48600" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Como alcançar o próximo nível com uso de tecnologias</title>
+ <link>http://computerworld.com.br/como-alcancar-o-proximo-nivel-com-uso-de-tecnologias</link>
+ <description>A transformação digital é o único caminho a ser seguido pelas organizações que desejam atingir o próximo nível em seus negócios</description>
+ <pubDate>ter, 18 jul 2017 16:11:11 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Analytics">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/digitalizacao_1.jpg" fileSize="55996" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Atento cria unidade global de serviços digitais com sede no Brasil</title>
+ <link>http://computerworld.com.br/atento-cria-unidade-global-de-servicos-digitais-com-sede-no-brasil</link>
+ <description>Meta é que, em 2020, 30% do faturamento da companhia sejam provenientes de serviços digitais</description>
+ <pubDate>qui, 29 jun 2017 19:55:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Analytics">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/call-center.jpg" fileSize="81492" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Com big data, áreas de negócio ganham autonomia e descolam da TI</title>
+ <link>http://computerworld.com.br/com-big-data-areas-de-negocio-ganham-autonomia-e-descolam-da-ti</link>
+ <description>Dados são cada vez mais fundamentais nas empresas e a necessidade de tê-los, e entendê-los, exige outra relação com a TI</description>
+ <pubDate>qui, 29 jun 2017 16:26:36 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Analytics">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/graficos_business.jpg" fileSize="63881" type="image/jpeg" width="625" height="468" />
+</item>
+ <item> <title>Dados são a chave para a transformação do negócio digital, alerta analista do Gartner</title>
+ <link>http://computerworld.com.br/dados-sao-chave-para-transformacao-do-negocio-digital-alerta-analista-do-gartner</link>
+ <description>Analista da consultoria, Donald Feinberg, diz que os líderes de negócios devem se concentrar na construção de uma organização centrada em dados e desenhar os modelos de negócios transformacionais</description>
+ <pubDate>ter, 20 jun 2017 20:38:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Analytics">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/dados4.jpg" fileSize="315404" type="image/jpeg" width="1623" height="1281" />
+</item>
+</channel>
+</rss>

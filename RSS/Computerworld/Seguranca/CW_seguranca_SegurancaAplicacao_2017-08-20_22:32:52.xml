@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://computerworld.com.br/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"> <channel> <title>RSS Assunto</title>
+ <description>Portal sobre tecnologia da informação e telecomunicações</description>
+ <link>http://computerworld.com.br/</link>
+ <atom:link rel="self" href="http://computerworld.com.br/rss_assunto/Seguran%C3%A7a%20de%20Aplica%C3%A7%C3%A3o" />
+ <language>pt-br</language>
+ <item> <title>Esteja pronto para responder a incidentes, em vez de só preveni-los</title>
+ <link>http://computerworld.com.br/esteja-pronto-para-responder-incidentes-em-vez-de-so-preveni-los</link>
+ <description>Uma vez que há o plano de resposta, a companhia precisa ter certeza de que possui as tecnologias de segurança e conhecimentos adequados para apoiá-lo</description>
+ <pubDate>seg, 14 ago 2017 13:23:16 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Seguran%C3%A7a%20de%20Aplica%C3%A7%C3%A3o">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/ciberseguranca_3.jpg" fileSize="230560" type="image/jpeg" width="960" height="640" />
+</item>
+ <item> <title>Após mudanças no Windows 10, Kaspersky retira ação contra Microsoft</title>
+ <link>http://computerworld.com.br/apos-mudancas-no-windows-10-kaspersky-retira-acao-contra-microsoft</link>
+ <description>Empresa de segurança acusava a gigante do software de usar seu domínio para promover o Windows Defender em detrimento de outros apps antivírus na plataforma</description>
+ <pubDate>qui, 10 ago 2017 14:07:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Seguran%C3%A7a%20de%20Aplica%C3%A7%C3%A3o">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/windows10upgrade_0.jpg" fileSize="19880" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Symantec negocia venda divisão de certificados digitais por US$ 1 bilhão</title>
+ <link>http://computerworld.com.br/symantec-negocia-venda-divisao-de-certificados-digitais-por-us-1-bilhao</link>
+ <description>Compradora seria o fundo de private equity Thoma Bravo, que já possui uma plataforma de certificados digitais, a DigiCert, segundo a agência de notícias Reuters</description>
+ <pubDate>ter, 08 ago 2017 13:19:05 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Seguran%C3%A7a%20de%20Aplica%C3%A7%C3%A3o">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/symantec_1.jpg" fileSize="100721" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Empresas no Brasil ainda negligenciam norma de segurança para pagamentos</title>
+ <link>http://computerworld.com.br/empresas-no-brasil-ainda-negligenciam-norma-de-seguranca-para-pagamentos</link>
+ <description>Muitas organizações brasileiras ainda não aderiram completamente ao padrão de segurança de dados da indústria de cartões de pagamento (PCI DSS) e colocam seus negócios e de seus clientes em risco</description>
+ <pubDate>ter, 08 ago 2017 12:04:21 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Seguran%C3%A7a%20de%20Aplica%C3%A7%C3%A3o">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/credit-card.jpg" fileSize="40103" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Número de PCs ainda vulneráveis ao ransomware WannaCry no Brasil supera 8 milhões</title>
+ <link>http://computerworld.com.br/numero-de-pcs-ainda-vulneraveis-ao-ransomware-wannacry-no-brasil-supera-8-milhoes</link>
+ <description>Quantidade de máquinas vulneráveis no país chama atenção em razão do estrago causado pelo ransomware por todo o mundo no último mês de maio, de acordo com levantamento da Avast</description>
+ <pubDate>qui, 03 ago 2017 14:36:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Seguran%C3%A7a%20de%20Aplica%C3%A7%C3%A3o">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/ransomware_7.jpg" fileSize="60824" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Cinco tendências em cibersegurança para 2017 e 2018, segundo o Gartner</title>
+ <link>http://computerworld.com.br/cinco-tendencias-em-ciberseguranca-para-2017-e-2018-segundo-o-gartner</link>
+ <description>Para a consultoria, as habilidades desta área continuarão mudando nos próximos anos e a proteção da nuvem será prioridade para as empresas</description>
+ <pubDate>seg, 31 jul 2017 14:18:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Seguran%C3%A7a%20de%20Aplica%C3%A7%C3%A3o">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/cyber-security4_2.jpg" fileSize="16656" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Google lança atualização para identificar sites inseguros</title>
+ <link>http://computerworld.com.br/google-lanca-atualizacao-para-identificar-sites-inseguros</link>
+ <description>Empresa lançará uma nova atualização em seu browser que permitirá aos usuários identificarem sites que não utilizam o protocolo de criptografia de informações: o HTTPS</description>
+ <pubDate>qui, 20 jul 2017 19:33:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Seguran%C3%A7a%20de%20Aplica%C3%A7%C3%A3o">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/google-4_0.jpg" fileSize="43575" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Malware lucra às custas de publicidade agressiva de pequenas empresas</title>
+ <link>http://computerworld.com.br/malware-lucra-custas-de-publicidade-agressiva-de-pequenas-empresas</link>
+ <description>Os criminosos infectam os computadores das vítimas com o cavalo de Troia do tipo Clicker Magala, que produz visualizações de anúncios falsos, e ganham até US$ 350 de cada máquina</description>
+ <pubDate>qui, 20 jul 2017 15:31:07 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Seguran%C3%A7a%20de%20Aplica%C3%A7%C3%A3o">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/malware_4.jpg" fileSize="73962" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>DevOps e ferramentas de segurança podem reduzir vulnerabilidades em aplicações</title>
+ <link>http://computerworld.com.br/devops-e-ferramentas-de-seguranca-podem-reduzir-vulnerabilidades-em-aplicacoes</link>
+ <description>Estudo da ESG Research revela que a adoção de metodologia como a Agile e DevOps podem aproximar as equipes de segurança e desenvolvimento e tornar aplicativos menos vulneráveis</description>
+ <pubDate>ter, 18 jul 2017 21:20:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Seguran%C3%A7a%20de%20Aplica%C3%A7%C3%A3o">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/desenvolvimento_1.jpg" fileSize="61459" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Qual o perfil de vulnerabilidade da sua empresa?</title>
+ <link>http://computerworld.com.br/qual-o-perfil-de-vulnerabilidade-da-sua-empresa</link>
+ <description>É preciso que os profissionais de segurança se atentem à cibersegurança e as equipes de TI estejam atualizadas sobre as potenciais vulnerabilidades</description>
+ <pubDate>sex, 14 jul 2017 14:05:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Seguran%C3%A7a%20de%20Aplica%C3%A7%C3%A3o">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/seguranca_12.jpg" fileSize="90237" type="image/jpeg" width="625" height="469" />
+</item>
+</channel>
+</rss>

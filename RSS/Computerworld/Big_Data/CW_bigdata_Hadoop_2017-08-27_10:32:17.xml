@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://computerworld.com.br/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"> <channel> <title>RSS Assunto</title>
+ <description>Portal sobre tecnologia da informação e telecomunicações</description>
+ <link>http://computerworld.com.br/</link>
+ <atom:link rel="self" href="http://computerworld.com.br/rss_assunto/Hadoop" />
+ <language>pt-br</language>
+ <item> <title>Cloudera registra prospecto preliminar para IPO nos EUA</title>
+ <link>http://computerworld.com.br/cloudera-registra-prospecto-preliminar-para-ipo-nos-eua</link>
+ <description>Empresa tem como sua principal concorrente no mercado a Hortonworks, outra especialista em software Hadoop, que abriu capital em 2014, mas não teve um bom desempenho na bolsa</description>
+ <pubDate>sex, 31 mar 2017 20:54:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Hadoop">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/cloudera.jpg" fileSize="74378" type="image/jpeg" width="625" height="466" />
+</item>
+ <item> <title>Open source é o &amp;quot;novo normal&amp;quot; para o Big Data</title>
+ <link>http://computerworld.com.br/veja-por-que-o-open-source-e-o-novo-normal-para-o-big-data</link>
+ <description>A próxima geração de plataformas de dados será inteiramente de código aberto, acredita o CEO da Talend</description>
+ <pubDate>sex, 18 mar 2016 16:00:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Hadoop">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/open_change_mudanca_1.jpg" fileSize="89378" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Quais são as cinco empresas que dominam o mercado de Hadoop?</title>
+ <link>http://computerworld.com.br/quais-sao-cinco-empresas-que-dominam-o-mercado-de-hadoop</link>
+ <description>Cloudera, Hortonworks, MapR, IBM e Pivotal são as que têm maior presença no mercado, indica relatório da Forrester</description>
+ <pubDate>sex, 22 jan 2016 12:20:30 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Hadoop">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/hadoop_0.jpg" fileSize="41533" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Oracle disponibiliza sistemas com Sparc M7 no Brasil</title>
+ <link>http://computerworld.com.br/oracle-disponibiliza-sistemas-com-sparc-m7-no-brasil</link>
+ <description>M7 é o primeiro processador Sparc projetado a partir do zero pela companhia. Os sistemas vão de 32 a 512 núcleos</description>
+ <pubDate>qua, 11 nov 2015 11:01:00 -0200</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Hadoop">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/oracle_aviao_625.jpg" fileSize="59402" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Google promete Hadoop e Spark em 90 segundos por US$ 0,01 </title>
+ <link>http://computerworld.com.br/google-promete-hadoop-e-spark-em-90-segundos-por-us-001</link>
+ <description>Cloud Dataproc usa um modelo de cobrança minuto a minuto, com um pacote de faturamento/contratação mínimo de 10 minutos</description>
+ <pubDate>qua, 23 set 2015 15:45:05 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Hadoop">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/aplicacao_nuvem_cloud.png" fileSize="148118" type="image/png" width="625" height="469" />
+</item>
+ <item> <title>Gartner vê Hadoop em apuros. Mas será que o cenário é esse mesmo?</title>
+ <link>http://computerworld.com.br/gartner-ve-hadoop-em-apuros-mas-sera-que-o-cenario-e-esse-mesmo</link>
+ <description>Maioria das empresas só tem muitas novas fontes de dados não estruturados e gostaria de uma visão agregada ou melhor visualização disso</description>
+ <pubDate>seg, 21 set 2015 15:57:32 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Hadoop">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/olho_big_data_625.jpg" fileSize="98437" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Provedores de Hadoop vão se consolidar? Criador do modelo acredita que sim</title>
+ <link>http://computerworld.com.br/provedores-de-hadoop-vao-se-consolidar-criador-do-modelo-acredita-que-sim</link>
+ <description>“Ainda há muito a evoluir antes que isso ocorra”, pondera Doug Cutting, que trabalhou no time do Yahoo que ajudou a criar o conceito</description>
+ <pubDate>sex, 28 ago 2015 08:35:00 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Hadoop">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/parceria_0.jpg" fileSize="22857" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Hortonworks compra Onyara para impulsionar Hadoop em projetos de IoT</title>
+ <link>http://computerworld.com.br/hortonworks-compra-onyara-para-impulsionar-hadoop-em-projetos-de-iot</link>
+ <description>Empresa foi fundada em dezembro do ano passado por engenheiros que atuaram como contribuidores de um projeto da NSA</description>
+ <pubDate>ter, 25 ago 2015 12:26:47 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Hadoop">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/linhas_de_transmissao.jpg" fileSize="76319" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>Salesforce lança ferramenta para análise de big data</title>
+ <link>http://computerworld.com.br/salesforce-lanca-ferramenta-para-analise-de-big-data</link>
+ <description>Fabricante forjou Wave for Big Data com novos vínculos Google, Cloudera, Hortonworks e New Relic</description>
+ <pubDate>qui, 28 mai 2015 11:30:18 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Hadoop">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/salesforce_wave_for_big_data.jpg" fileSize="39731" type="image/jpeg" width="625" height="469" />
+</item>
+ <item> <title>SAS facilita exploração de recursos em Hadoop</title>
+ <link>http://computerworld.com.br/sas-facilita-exploracao-de-recursos-em-hadoop</link>
+ <description>Data Loader permite que profissionais realizem tarefas específicas sem a necessidade de treinamentos ou habilidades mais aprimoradas</description>
+ <pubDate>sex, 22 mai 2015 10:23:04 -0300</pubDate>
+ <source url="http://computerworld.com.br/rss_assunto/Hadoop">RSS Assunto</source>
+ <media:content url="http://computerworld.com.br/sites/beta.computerworld.com.br/files/news_articles/elefante_hadoop.jpg" fileSize="31121" type="image/jpeg" width="625" height="469" />
+</item>
+</channel>
+</rss>
