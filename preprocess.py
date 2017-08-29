@@ -1,4 +1,10 @@
+import nltk
+from nltk.tokenize import word_tokenize
+import util as Util
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.decomposition import TruncatedSVD
 
+DATA_FILE='output/preprocessed.csv'
 datasets=['dataset/tecmundo.csv']
 
 # carrega os dados de CSVs
@@ -24,26 +30,54 @@ def analise_dados(data):
 			categorias[item[1]] += 1
 
 	print("* Taxa de ocorrência de categorias:")
-	for c in categorias:
-		print("\t"+c+": " + str(categorias[c]) + " (" + str(100*categorias[c]/len(data)) +"%)")
+	for i, c in enumerate(categorias):
+		print("\t"+str(i)+". "+c+": " + str(categorias[c]) + " (" + str(100*categorias[c]/len(data)) +"%)")
 
 	return list(categorias.keys())
 
 # Prepara dados como X,y. Usa índice de lista_categorias para gerar y.
-def preparar_dados(data, categorias):
+def preparar_dados(data):
 	X = []
 	y = []
-	for item in data:
+	for key in data:
+		item = data[key]
 		X.append(item[0])
-		y.append(categorias.index(item[1]))
-	print(X[:10])
-	print(y[:10])
+		y.append(item[1])
+	return (X, y)
+
+def preprocessamento(data):
+	print("Iniciando pré-processamento")
+	X = []
+	y = []
+
+	for key in data:
+		texto = data[key][0]
+		categoria = data[key][1]
+		tokens = [x.lower() for x in word_tokenize(texto)]
+		normalizados = []
+
+		for t in tokens:
+			if(t not in Util.stopwords):
+				tmp = Util.normalize_token(t)
+				if(len(tmp) > 0):
+					normalizados.append(tmp)
+		X.append(' '.join(normalizados))
+		y.append(categoria)
+
+	return (X, y)
+
+def salvar_dados(X, y):
+	with open(DATA_FILE, 'w') as f:
+		for index, texto in enumerate(X):
+			f.write(texto + ";" + y[index] + "\n")
 
 # Executa todo pré-processamento
 def execute():
 	print("\n*** Pré-processamento ***\n")
 	data = carregar_dataset(datasets)
-	lista_categorias = analise_dados(data)
-	X, y = preparar_dados(data, lista_categorias)
+	analise_dados(data)
+	X, y = preprocessamento(data)
+	salvar_dados(X, y)
+
 
 
