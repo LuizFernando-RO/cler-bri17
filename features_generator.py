@@ -24,7 +24,7 @@ def carregar_dados():
 
 def gerar_features(textos, labels):
 	# vectorizer = CountVectorizer(ngram_range=(1,3),binary=True)
-	vectorizer = TfidfVectorizer(ngram_range=(1, 2))
+	vectorizer = TfidfVectorizer(ngram_range=(1, 3))
 
 	categorias = []
 
@@ -34,7 +34,7 @@ def gerar_features(textos, labels):
 	print("Shape de X antes do SVD: ", X.shape)
 
 	X = X.tocsc()
-	X, Sigma, VT = sparsesvd(X, 100)
+	X, Sigma, VT = sparsesvd(X, 150)
 	X = X.transpose()
 
 	print("Shape de X depois do SVD: ", X.shape)
