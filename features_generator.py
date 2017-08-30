@@ -5,6 +5,10 @@ import matplotlib.pyplot as plt
 from sklearn.preprocessing import MultiLabelBinarizer
 from sklearn import preprocessing
 
+from sparsesvd import sparsesvd
+from sklearn.feature_extraction.text import TfidfVectorizer
+
+
 PP_FILE="output/preprocessed.csv"
 FEATURES_FILE="output/features.csv"
 
@@ -19,7 +23,8 @@ def carregar_dados():
 	return (X, y)
 
 def gerar_features(textos, labels):
-	vectorizer = CountVectorizer(strip_accents='ascii',ngram_range=(1,3),binary=True)
+	# vectorizer = CountVectorizer(ngram_range=(1,3),binary=True)
+	vectorizer = TfidfVectorizer(ngram_range=(1, 2))
 
 	categorias = []
 
@@ -27,26 +32,15 @@ def gerar_features(textos, labels):
 	y = []
 
 	print("Shape de X antes do SVD: ", X.shape)
-	SVD = TruncatedSVD(n_components=100)
-	X = SVD.fit_transform(X)
-	Sigma = SVD.explained_variance_ratio_
-	VT = SVD.components_
-	# print(Sigma)
+
+	X = X.tocsc()
+	X, Sigma, VT = sparsesvd(X, 100)
+	X = X.transpose()
+
 	print("Shape de X depois do SVD: ", X.shape)
 
-	plt.scatter(range(len(Sigma)), Sigma)
+	# plt.scatter(range(len(Sigma)), Sigma)
 	# plt.show()
-
-
-	# le = preprocessing.LabelEncoder()
-	# encoded_labels = le.fit_transform(labels).tolist()
-	# print(encoded_labels)
-	# print(labels)
-	# mlb = MultiLabelBinarizer()
-	# y = mlb.fit_transform(encoded_labels)
-	# print(mlb.classes_)
-	# print(y[:10])
-	# print(labels[:10])
 
 	return (X.tolist(), labels)
 

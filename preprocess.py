@@ -15,7 +15,8 @@ def carregar_dataset(files):
 		with open(csv_file, "r") as f:
 			for row in f:
 				tmp = row.split(";;;")
-				data[csv_file + tmp[0]] = [str(tmp[1] + ". " + tmp[2]), tmp[3].strip()]
+				data[csv_file + tmp[0]] = [str(tmp[1] + ". " + tmp[2]), Util.CATEGORIAS_DICT[tmp[3].strip()]]
+				# data[csv_file + tmp[0]] = [str(tmp[1] + ". " + tmp[2]), tmp[3].strip()]
 	return data
 
 # Printa algumas informações sobre os dados
@@ -31,7 +32,7 @@ def analise_dados(data):
 
 	print("* Taxa de ocorrência de categorias:")
 	for i, c in enumerate(categorias):
-		print("\t"+str(i)+". "+c+": " + str(categorias[c]) + " (" + str(100*categorias[c]/len(data)) +"%)")
+		print("\t"+str(i)+". "+c+": " + str(categorias[c]) + " (" + str(round(100*categorias[c]/len(data), 2)) +"%)")
 
 	return list(categorias.keys())
 
