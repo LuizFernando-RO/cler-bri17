@@ -37,7 +37,7 @@ CATEGORIAS_DICT={
 stemmer = nltk.stem.RSLPStemmer()
 stopwords = [x.lower() for x in nltk.corpus.stopwords.words('portuguese')]
 
-def normalize_token(token, stemming=True):
+def normalize_token(token, stemming=False):
 	token = normalize('NFKD', token).encode('ASCII','ignore').decode('ASCII')
 	token = re.sub('[^A-Za-z]+', '', token)
 	if(len(token) == 0): return ''

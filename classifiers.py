@@ -5,10 +5,14 @@ import random
 from sklearn.preprocessing import MinMaxScaler
 from sklearn import tree
 import util as Util
-import xgboost as xgb
+#import xgboost as xgb
+from sklearn.ensemble import RandomForestClassifier
+from sklearn import svm
 import numpy as np
 from sklearn.model_selection import cross_val_score
 from sklearn.preprocessing import normalize
+from sklearn import linear_model
+from sklearn.neighbors import KNeighborsClassifier
 
 FEATURES_FILE='output/features.csv'
 
@@ -75,6 +79,57 @@ def xgboost(X_train, X_val, y_train, y_val):
 	# score = clf.score(X_val, y_val)
 	# print("xgboost:", score)
 
+def knn(X_train, X_val, y_train, y_val):
+	print("*** KNN ***")
+
+	scaler = MinMaxScaler()
+	scaler.fit(np.append(np.array(X_train), np.array(X_val),axis=0))
+	X_train = scaler.transform(X_train)
+	X_val = scaler.transform(X_val)
+
+	clf = KNeighborsClassifier(n_jobs=-1, n_neighbors = 10)
+	
+	score_cv = cross_val_score(clf,X_train,y_train,scoring='accuracy',cv=5,n_jobs=1)
+	print("KNN score cv:", np.mean(score_cv), max(score_cv), min(score_cv), np.std(score_cv))
+
+	# clf.fit(X_train, y_train)
+	# score = clf.score(X_val, y_val)
+	# print("naive bayes:", score
+
+def random_forest(X_train, X_val, y_train, y_val):
+	print("*** Random Forest ***")
+
+	scaler = MinMaxScaler()
+	scaler.fit(np.append(np.array(X_train), np.array(X_val),axis=0))
+	X_train = scaler.transform(X_train)
+	X_val = scaler.transform(X_val)
+
+	clf = RandomForestClassifier(n_jobs=-1, n_estimators=1000)
+	
+	score_cv = cross_val_score(clf,X_train,y_train,scoring='accuracy',cv=5,n_jobs=1)
+	print("random forest score cv:", np.mean(score_cv), max(score_cv), min(score_cv), np.std(score_cv))
+
+	# clf.fit(X_train, y_train)
+	# score = clf.score(X_val, y_val)
+	# print("naive bayes:", score)
+
+def SVM(X_train, X_val, y_train, y_val):
+	print("*** SVM ***")
+
+	scaler = MinMaxScaler()
+	scaler.fit(np.append(np.array(X_train), np.array(X_val),axis=0))
+	X_train = scaler.transform(X_train)
+	X_val = scaler.transform(X_val)
+
+	clf = svm.SVC()
+	
+	score_cv = cross_val_score(clf,X_train,y_train,scoring='accuracy',cv=5,n_jobs=1)
+	print("svm score cv:", np.mean(score_cv), max(score_cv), min(score_cv), np.std(score_cv))
+
+	# clf.fit(X_train, y_train)
+	# score = clf.score(X_val, y_val)
+	# print("naive bayes:", score)
+
 def execute():
 	X, y = carregar_features()
 
@@ -98,4 +153,7 @@ def execute():
 	naive_bayes(X_train, X_val, y_train, y_val)
 	neural_network(X_train, X_val, y_train, y_val)
 	decision_tree(X_train, X_val, y_train, y_val)
-	xgboost(X_train, X_val, y_train, y_val)
+	#xgboost(X_train, X_val, y_train, y_val)
+	knn(X_train, X_val, y_train, y_val)
+	random_forest(X_train, X_val, y_train, y_val)
+	SVM(X_train, X_val, y_train, y_val)

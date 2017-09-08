@@ -4,10 +4,14 @@ from sklearn.decomposition import TruncatedSVD
 import matplotlib.pyplot as plt
 from sklearn.preprocessing import MultiLabelBinarizer
 from sklearn import preprocessing
-
+from gensim.models.word2vec import Word2Vec
 from sparsesvd import sparsesvd
 from sklearn.feature_extraction.text import TfidfVectorizer
+import logging
+import numpy as np
 
+
+logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 
 PP_FILE="output/preprocessed.csv"
 FEATURES_FILE="output/features.csv"
@@ -15,12 +19,26 @@ FEATURES_FILE="output/features.csv"
 def carregar_dados():
 	X = []
 	y = []
+
 	with open(PP_FILE, 'r') as f:
 		reader = csv.reader(f, delimiter=';')
 		for row in reader:
+
 			X.append(row[0])
 			y.append(row[1])
-	return (X, y)
+
+	texts = [document.split() for document in X]
+
+	return (texts, y)
+
+def train_w2v(texts, n_dim):
+    model = Word2Vec(texts, size=n_dim, workers=4, iter=1000, min_count=1)
+
+    return model
+
+def vetor_medio(texts, model):
+	return np.array([
+		np.mean([model[w] for w in words], axis=0) for words in texts])
 
 def gerar_features(textos, labels):
 	# vectorizer = CountVectorizer(ngram_range=(1,3),binary=True)
@@ -48,12 +66,15 @@ def salvar_features(features_x, features_y):
 	with open(FEATURES_FILE, 'w') as f:
 		writer = csv.writer(f, delimiter=';')
 		for index, item in enumerate(features_x):
-			row = item
+			row = item.tolist()
 			row.append(features_y[index])
 			writer.writerow(row)
 
 def execute():
 	print("\n*** Geração das features ***\n")
-	textos, labels = carregar_dados()
-	features_x, features_y = gerar_features(textos, labels)
-	salvar_features(features_x, features_y)
+	texts, categoria = carregar_dados()
+	#features_x, features_y = gerar_features(textos, labels)
+	n_dim = 300
+	model = train_w2v(texts, n_dim)
+	features_x = vetor_medio(texts, model)
+	salvar_features(features_x, categoria)
