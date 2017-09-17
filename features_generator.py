@@ -8,6 +8,8 @@ from sklearn import preprocessing
 from sparsesvd import sparsesvd
 from sklearn.feature_extraction.text import TfidfVectorizer
 
+import scipy
+
 
 PP_FILE="output/preprocessed.csv"
 FEATURES_FILE="output/features.csv"
@@ -33,14 +35,14 @@ def gerar_features(textos, labels):
 
 	print("Shape de X antes do SVD: ", X.shape)
 
-	X = X.tocsc()
-	X, Sigma, VT = sparsesvd(X, 150)
+	X = scipy.sparse.csc_matrix(X)
+	X, Sigma, VT = sparsesvd(X, 30)
 	X = X.transpose()
 
 	print("Shape de X depois do SVD: ", X.shape)
 
-	# plt.scatter(range(len(Sigma)), Sigma)
-	# plt.show()
+	plt.scatter(range(len(Sigma)), Sigma)
+	plt.show()
 
 	return (X.tolist(), labels)
 
