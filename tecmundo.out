@@ -1,0 +1,54 @@
+*** Pré-processamento ***
+
+Carregando arquivo dataset/tecmundo.csv
+50000 registros no dataset
+* Taxa de ocorrência de categorias:
+	0. Mercado: 12304 (24.61%)
+	1. Cultura Geek: 8082 (16.16%)
+	2. Dispositivos Móveis: 6792 (13.58%)
+	3. Produto: 6029 (12.06%)
+	4. Software: 5985 (11.97%)
+	5. Internet: 3510 (7.02%)
+	6. Redes Sociais: 1954 (3.91%)
+	7. Ciência: 1846 (3.69%)
+	8. Segurança: 1783 (3.57%)
+	9. Mobilidade Urbana/Smart Cities: 1680 (3.36%)
+	10. Story Stream: 12 (0.02%)
+	11. Evento: 9 (0.02%)
+	12. Galaxy: 6 (0.01%)
+	13. Empresa: 2 (0.0%)
+	14. Moto: 2 (0.0%)
+	15. PlayStation Meeting 2016: tudo sobre o grande evento da Sony: 1 (0.0%)
+	16. BGS 2016: tudo sobre a maior feira de video games da América Latina: 1 (0.0%)
+	17. ;Cultura Geek: 1 (0.0%)
+	18. Empresas e instituições: 1 (0.0%)
+*** Truncando classes com proporcao menor que 0.1 ***
+*** Limitando exemplos por classe em 5000 ***
+25000 registros no dataset
+* Taxa de ocorrência de categorias:
+	0. Software: 5000 (20.0%)
+	1. Produto: 5000 (20.0%)
+	2. Mercado: 5000 (20.0%)
+	3. Dispositivos Móveis: 5000 (20.0%)
+	4. Cultura Geek: 5000 (20.0%)
+Iniciando pré-processamento
+Salvando 25000 itens após pré-processamento
+
+*** Geração das features ***
+
+Shape de X antes do SVD:  (25000, 660594)
+Shape de X depois do SVD:  (25000, 30)
+Tamanho do dataset de treino: 20000
+Tamanho do dataset de validacao: 5000
+*** Naive Bayes ***
+naive bayes score cv: 0.500750330126 0.504049190162 0.495800839832 0.00356391694423
+	naive bayes: 0.4994
+*** Decision tree ***
+decision tree score cv: 0.455701896836 0.46518607443 0.44901019796 0.00689266266575
+	decision tree: 0.463
+*** Neural Network *** {'activation': 'relu', 'solver': 'adam', 'max_iter': 500, 'hidden_layer_sizes': [1000]}
+neural net score cv: 0.61920121978 0.625300120048 0.612027594481 0.00547151771451
+	neural network: 0.6236
+*** XGBoost *** {'learning_rate': 0.2, 'n_estimators': 100, 'nthread': 8, 'max_depth': 3, 'objective': 'multi:softmax'}
+xgboost score cv: 0.601700908318 0.606242496999 0.594781043791 0.00497214738351
+	xgboost: 0.6022

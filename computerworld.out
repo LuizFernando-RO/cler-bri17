@@ -1,0 +1,50 @@
+*** Pré-processamento ***
+
+Carregando arquivo dataset/computerworld.csv
+16653 registros no dataset
+* Taxa de ocorrência de categorias:
+	0. negocios: 4989 (29.96%)
+	1. aplicacoes: 2437 (14.63%)
+	2. infraestrutura: 2124 (12.75%)
+	3. carreira: 1507 (9.05%)
+	4. seguranca: 1506 (9.04%)
+	5. gestao: 1347 (8.09%)
+	6. tecnologia: 769 (4.62%)
+	7. tecnologias-emergentes: 568 (3.41%)
+	8. cloud-computing: 372 (2.23%)
+	9. internet: 342 (2.05%)
+	10. mobilidade: 232 (1.39%)
+	11. ti-na-pratica: 178 (1.07%)
+	12. big-data: 154 (0.92%)
+	13. telecom-0: 127 (0.76%)
+	14. ;seguranca: 1 (0.01%)
+*** Truncando classes com proporcao menor que 0.09 ***
+*** Limitando exemplos por classe em 1500 ***
+7500 registros no dataset
+* Taxa de ocorrência de categorias:
+	0. negocios: 1500 (20.0%)
+	1. carreira: 1500 (20.0%)
+	2. seguranca: 1500 (20.0%)
+	3. infraestrutura: 1500 (20.0%)
+	4. aplicacoes: 1500 (20.0%)
+Iniciando pré-processamento
+Salvando 7500 itens após pré-processamento
+
+*** Geração das features ***
+
+Shape de X antes do SVD:  (7500, 219737)
+Shape de X depois do SVD:  (7500, 30)
+Tamanho do dataset de treino: 6000
+Tamanho do dataset de validacao: 1500
+*** Naive Bayes ***
+naive bayes score cv: 0.673337361793 0.68284142071 0.658670664668 0.0105212796073
+	naive bayes: 0.680666666667
+*** Decision tree ***
+decision tree score cv: 0.539337339876 0.551275637819 0.527236381809 0.0098146591421
+	decision tree: 0.586
+*** Neural Network *** {'activation': 'relu', 'solver': 'adam', 'max_iter': 500, 'hidden_layer_sizes': [1000]}
+neural net score cv: 0.705835533292 0.718 0.693153423288 0.0101501743666
+	neural network: 0.737333333333
+*** XGBoost *** {'max_depth': 3, 'learning_rate': 0.2, 'objective': 'multi:softmax', 'nthread': 8, 'n_estimators': 100}
+xgboost score cv: 0.700335699292 0.7095 0.688655672164 0.0086936053243
+	xgboost: 0.734

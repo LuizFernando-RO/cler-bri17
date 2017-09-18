@@ -6,7 +6,7 @@ from sklearn.decomposition import TruncatedSVD
 import operator
 
 DATA_FILE='output/preprocessed.csv'
-datasets=['dataset/tecmundo.csv']
+datasets=['dataset/computerworld.csv']
 
 # carrega os dados de CSVs
 def carregar_dataset(files):
@@ -77,7 +77,7 @@ def salvar_dados(X, y):
 		for index, texto in enumerate(X):
 			f.write(texto + ";" + y[index] + "\n")
 
-def truncar_classes(data,analise,proporcao=0.1): # 0.1 para tecmundo e 0.09 para cw
+def truncar_classes(data,analise,proporcao=0.09): # 0.1 para tecmundo e 0.09 para cw
 	print("*** Truncando classes com proporcao menor que",proporcao,"***")
 	final = {}
 	total = len(data)
@@ -87,7 +87,7 @@ def truncar_classes(data,analise,proporcao=0.1): # 0.1 para tecmundo e 0.09 para
 			final[key] = data[key]
 	return final
 
-def limitar_classes(data,limite=5000): # 5000 para tecmundo e 1500 para cw
+def limitar_classes(data,limite=1500): # 5000 para tecmundo e 1500 para cw
 	print("*** Limitando exemplos por classe em",limite,"***")
 	final = {}
 	contador = {}
