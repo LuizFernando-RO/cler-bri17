@@ -14,6 +14,9 @@ import operator
 from sklearn.metrics import accuracy_score
 from sklearn.model_selection import train_test_split
 
+from sklearn.svm import SVC
+from sklearn.model_selection import GridSearchCV
+
 FEATURES_FILE='output/features.csv'
 
 def carregar_features():
@@ -89,6 +92,22 @@ def neural_network(X_train, X_val, y_train, y_val, **kwargs):
 
 	return clf
 
+def SVM(X_train, X_val, y_train, y_val, **kwargs):
+	print("*** SVM ***", kwargs)
+
+	clf = SVC(**kwargs)
+	
+	score_cv = cross_val_score(clf,X_train,y_train,scoring='accuracy',cv=3,n_jobs=1)
+	print("svm score cv:", np.mean(score_cv), max(score_cv), min(score_cv), np.std(score_cv))
+
+	clf.fit(X_train, y_train)
+	score = clf.score(X_val, y_val)
+	print("\tsvm:", score)
+
+	Util.plotConfMatrix(y_val, clf.predict(X_val), clf.classes_, "SVM")
+
+	return clf
+
 def execute():
 	X, y = carregar_features()
 
@@ -108,3 +127,4 @@ def execute():
 		max_depth=3, # profundidade max das arvores
 		n_estimators=100 # qtd de arvores
 		)
+	clf_svm = SVM(X_train, X_val, y_train, y_val,C=1500,kernel='rbf',gamma=5)
