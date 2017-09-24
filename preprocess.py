@@ -6,7 +6,7 @@ from sklearn.decomposition import TruncatedSVD
 import operator
 
 DATA_FILE='output/preprocessed.csv'
-datasets=['dataset/computerworld.csv']
+datasets=['dataset/tecmundo.csv']
 
 # carrega os dados de CSVs
 def carregar_dataset(files):
@@ -105,10 +105,18 @@ def limitar_classes(data,limite=1500): # 5000 para tecmundo e 1500 para cw
 # Executa todo pré-processamento
 def execute():
 	print("\n*** Pré-processamento ***\n")
+
+	limite  = 1500
+	proporcao = 0.09
+
+	if('tecmundo' in datasets[0]):
+		limite = 5000
+		proporcao = 0.1
+
 	data = carregar_dataset(datasets)
 	analise = analise_dados(data)
-	data = truncar_classes(data, analise)
-	data = limitar_classes(data)
+	data = truncar_classes(data, analise,proporcao)
+	data = limitar_classes(data,limite)
 	analise_dados(data)
 	X, y = preprocessamento(data)
 	salvar_dados(X, y)

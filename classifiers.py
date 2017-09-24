@@ -47,6 +47,8 @@ def naive_bayes(X_train, X_val, y_train, y_val):
 	score = clf.score(X_val, y_val)
 	print("\tnaive bayes:", score)
 
+	Util.plotConfMatrix(y_val, clf.predict(X_val), clf.classes_, "Naive Bayes")
+
 	return clf
 
 def decision_tree(X_train, X_val, y_train, y_val):
@@ -59,6 +61,8 @@ def decision_tree(X_train, X_val, y_train, y_val):
 	clf.fit(X_train, y_train)
 	score = clf.score(X_val, y_val)
 	print("\tdecision tree:", score)
+
+	Util.plotConfMatrix(y_val, clf.predict(X_val), clf.classes_, "Decision Tree")
 
 	return clf
 
@@ -111,7 +115,7 @@ def SVM(X_train, X_val, y_train, y_val, **kwargs):
 def execute():
 	X, y = carregar_features()
 
-	X_train, X_val, y_train, y_val = train_test_split(X, y, test_size=0.2, random_state=0)
+	X_train, X_val, y_train, y_val = train_test_split(X, y, test_size=0.1, random_state=0)
 	X_train = np.array(X_train)
 	X_val = np.array(X_val)
 
@@ -127,4 +131,4 @@ def execute():
 		max_depth=3, # profundidade max das arvores
 		n_estimators=100 # qtd de arvores
 		)
-	clf_svm = SVM(X_train, X_val, y_train, y_val,C=1500,kernel='rbf',gamma=5)
+	# clf_svm = SVM(X_train, X_val, y_train, y_val,C=1500,kernel='rbf',gamma=5)
