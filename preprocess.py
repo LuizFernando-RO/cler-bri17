@@ -3,9 +3,10 @@ from nltk.tokenize import word_tokenize
 import util as Util
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.decomposition import TruncatedSVD
+import operator
 
 DATA_FILE='output/preprocessed.csv'
-datasets=['dataset/tecmundo.csv']
+datasets=['dataset/computerworld.csv']
 
 # carrega os dados de CSVs
 def carregar_dataset(files):
@@ -15,8 +16,8 @@ def carregar_dataset(files):
 		with open(csv_file, "r") as f:
 			for row in f:
 				tmp = row.split(";;;")
-				data[csv_file + tmp[0]] = [str(tmp[1] + ". " + tmp[2]), Util.CATEGORIAS_DICT[tmp[3].strip()]]
-				# data[csv_file + tmp[0]] = [str(tmp[1] + ". " + tmp[2]), tmp[3].strip()]
+				# data[csv_file + tmp[0]] = [str(tmp[1] + ". " + tmp[2]), Util.CATEGORIAS_DICT[tmp[3].strip()]]
+				data[csv_file + tmp[0]] = [str(tmp[1] + ". " + tmp[2]), tmp[3].strip()]
 	return data
 
 # Printa algumas informações sobre os dados
@@ -30,11 +31,14 @@ def analise_dados(data):
 		else:
 			categorias[item[1]] += 1
 
-	print("* Taxa de ocorrência de categorias:")
-	for i, c in enumerate(categorias):
-		print("\t"+str(i)+". "+c+": " + str(categorias[c]) + " (" + str(round(100*categorias[c]/len(data), 2)) +"%)")
+	ordenado = sorted(categorias.items(), key=operator.itemgetter(1))
+	ordenado.reverse()
 
-	return list(categorias.keys())
+	print("* Taxa de ocorrência de categorias:")
+	for i, c in enumerate(ordenado):
+		print("\t"+str(i)+". "+c[0]+": " + str(c[1]) + " (" + str(round(100*c[1]/len(data), 2)) +"%)")
+
+	return categorias
 
 # Prepara dados como X,y. Usa índice de lista_categorias para gerar y.
 def preparar_dados(data):
@@ -68,14 +72,43 @@ def preprocessamento(data):
 	return (X, y)
 
 def salvar_dados(X, y):
+	print("Salvando", len(X), "itens após pré-processamento")
 	with open(DATA_FILE, 'w') as f:
 		for index, texto in enumerate(X):
 			f.write(texto + ";" + y[index] + "\n")
+
+def truncar_classes(data,analise,proporcao=0.09): # 0.1 para tecmundo e 0.09 para cw
+	print("*** Truncando classes com proporcao menor que",proporcao,"***")
+	final = {}
+	total = len(data)
+
+	for key in data:
+		if(analise[data[key][1]]/total >= proporcao):
+			final[key] = data[key]
+	return final
+
+def limitar_classes(data,limite=1500): # 5000 para tecmundo e 1500 para cw
+	print("*** Limitando exemplos por classe em",limite,"***")
+	final = {}
+	contador = {}
+	for key in data:
+		if(data[key][1] not in contador):
+			contador[data[key][1]] = 0
+
+		if(contador[data[key][1]] < limite):
+			contador[data[key][1]] += 1
+			final[key] = data[key]
+
+	return final
+
 
 # Executa todo pré-processamento
 def execute():
 	print("\n*** Pré-processamento ***\n")
 	data = carregar_dataset(datasets)
+	analise = analise_dados(data)
+	data = truncar_classes(data, analise)
+	data = limitar_classes(data)
 	analise_dados(data)
 	X, y = preprocessamento(data)
 	salvar_dados(X, y)

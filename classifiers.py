@@ -5,14 +5,17 @@ import random
 from sklearn.preprocessing import MinMaxScaler
 from sklearn import tree
 import util as Util
-#import xgboost as xgb
-from sklearn.ensemble import RandomForestClassifier
-from sklearn import svm
+import xgboost as xgb
 import numpy as np
 from sklearn.model_selection import cross_val_score
 from sklearn.preprocessing import normalize
-from sklearn import linear_model
-from sklearn.neighbors import KNeighborsClassifier
+from sklearn.ensemble import VotingClassifier
+import operator
+from sklearn.metrics import accuracy_score
+from sklearn.model_selection import train_test_split
+
+from sklearn.svm import SVC
+from sklearn.model_selection import GridSearchCV
 
 FEATURES_FILE='output/features.csv'
 
@@ -37,123 +40,91 @@ def naive_bayes(X_train, X_val, y_train, y_val):
 
 	clf = MultinomialNB()
 	
-	score_cv = cross_val_score(clf,X_train,y_train,scoring='accuracy',cv=5,n_jobs=1)
+	score_cv = cross_val_score(clf,X_train,y_train,scoring='accuracy',cv=3,n_jobs=1)
 	print("naive bayes score cv:", np.mean(score_cv), max(score_cv), min(score_cv), np.std(score_cv))
 
-	# clf.fit(X_train, y_train)
-	# score = clf.score(X_val, y_val)
-	# print("naive bayes:", score)
+	clf.fit(X_train, y_train)
+	score = clf.score(X_val, y_val)
+	print("\tnaive bayes:", score)
 
-def neural_network(X_train, X_val, y_train, y_val):
-	print("*** Neural Network ***")
-	clf = MLPClassifier(hidden_layer_sizes=[100]*2,activation='relu',solver='adam')
-	
-	score_cv = cross_val_score(clf,X_train,y_train,scoring='accuracy',cv=5,n_jobs=1)
-	print("neural net score cv:", np.mean(score_cv), max(score_cv), min(score_cv), np.std(score_cv))
-
-	# clf.fit(X_train, y_train)
-	# score = clf.score(X_val, y_val)
-	# print("neural network:", score)
-
-	# Util.plotConfMatrix(y_val, clf.predict(X_val), clf.classes_, "Neural Network")
+	return clf
 
 def decision_tree(X_train, X_val, y_train, y_val):
 	print("*** Decision tree ***")
 	clf = tree.DecisionTreeClassifier()
 
-	score_cv = cross_val_score(clf,X_train,y_train,scoring='accuracy',cv=5,n_jobs=1)
+	score_cv = cross_val_score(clf,X_train,y_train,scoring='accuracy',cv=3,n_jobs=1)
 	print("decision tree score cv:", np.mean(score_cv), max(score_cv), min(score_cv), np.std(score_cv))
 
-	# clf.fit(X_train, y_train)
-	# score = clf.score(X_val, y_val)
-	# print("decision tree:", score)
+	clf.fit(X_train, y_train)
+	score = clf.score(X_val, y_val)
+	print("\tdecision tree:", score)
 
-def xgboost(X_train, X_val, y_train, y_val):
-	print("*** XGBoost ***")
-	clf = xgb.XGBClassifier(learning_rate=0.1,objective='multi:softmax',max_depth=12,n_estimators=500,nthread=8,silent=True,seed=0)
+	return clf
 
-	score_cv = cross_val_score(clf,X_train,y_train,scoring='accuracy',cv=5,n_jobs=1)
+def xgboost(X_train, X_val, y_train, y_val, **kwargs):
+	print("*** XGBoost ***", kwargs)
+	clf = xgb.XGBClassifier(**kwargs)
+
+	score_cv = cross_val_score(clf,X_train,y_train,scoring='accuracy',cv=3,n_jobs=1)
 	print("xgboost score cv:", np.mean(score_cv), max(score_cv), min(score_cv), np.std(score_cv))
 
-	# clf.fit(X_train, y_train)
-	# score = clf.score(X_val, y_val)
-	# print("xgboost:", score)
+	clf.fit(X_train, y_train)
+	score = clf.score(X_val, y_val)
+	print("\txgboost:", score)
 
-def knn(X_train, X_val, y_train, y_val):
-	print("*** KNN ***")
+	Util.plotConfMatrix(y_val, clf.predict(X_val), clf.classes_, "XGBoost")
 
-	scaler = MinMaxScaler()
-	scaler.fit(np.append(np.array(X_train), np.array(X_val),axis=0))
-	X_train = scaler.transform(X_train)
-	X_val = scaler.transform(X_val)
+	return clf
 
-	clf = KNeighborsClassifier(n_jobs=-1, n_neighbors = 10)
+def neural_network(X_train, X_val, y_train, y_val, **kwargs):
+	print("*** Neural Network ***", kwargs)
+	clf = MLPClassifier(**kwargs)
 	
-	score_cv = cross_val_score(clf,X_train,y_train,scoring='accuracy',cv=5,n_jobs=1)
-	print("KNN score cv:", np.mean(score_cv), max(score_cv), min(score_cv), np.std(score_cv))
+	score_cv = cross_val_score(clf,X_train,y_train,scoring='accuracy',cv=3,n_jobs=1)
+	print("neural net score cv:", np.mean(score_cv), max(score_cv), min(score_cv), np.std(score_cv))
 
-	# clf.fit(X_train, y_train)
-	# score = clf.score(X_val, y_val)
-	# print("naive bayes:", score
+	clf.fit(X_train, y_train)
+	score = clf.score(X_val, y_val)
+	print("\tneural network:", score)
 
-def random_forest(X_train, X_val, y_train, y_val):
-	print("*** Random Forest ***")
+	Util.plotConfMatrix(y_val, clf.predict(X_val), clf.classes_, "Neural Network")
 
-	scaler = MinMaxScaler()
-	scaler.fit(np.append(np.array(X_train), np.array(X_val),axis=0))
-	X_train = scaler.transform(X_train)
-	X_val = scaler.transform(X_val)
+	return clf
 
-	clf = RandomForestClassifier(n_jobs=-1, n_estimators=1000)
+def SVM(X_train, X_val, y_train, y_val, **kwargs):
+	print("*** SVM ***", kwargs)
+
+	clf = SVC(**kwargs)
 	
-	score_cv = cross_val_score(clf,X_train,y_train,scoring='accuracy',cv=5,n_jobs=1)
-	print("random forest score cv:", np.mean(score_cv), max(score_cv), min(score_cv), np.std(score_cv))
-
-	# clf.fit(X_train, y_train)
-	# score = clf.score(X_val, y_val)
-	# print("naive bayes:", score)
-
-def SVM(X_train, X_val, y_train, y_val):
-	print("*** SVM ***")
-
-	scaler = MinMaxScaler()
-	scaler.fit(np.append(np.array(X_train), np.array(X_val),axis=0))
-	X_train = scaler.transform(X_train)
-	X_val = scaler.transform(X_val)
-
-	clf = svm.SVC()
-	
-	score_cv = cross_val_score(clf,X_train,y_train,scoring='accuracy',cv=5,n_jobs=1)
+	score_cv = cross_val_score(clf,X_train,y_train,scoring='accuracy',cv=3,n_jobs=1)
 	print("svm score cv:", np.mean(score_cv), max(score_cv), min(score_cv), np.std(score_cv))
 
-	# clf.fit(X_train, y_train)
-	# score = clf.score(X_val, y_val)
-	# print("naive bayes:", score)
+	clf.fit(X_train, y_train)
+	score = clf.score(X_val, y_val)
+	print("\tsvm:", score)
+
+	Util.plotConfMatrix(y_val, clf.predict(X_val), clf.classes_, "SVM")
+
+	return clf
 
 def execute():
 	X, y = carregar_features()
 
-	c = list(zip(X, y))
-	random.shuffle(c)
-	X, y = zip(*c)
-	X = np.array(list(X))
-	y = np.array(list(y))
+	X_train, X_val, y_train, y_val = train_test_split(X, y, test_size=0.2, random_state=0)
+	X_train = np.array(X_train)
+	X_val = np.array(X_val)
 
-	total = len(X)
-	prop = int(total/10)
-	print("Tamanho do dataset:",total)
-	print("Tamanho para treinamento:",total-prop)
-	print("Tamanho para testes:",prop)
+	print("Tamanho do dataset de treino:", len(X_train))
+	print("Tamanho do dataset de validacao:", len(X_val))
 
-	X_train = X[:(total-prop)]
-	X_val = X[(total-prop):]
-	y_train = y[:(total-prop)]
-	y_val = y[(total-prop):]
-
-	naive_bayes(X_train, X_val, y_train, y_val)
-	neural_network(X_train, X_val, y_train, y_val)
-	decision_tree(X_train, X_val, y_train, y_val)
-	#xgboost(X_train, X_val, y_train, y_val)
-	knn(X_train, X_val, y_train, y_val)
-	random_forest(X_train, X_val, y_train, y_val)
-	SVM(X_train, X_val, y_train, y_val)
+	clf_nb = naive_bayes(X_train, X_val, y_train, y_val)
+	clf_dt = decision_tree(X_train, X_val, y_train, y_val)
+	clf_nn = neural_network(X_train, X_val, y_train, y_val, hidden_layer_sizes=[1000],activation='relu',solver='adam',max_iter=500)
+	clf_xgb = xgboost(X_train, X_val, y_train, y_val,nthread=8,
+		objective='multi:softmax', # fnc obj para multiclass
+		learning_rate=0.2, # eta # tantar diminuir p/ evitar overfit
+		max_depth=3, # profundidade max das arvores
+		n_estimators=100 # qtd de arvores
+		)
+	clf_svm = SVM(X_train, X_val, y_train, y_val,C=1500,kernel='rbf',gamma=5)
