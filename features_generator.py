@@ -9,6 +9,7 @@ from sparsesvd import sparsesvd
 from sklearn.feature_extraction.text import TfidfVectorizer
 import logging
 import numpy as np
+import pickle
 
 
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
@@ -31,36 +32,12 @@ def carregar_dados():
 
 	return (texts, y)
 
-def train_w2v(texts, n_dim):
-    model = Word2Vec(texts, size=n_dim, workers=4, iter=1000, min_count=1)
+def vetor_medio(X, word2vec):
 
-    return model
+	media = pickle.load(open("media.txt","rb"))
 
-def vetor_medio(texts, model):
 	return np.array([
-		np.mean([model[w] for w in words], axis=0) for words in texts])
-
-def gerar_features(textos, labels):
-	# vectorizer = CountVectorizer(ngram_range=(1,3),binary=True)
-	vectorizer = TfidfVectorizer(ngram_range=(1, 3))
-
-	categorias = []
-
-	X = vectorizer.fit_transform(textos)
-	y = []
-
-	print("Shape de X antes do SVD: ", X.shape)
-
-	X = X.tocsc()
-	X, Sigma, VT = sparsesvd(X, 150)
-	X = X.transpose()
-
-	print("Shape de X depois do SVD: ", X.shape)
-
-	# plt.scatter(range(len(Sigma)), Sigma)
-	# plt.show()
-
-	return (X.tolist(), labels)
+		np.mean([word2vec[w] for w in words if w in word2vec] or [media], axis=0) for words in X])
 
 def salvar_features(features_x, features_y):
 	with open(FEATURES_FILE, 'w') as f:
@@ -72,9 +49,7 @@ def salvar_features(features_x, features_y):
 
 def execute():
 	print("\n*** Geração das features ***\n")
-	texts, categoria = carregar_dados()
-	#features_x, features_y = gerar_features(textos, labels)
-	n_dim = 300
-	model = train_w2v(texts, n_dim)
-	features_x = vetor_medio(texts, model)
+	sentenca, categoria = carregar_dados()
+	model = pickle.load(open("w2v.txt","rb"))
+	features_x = vetor_medio(sentenca, model)
 	salvar_features(features_x, categoria)
